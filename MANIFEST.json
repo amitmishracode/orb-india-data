@@ -8910,6 +8910,15 @@
    "source": "nse",
    "url": "https://nsearchives.nseindia.com/content/historical/EQUITIES/2019/APR/cm01APR2019bhav.csv.zip"
   },
+  "raw/nse/cm_bhavcopy/2019/cm01AUG2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:17:09+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "cm01AUG2019bhav.csv.zip",
+   "sha256": "4a6df1449a8f29e346405bda1cf32e752affb742228d3523d0cd8396ebbd190c",
+   "size_bytes": 67950,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/EQUITIES/2019/AUG/cm01AUG2019bhav.csv.zip"
+  },
   "raw/nse/cm_bhavcopy/2019/cm01FEB2019bhav.csv.zip": {
    "downloaded_at": "2026-10-03T19:58:32+00:00",
    "host": "nsearchives.nseindia.com",
@@ -8928,6 +8937,15 @@
    "source": "nse",
    "url": "https://nsearchives.nseindia.com/content/historical/EQUITIES/2019/JAN/cm01JAN2019bhav.csv.zip"
   },
+  "raw/nse/cm_bhavcopy/2019/cm01JUL2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:16:24+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "cm01JUL2019bhav.csv.zip",
+   "sha256": "a6831c4867a23ad389f9f4f5655db98b1988f2f107674cef34dd31398fce1c62",
+   "size_bytes": 68040,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/EQUITIES/2019/JUL/cm01JUL2019bhav.csv.zip"
+  },
   "raw/nse/cm_bhavcopy/2019/cm01MAR2019bhav.csv.zip": {
    "downloaded_at": "2026-10-03T19:59:12+00:00",
    "host": "nsearchives.nseindia.com",
@@ -8936,6 +8954,24 @@
    "size_bytes": 68102,
    "source": "nse",
    "url": "https://nsearchives.nseindia.com/content/historical/EQUITIES/2019/MAR/cm01MAR2019bhav.csv.zip"
+  },
+  "raw/nse/cm_bhavcopy/2019/cm01NOV2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:19:26+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "cm01NOV2019bhav.csv.zip",
+   "sha256": "4b4fddeeaf44abe3aee90dd8680b53ea2ed99adb0673fa57c79648181181baa6",
+   "size_bytes": 69268,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/EQUITIES/2019/NOV/cm01NOV2019bhav.csv.zip"
+  },
+  "raw/nse/cm_bhavcopy/2019/cm01OCT2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:18:37+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "cm01OCT2019bhav.csv.zip",
+   "sha256": "6483ab8e61f5c77ddf189ff87db1ed710b8f607e30af0e497519f37c1a7ef0a6",
+   "size_bytes": 69153,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/EQUITIES/2019/OCT/cm01OCT2019bhav.csv.zip"
   },
   "raw/nse/cm_bhavcopy/2019/cm02APR2019bhav.csv.zip": {
    "downloaded_at": "2026-10-03T19:59:56+00:00",
@@ -8946,6 +8982,24 @@
    "source": "nse",
    "url": "https://nsearchives.nseindia.com/content/historical/EQUITIES/2019/APR/cm02APR2019bhav.csv.zip"
   },
+  "raw/nse/cm_bhavcopy/2019/cm02AUG2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:17:12+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "cm02AUG2019bhav.csv.zip",
+   "sha256": "81448c94d0fca6352e7ca337aa218070b40170ee98275059e751c1c7107f8d53",
+   "size_bytes": 67647,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/EQUITIES/2019/AUG/cm02AUG2019bhav.csv.zip"
+  },
+  "raw/nse/cm_bhavcopy/2019/cm02DEC2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:20:08+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "cm02DEC2019bhav.csv.zip",
+   "sha256": "f2a7e727f46af11919d94b799227a7eb44b1ea0617137302bde2b6c447fc12ba",
+   "size_bytes": 69201,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/EQUITIES/2019/DEC/cm02DEC2019bhav.csv.zip"
+  },
   "raw/nse/cm_bhavcopy/2019/cm02JAN2019bhav.csv.zip": {
    "downloaded_at": "2026-10-03T19:57:48+00:00",
    "host": "nsearchives.nseindia.com",
@@ -8954,6 +9008,15 @@
    "size_bytes": 67113,
    "source": "nse",
    "url": "https://nsearchives.nseindia.com/content/historical/EQUITIES/2019/JAN/cm02JAN2019bhav.csv.zip"
+  },
+  "raw/nse/cm_bhavcopy/2019/cm02JUL2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:16:25+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "cm02JUL2019bhav.csv.zip",
+   "sha256": "7c5552b93632ecd07c3dcec780e4e6144ea13982247355fb3fad52543302ca18",
+   "size_bytes": 67161,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/EQUITIES/2019/JUL/cm02JUL2019bhav.csv.zip"
   },
   "raw/nse/cm_bhavcopy/2019/cm02MAY2019bhav.csv.zip": {
    "downloaded_at": "2026-10-03T20:00:40+00:00",
@@ -8973,6 +9036,15 @@
    "source": "nse",
    "url": "https://nsearchives.nseindia.com/content/historical/EQUITIES/2019/APR/cm03APR2019bhav.csv.zip"
   },
+  "raw/nse/cm_bhavcopy/2019/cm03DEC2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:20:10+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "cm03DEC2019bhav.csv.zip",
+   "sha256": "9c6ee64b88e4786b1eefca5d9846da4f7ec0c0a389d3a6e18c7bcb1e1178ff03",
+   "size_bytes": 68564,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/EQUITIES/2019/DEC/cm03DEC2019bhav.csv.zip"
+  },
   "raw/nse/cm_bhavcopy/2019/cm03JAN2019bhav.csv.zip": {
    "downloaded_at": "2026-10-03T19:57:50+00:00",
    "host": "nsearchives.nseindia.com",
@@ -8981,6 +9053,15 @@
    "size_bytes": 67123,
    "source": "nse",
    "url": "https://nsearchives.nseindia.com/content/historical/EQUITIES/2019/JAN/cm03JAN2019bhav.csv.zip"
+  },
+  "raw/nse/cm_bhavcopy/2019/cm03JUL2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:16:28+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "cm03JUL2019bhav.csv.zip",
+   "sha256": "80121ff2c8a4b05600ad075316aaa82c9e7d4f543c9b030e53d4dc7e4eb5f373",
+   "size_bytes": 66969,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/EQUITIES/2019/JUL/cm03JUL2019bhav.csv.zip"
   },
   "raw/nse/cm_bhavcopy/2019/cm03JUN2019bhav.csv.zip": {
    "downloaded_at": "2026-10-03T20:01:24+00:00",
@@ -9000,6 +9081,24 @@
    "source": "nse",
    "url": "https://nsearchives.nseindia.com/content/historical/EQUITIES/2019/MAY/cm03MAY2019bhav.csv.zip"
   },
+  "raw/nse/cm_bhavcopy/2019/cm03OCT2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:18:41+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "cm03OCT2019bhav.csv.zip",
+   "sha256": "53d9a6a08a107b4ee8c22191c4d0a7947a0570990c77155ce1fbe479ffc25263",
+   "size_bytes": 68608,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/EQUITIES/2019/OCT/cm03OCT2019bhav.csv.zip"
+  },
+  "raw/nse/cm_bhavcopy/2019/cm03SEP2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:17:55+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "cm03SEP2019bhav.csv.zip",
+   "sha256": "2b9be6aafb0a2ee8ff893f92d5683478a8947449862a8a78e96c8a33307484ff",
+   "size_bytes": 67305,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/EQUITIES/2019/SEP/cm03SEP2019bhav.csv.zip"
+  },
   "raw/nse/cm_bhavcopy/2019/cm04APR2019bhav.csv.zip": {
    "downloaded_at": "2026-10-03T20:00:00+00:00",
    "host": "nsearchives.nseindia.com",
@@ -9008,6 +9107,15 @@
    "size_bytes": 68546,
    "source": "nse",
    "url": "https://nsearchives.nseindia.com/content/historical/EQUITIES/2019/APR/cm04APR2019bhav.csv.zip"
+  },
+  "raw/nse/cm_bhavcopy/2019/cm04DEC2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:20:12+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "cm04DEC2019bhav.csv.zip",
+   "sha256": "c2f17f9b79b465467cdc02e647ffa86d6d5d33dfc0b9776fb20602bafcda86e6",
+   "size_bytes": 68923,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/EQUITIES/2019/DEC/cm04DEC2019bhav.csv.zip"
   },
   "raw/nse/cm_bhavcopy/2019/cm04FEB2019bhav.csv.zip": {
    "downloaded_at": "2026-10-03T19:58:34+00:00",
@@ -9027,6 +9135,15 @@
    "source": "nse",
    "url": "https://nsearchives.nseindia.com/content/historical/EQUITIES/2019/JAN/cm04JAN2019bhav.csv.zip"
   },
+  "raw/nse/cm_bhavcopy/2019/cm04JUL2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:16:29+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "cm04JUL2019bhav.csv.zip",
+   "sha256": "9b07150c21d1c9f03aeec1330f3d129178692e09637ec971edfcad06fd8bab5b",
+   "size_bytes": 67495,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/EQUITIES/2019/JUL/cm04JUL2019bhav.csv.zip"
+  },
   "raw/nse/cm_bhavcopy/2019/cm04JUN2019bhav.csv.zip": {
    "downloaded_at": "2026-10-03T20:01:27+00:00",
    "host": "nsearchives.nseindia.com",
@@ -9035,6 +9152,33 @@
    "size_bytes": 69298,
    "source": "nse",
    "url": "https://nsearchives.nseindia.com/content/historical/EQUITIES/2019/JUN/cm04JUN2019bhav.csv.zip"
+  },
+  "raw/nse/cm_bhavcopy/2019/cm04NOV2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:19:28+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "cm04NOV2019bhav.csv.zip",
+   "sha256": "35f191ed36a7bd85cd730e05fb580ca8b83358569439636581ccadc29d2d7550",
+   "size_bytes": 69726,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/EQUITIES/2019/NOV/cm04NOV2019bhav.csv.zip"
+  },
+  "raw/nse/cm_bhavcopy/2019/cm04OCT2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:18:43+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "cm04OCT2019bhav.csv.zip",
+   "sha256": "35b95a965a4ad93dfcf02cfddb0bdb89fb8f52fe9333761a71abc1dc8fd10833",
+   "size_bytes": 68345,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/EQUITIES/2019/OCT/cm04OCT2019bhav.csv.zip"
+  },
+  "raw/nse/cm_bhavcopy/2019/cm04SEP2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:17:57+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "cm04SEP2019bhav.csv.zip",
+   "sha256": "73a572c3863060c5e5d18f0419794adcf7ee28ef26911f0ef845666647693832",
+   "size_bytes": 66673,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/EQUITIES/2019/SEP/cm04SEP2019bhav.csv.zip"
   },
   "raw/nse/cm_bhavcopy/2019/cm05APR2019bhav.csv.zip": {
    "downloaded_at": "2026-10-03T20:00:02+00:00",
@@ -9045,6 +9189,24 @@
    "source": "nse",
    "url": "https://nsearchives.nseindia.com/content/historical/EQUITIES/2019/APR/cm05APR2019bhav.csv.zip"
   },
+  "raw/nse/cm_bhavcopy/2019/cm05AUG2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:17:13+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "cm05AUG2019bhav.csv.zip",
+   "sha256": "e3b8fcab5fa3ebe327d0cec7aa33d22ddb78337fb419448fe8e13ab60221d2d6",
+   "size_bytes": 68098,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/EQUITIES/2019/AUG/cm05AUG2019bhav.csv.zip"
+  },
+  "raw/nse/cm_bhavcopy/2019/cm05DEC2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:20:14+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "cm05DEC2019bhav.csv.zip",
+   "sha256": "4e971ab066b109f4e252839bd3fa1bdbaae3811a1c3e040c1301b321747bab77",
+   "size_bytes": 69043,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/EQUITIES/2019/DEC/cm05DEC2019bhav.csv.zip"
+  },
   "raw/nse/cm_bhavcopy/2019/cm05FEB2019bhav.csv.zip": {
    "downloaded_at": "2026-10-03T19:58:36+00:00",
    "host": "nsearchives.nseindia.com",
@@ -9054,6 +9216,15 @@
    "source": "nse",
    "url": "https://nsearchives.nseindia.com/content/historical/EQUITIES/2019/FEB/cm05FEB2019bhav.csv.zip"
   },
+  "raw/nse/cm_bhavcopy/2019/cm05JUL2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:16:31+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "cm05JUL2019bhav.csv.zip",
+   "sha256": "4a7d45a19e805d559c96fb6ba37b8bb1e35bc835ee74c4784a03a32b4d8ce270",
+   "size_bytes": 67218,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/EQUITIES/2019/JUL/cm05JUL2019bhav.csv.zip"
+  },
   "raw/nse/cm_bhavcopy/2019/cm05MAR2019bhav.csv.zip": {
    "downloaded_at": "2026-10-03T19:59:16+00:00",
    "host": "nsearchives.nseindia.com",
@@ -9062,6 +9233,42 @@
    "size_bytes": 70280,
    "source": "nse",
    "url": "https://nsearchives.nseindia.com/content/historical/EQUITIES/2019/MAR/cm05MAR2019bhav.csv.zip"
+  },
+  "raw/nse/cm_bhavcopy/2019/cm05NOV2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:19:30+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "cm05NOV2019bhav.csv.zip",
+   "sha256": "f1bd47476acd621d122ca60597ea936946930139f36173f336a46409321b19f4",
+   "size_bytes": 68912,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/EQUITIES/2019/NOV/cm05NOV2019bhav.csv.zip"
+  },
+  "raw/nse/cm_bhavcopy/2019/cm05SEP2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:17:59+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "cm05SEP2019bhav.csv.zip",
+   "sha256": "20bd08a2e5c24c71601f189bee2f30aa1805681433bff2c209e8810731ac663c",
+   "size_bytes": 67018,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/EQUITIES/2019/SEP/cm05SEP2019bhav.csv.zip"
+  },
+  "raw/nse/cm_bhavcopy/2019/cm06AUG2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:17:16+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "cm06AUG2019bhav.csv.zip",
+   "sha256": "dffec9715f333fa3c0c480e7b766384b79757c38beea4a60795fbd21725933b0",
+   "size_bytes": 68035,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/EQUITIES/2019/AUG/cm06AUG2019bhav.csv.zip"
+  },
+  "raw/nse/cm_bhavcopy/2019/cm06DEC2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:20:16+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "cm06DEC2019bhav.csv.zip",
+   "sha256": "b0112fddaf8cbe0c6e13ecf7c4bcb7f0289f23b966795765cb59c3874f479541",
+   "size_bytes": 68740,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/EQUITIES/2019/DEC/cm06DEC2019bhav.csv.zip"
   },
   "raw/nse/cm_bhavcopy/2019/cm06FEB2019bhav.csv.zip": {
    "downloaded_at": "2026-10-03T19:58:38+00:00",
@@ -9098,6 +9305,33 @@
    "size_bytes": 68253,
    "source": "nse",
    "url": "https://nsearchives.nseindia.com/content/historical/EQUITIES/2019/MAY/cm06MAY2019bhav.csv.zip"
+  },
+  "raw/nse/cm_bhavcopy/2019/cm06NOV2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:19:32+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "cm06NOV2019bhav.csv.zip",
+   "sha256": "569ac3f4be01bc0532fc3a6d174c98f60eced490b845abeeef2a52bdbbc8d3f5",
+   "size_bytes": 68962,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/EQUITIES/2019/NOV/cm06NOV2019bhav.csv.zip"
+  },
+  "raw/nse/cm_bhavcopy/2019/cm06SEP2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:18:01+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "cm06SEP2019bhav.csv.zip",
+   "sha256": "4f9fb8b22d6cb655907e577ef76dbcb6851ddfa9d10ec0de9cb41632072f9c5c",
+   "size_bytes": 67654,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/EQUITIES/2019/SEP/cm06SEP2019bhav.csv.zip"
+  },
+  "raw/nse/cm_bhavcopy/2019/cm07AUG2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:17:17+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "cm07AUG2019bhav.csv.zip",
+   "sha256": "8e5d9ca95e28514ba8e7e42534bcd30dd014d63de9ac205b927ee3c5e28ffe57",
+   "size_bytes": 68065,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/EQUITIES/2019/AUG/cm07AUG2019bhav.csv.zip"
   },
   "raw/nse/cm_bhavcopy/2019/cm07FEB2019bhav.csv.zip": {
    "downloaded_at": "2026-10-03T19:58:40+00:00",
@@ -9144,6 +9378,24 @@
    "source": "nse",
    "url": "https://nsearchives.nseindia.com/content/historical/EQUITIES/2019/MAY/cm07MAY2019bhav.csv.zip"
   },
+  "raw/nse/cm_bhavcopy/2019/cm07NOV2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:19:34+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "cm07NOV2019bhav.csv.zip",
+   "sha256": "2e2f19b259f9c1cd5396124b9e10c7eee6af9744ad022cfc1622e727ce93aab0",
+   "size_bytes": 68359,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/EQUITIES/2019/NOV/cm07NOV2019bhav.csv.zip"
+  },
+  "raw/nse/cm_bhavcopy/2019/cm07OCT2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:18:45+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "cm07OCT2019bhav.csv.zip",
+   "sha256": "3320f4da5fbb57adc953d5af57a648d100b98150c33d04cbf1de556c44bb3f07",
+   "size_bytes": 68583,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/EQUITIES/2019/OCT/cm07OCT2019bhav.csv.zip"
+  },
   "raw/nse/cm_bhavcopy/2019/cm08APR2019bhav.csv.zip": {
    "downloaded_at": "2026-10-03T20:00:04+00:00",
    "host": "nsearchives.nseindia.com",
@@ -9152,6 +9404,15 @@
    "size_bytes": 68756,
    "source": "nse",
    "url": "https://nsearchives.nseindia.com/content/historical/EQUITIES/2019/APR/cm08APR2019bhav.csv.zip"
+  },
+  "raw/nse/cm_bhavcopy/2019/cm08AUG2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:17:19+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "cm08AUG2019bhav.csv.zip",
+   "sha256": "9f9d4f06446c38ab6e0920b75a7317d450fff7e20b3f3768d8f725ca8ccddfa5",
+   "size_bytes": 67383,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/EQUITIES/2019/AUG/cm08AUG2019bhav.csv.zip"
   },
   "raw/nse/cm_bhavcopy/2019/cm08FEB2019bhav.csv.zip": {
    "downloaded_at": "2026-10-03T19:58:42+00:00",
@@ -9171,6 +9432,15 @@
    "source": "nse",
    "url": "https://nsearchives.nseindia.com/content/historical/EQUITIES/2019/JAN/cm08JAN2019bhav.csv.zip"
   },
+  "raw/nse/cm_bhavcopy/2019/cm08JUL2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:16:33+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "cm08JUL2019bhav.csv.zip",
+   "sha256": "9b3cf5aa2a57355088081db9a803dccdfe969d277247916033b30df2450fed2f",
+   "size_bytes": 68369,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/EQUITIES/2019/JUL/cm08JUL2019bhav.csv.zip"
+  },
   "raw/nse/cm_bhavcopy/2019/cm08MAR2019bhav.csv.zip": {
    "downloaded_at": "2026-10-03T19:59:22+00:00",
    "host": "nsearchives.nseindia.com",
@@ -9189,6 +9459,15 @@
    "source": "nse",
    "url": "https://nsearchives.nseindia.com/content/historical/EQUITIES/2019/MAY/cm08MAY2019bhav.csv.zip"
   },
+  "raw/nse/cm_bhavcopy/2019/cm08NOV2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:19:36+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "cm08NOV2019bhav.csv.zip",
+   "sha256": "897a9347a2b896cd00465bfe4835600e0c3064d3536878514f800c10c6b008a8",
+   "size_bytes": 68699,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/EQUITIES/2019/NOV/cm08NOV2019bhav.csv.zip"
+  },
   "raw/nse/cm_bhavcopy/2019/cm09APR2019bhav.csv.zip": {
    "downloaded_at": "2026-10-03T20:00:06+00:00",
    "host": "nsearchives.nseindia.com",
@@ -9197,6 +9476,24 @@
    "size_bytes": 68294,
    "source": "nse",
    "url": "https://nsearchives.nseindia.com/content/historical/EQUITIES/2019/APR/cm09APR2019bhav.csv.zip"
+  },
+  "raw/nse/cm_bhavcopy/2019/cm09AUG2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:17:21+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "cm09AUG2019bhav.csv.zip",
+   "sha256": "28c43a964a1099ba54a7568bcb5184d9b0ceb6870b4a0632b220390cde1b7c52",
+   "size_bytes": 67786,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/EQUITIES/2019/AUG/cm09AUG2019bhav.csv.zip"
+  },
+  "raw/nse/cm_bhavcopy/2019/cm09DEC2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:20:18+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "cm09DEC2019bhav.csv.zip",
+   "sha256": "d74c1265bf4c5d8b1c2230c7756dc557d91989d40e6321bcad3bf26df4f8185d",
+   "size_bytes": 69196,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/EQUITIES/2019/DEC/cm09DEC2019bhav.csv.zip"
   },
   "raw/nse/cm_bhavcopy/2019/cm09JAN2019bhav.csv.zip": {
    "downloaded_at": "2026-10-03T19:57:58+00:00",
@@ -9207,6 +9504,15 @@
    "source": "nse",
    "url": "https://nsearchives.nseindia.com/content/historical/EQUITIES/2019/JAN/cm09JAN2019bhav.csv.zip"
   },
+  "raw/nse/cm_bhavcopy/2019/cm09JUL2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:16:36+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "cm09JUL2019bhav.csv.zip",
+   "sha256": "b6c2cfebe78fe877b6e6ddcace9fbd48b4e59673b06e14ab23b3d5cd871f0a85",
+   "size_bytes": 67140,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/EQUITIES/2019/JUL/cm09JUL2019bhav.csv.zip"
+  },
   "raw/nse/cm_bhavcopy/2019/cm09MAY2019bhav.csv.zip": {
    "downloaded_at": "2026-10-03T20:00:50+00:00",
    "host": "nsearchives.nseindia.com",
@@ -9215,6 +9521,24 @@
    "size_bytes": 67682,
    "source": "nse",
    "url": "https://nsearchives.nseindia.com/content/historical/EQUITIES/2019/MAY/cm09MAY2019bhav.csv.zip"
+  },
+  "raw/nse/cm_bhavcopy/2019/cm09OCT2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:18:49+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "cm09OCT2019bhav.csv.zip",
+   "sha256": "c6b3a208227aa32e206d481f90838da2cd43e7236469968bd267356ee4a3851f",
+   "size_bytes": 68626,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/EQUITIES/2019/OCT/cm09OCT2019bhav.csv.zip"
+  },
+  "raw/nse/cm_bhavcopy/2019/cm09SEP2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:18:04+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "cm09SEP2019bhav.csv.zip",
+   "sha256": "e57322ec8f059fd933847dad0c338aee32c35b22cd2be14b579af9fae0cddced",
+   "size_bytes": 68146,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/EQUITIES/2019/SEP/cm09SEP2019bhav.csv.zip"
   },
   "raw/nse/cm_bhavcopy/2019/cm10APR2019bhav.csv.zip": {
    "downloaded_at": "2026-10-03T20:00:08+00:00",
@@ -9225,6 +9549,15 @@
    "source": "nse",
    "url": "https://nsearchives.nseindia.com/content/historical/EQUITIES/2019/APR/cm10APR2019bhav.csv.zip"
   },
+  "raw/nse/cm_bhavcopy/2019/cm10DEC2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:20:20+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "cm10DEC2019bhav.csv.zip",
+   "sha256": "148e1e9bac4d3c0f2d2715da34580d0d5e14aa34fa03233ff1917987f3f44980",
+   "size_bytes": 68590,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/EQUITIES/2019/DEC/cm10DEC2019bhav.csv.zip"
+  },
   "raw/nse/cm_bhavcopy/2019/cm10JAN2019bhav.csv.zip": {
    "downloaded_at": "2026-10-03T19:58:00+00:00",
    "host": "nsearchives.nseindia.com",
@@ -9233,6 +9566,15 @@
    "size_bytes": 67119,
    "source": "nse",
    "url": "https://nsearchives.nseindia.com/content/historical/EQUITIES/2019/JAN/cm10JAN2019bhav.csv.zip"
+  },
+  "raw/nse/cm_bhavcopy/2019/cm10JUL2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:16:37+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "cm10JUL2019bhav.csv.zip",
+   "sha256": "b830954858844b0758f2e6f3efd763431e3d7ac41cad95c6a581ccccabbc4184",
+   "size_bytes": 67218,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/EQUITIES/2019/JUL/cm10JUL2019bhav.csv.zip"
   },
   "raw/nse/cm_bhavcopy/2019/cm10JUN2019bhav.csv.zip": {
    "downloaded_at": "2026-10-03T20:01:34+00:00",
@@ -9252,6 +9594,15 @@
    "source": "nse",
    "url": "https://nsearchives.nseindia.com/content/historical/EQUITIES/2019/MAY/cm10MAY2019bhav.csv.zip"
   },
+  "raw/nse/cm_bhavcopy/2019/cm10OCT2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:18:51+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "cm10OCT2019bhav.csv.zip",
+   "sha256": "4ec3d52a03bf451d36a549dda44bf7b5c1db8ccdcc7971a220438f23713e43da",
+   "size_bytes": 67937,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/EQUITIES/2019/OCT/cm10OCT2019bhav.csv.zip"
+  },
   "raw/nse/cm_bhavcopy/2019/cm11APR2019bhav.csv.zip": {
    "downloaded_at": "2026-10-03T20:00:10+00:00",
    "host": "nsearchives.nseindia.com",
@@ -9260,6 +9611,15 @@
    "size_bytes": 67477,
    "source": "nse",
    "url": "https://nsearchives.nseindia.com/content/historical/EQUITIES/2019/APR/cm11APR2019bhav.csv.zip"
+  },
+  "raw/nse/cm_bhavcopy/2019/cm11DEC2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:20:22+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "cm11DEC2019bhav.csv.zip",
+   "sha256": "711b90dc94e8787ee372047902b3d9dc993c633b05a4b6b0aa387307a76ac4a3",
+   "size_bytes": 68165,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/EQUITIES/2019/DEC/cm11DEC2019bhav.csv.zip"
   },
   "raw/nse/cm_bhavcopy/2019/cm11FEB2019bhav.csv.zip": {
    "downloaded_at": "2026-10-03T19:58:44+00:00",
@@ -9279,6 +9639,15 @@
    "source": "nse",
    "url": "https://nsearchives.nseindia.com/content/historical/EQUITIES/2019/JAN/cm11JAN2019bhav.csv.zip"
   },
+  "raw/nse/cm_bhavcopy/2019/cm11JUL2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:16:39+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "cm11JUL2019bhav.csv.zip",
+   "sha256": "e95edff0f744e6feed45d3da80f65a383b746e5ee5623e0713b7555dd90630c1",
+   "size_bytes": 66702,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/EQUITIES/2019/JUL/cm11JUL2019bhav.csv.zip"
+  },
   "raw/nse/cm_bhavcopy/2019/cm11JUN2019bhav.csv.zip": {
    "downloaded_at": "2026-10-03T20:01:37+00:00",
    "host": "nsearchives.nseindia.com",
@@ -9297,6 +9666,33 @@
    "source": "nse",
    "url": "https://nsearchives.nseindia.com/content/historical/EQUITIES/2019/MAR/cm11MAR2019bhav.csv.zip"
   },
+  "raw/nse/cm_bhavcopy/2019/cm11NOV2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:19:38+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "cm11NOV2019bhav.csv.zip",
+   "sha256": "19aa8273a98a4bdd37aa8d733f97d4066db7e932e94c7b1d13df7b816c73b2b9",
+   "size_bytes": 68970,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/EQUITIES/2019/NOV/cm11NOV2019bhav.csv.zip"
+  },
+  "raw/nse/cm_bhavcopy/2019/cm11OCT2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:18:53+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "cm11OCT2019bhav.csv.zip",
+   "sha256": "f358b52992cb3ba4c13d0759f3836800af101e11bd4027f62fe06934dcacb6fd",
+   "size_bytes": 68193,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/EQUITIES/2019/OCT/cm11OCT2019bhav.csv.zip"
+  },
+  "raw/nse/cm_bhavcopy/2019/cm11SEP2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:18:08+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "cm11SEP2019bhav.csv.zip",
+   "sha256": "c597ba8274aabb382b6b563f90270a5c4716ea3c2560ae7deeefec9d05b24acc",
+   "size_bytes": 69333,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/EQUITIES/2019/SEP/cm11SEP2019bhav.csv.zip"
+  },
   "raw/nse/cm_bhavcopy/2019/cm12APR2019bhav.csv.zip": {
    "downloaded_at": "2026-10-03T20:00:12+00:00",
    "host": "nsearchives.nseindia.com",
@@ -9306,6 +9702,15 @@
    "source": "nse",
    "url": "https://nsearchives.nseindia.com/content/historical/EQUITIES/2019/APR/cm12APR2019bhav.csv.zip"
   },
+  "raw/nse/cm_bhavcopy/2019/cm12DEC2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:20:26+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "cm12DEC2019bhav.csv.zip",
+   "sha256": "c02944822395e029e8cd91e8544b2a4bf78966f4af0c03ca7f913177fddb5983",
+   "size_bytes": 68747,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/EQUITIES/2019/DEC/cm12DEC2019bhav.csv.zip"
+  },
   "raw/nse/cm_bhavcopy/2019/cm12FEB2019bhav.csv.zip": {
    "downloaded_at": "2026-10-03T19:58:46+00:00",
    "host": "nsearchives.nseindia.com",
@@ -9314,6 +9719,15 @@
    "size_bytes": 67723,
    "source": "nse",
    "url": "https://nsearchives.nseindia.com/content/historical/EQUITIES/2019/FEB/cm12FEB2019bhav.csv.zip"
+  },
+  "raw/nse/cm_bhavcopy/2019/cm12JUL2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:16:41+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "cm12JUL2019bhav.csv.zip",
+   "sha256": "a8b186a099bcc32b5ca14ead65c429229460b967cdc5deff8105171e9a302bdd",
+   "size_bytes": 67012,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/EQUITIES/2019/JUL/cm12JUL2019bhav.csv.zip"
   },
   "raw/nse/cm_bhavcopy/2019/cm12JUN2019bhav.csv.zip": {
    "downloaded_at": "2026-10-03T20:01:40+00:00",
@@ -9332,6 +9746,33 @@
    "size_bytes": 69797,
    "source": "nse",
    "url": "https://nsearchives.nseindia.com/content/historical/EQUITIES/2019/MAR/cm12MAR2019bhav.csv.zip"
+  },
+  "raw/nse/cm_bhavcopy/2019/cm12SEP2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:18:10+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "cm12SEP2019bhav.csv.zip",
+   "sha256": "bf3cabb17afb1f7f5f84af3b8f72b97dd80809b36b055cb53759a8d928852210",
+   "size_bytes": 68695,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/EQUITIES/2019/SEP/cm12SEP2019bhav.csv.zip"
+  },
+  "raw/nse/cm_bhavcopy/2019/cm13AUG2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:17:25+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "cm13AUG2019bhav.csv.zip",
+   "sha256": "21eb10b4b59b281da359da3194952fd30aa4be9f19fb4a3aced37e7b977f413e",
+   "size_bytes": 67888,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/EQUITIES/2019/AUG/cm13AUG2019bhav.csv.zip"
+  },
+  "raw/nse/cm_bhavcopy/2019/cm13DEC2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:20:27+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "cm13DEC2019bhav.csv.zip",
+   "sha256": "439e1714843ae1abe21c0ec0edb0a32f23c3427f0cbecf7865f7274bce74bd58",
+   "size_bytes": 68830,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/EQUITIES/2019/DEC/cm13DEC2019bhav.csv.zip"
   },
   "raw/nse/cm_bhavcopy/2019/cm13FEB2019bhav.csv.zip": {
    "downloaded_at": "2026-10-03T19:58:48+00:00",
@@ -9368,6 +9809,33 @@
    "size_bytes": 68248,
    "source": "nse",
    "url": "https://nsearchives.nseindia.com/content/historical/EQUITIES/2019/MAY/cm13MAY2019bhav.csv.zip"
+  },
+  "raw/nse/cm_bhavcopy/2019/cm13NOV2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:19:42+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "cm13NOV2019bhav.csv.zip",
+   "sha256": "3b9f7dcd6cfd9fa712f2053c0c0b2417d8e1fb6a06748dbbf33a4b6f905b3967",
+   "size_bytes": 69288,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/EQUITIES/2019/NOV/cm13NOV2019bhav.csv.zip"
+  },
+  "raw/nse/cm_bhavcopy/2019/cm13SEP2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:18:11+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "cm13SEP2019bhav.csv.zip",
+   "sha256": "bb75ec415b6f729d71532b48136b9fd1ea59e679b97d5f3eb73fefdba35a5fb9",
+   "size_bytes": 68774,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/EQUITIES/2019/SEP/cm13SEP2019bhav.csv.zip"
+  },
+  "raw/nse/cm_bhavcopy/2019/cm14AUG2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:17:27+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "cm14AUG2019bhav.csv.zip",
+   "sha256": "0b811d34fe2890f4847af9bbba7e057509fa52306fe38708a17cc590b5cded2d",
+   "size_bytes": 67539,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/EQUITIES/2019/AUG/cm14AUG2019bhav.csv.zip"
   },
   "raw/nse/cm_bhavcopy/2019/cm14FEB2019bhav.csv.zip": {
    "downloaded_at": "2026-10-03T19:58:50+00:00",
@@ -9414,6 +9882,24 @@
    "source": "nse",
    "url": "https://nsearchives.nseindia.com/content/historical/EQUITIES/2019/MAY/cm14MAY2019bhav.csv.zip"
   },
+  "raw/nse/cm_bhavcopy/2019/cm14NOV2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:19:44+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "cm14NOV2019bhav.csv.zip",
+   "sha256": "98a69ca4c1b6bfb2e680e6a6086314482508af5ae4a30df88424fea20f2febc3",
+   "size_bytes": 68455,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/EQUITIES/2019/NOV/cm14NOV2019bhav.csv.zip"
+  },
+  "raw/nse/cm_bhavcopy/2019/cm14OCT2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:18:55+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "cm14OCT2019bhav.csv.zip",
+   "sha256": "9ba7f5681cc5c73db2cb73b74bf7c0695b3dc4eeb6c16ce1c93b22291f6a85dd",
+   "size_bytes": 67792,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/EQUITIES/2019/OCT/cm14OCT2019bhav.csv.zip"
+  },
   "raw/nse/cm_bhavcopy/2019/cm15APR2019bhav.csv.zip": {
    "downloaded_at": "2026-10-03T20:00:14+00:00",
    "host": "nsearchives.nseindia.com",
@@ -9441,6 +9927,15 @@
    "source": "nse",
    "url": "https://nsearchives.nseindia.com/content/historical/EQUITIES/2019/JAN/cm15JAN2019bhav.csv.zip"
   },
+  "raw/nse/cm_bhavcopy/2019/cm15JUL2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:16:43+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "cm15JUL2019bhav.csv.zip",
+   "sha256": "163e5f62d8efe34406dab6e350f7e48d5a1cfe3bf869244426750c1bb3a4063a",
+   "size_bytes": 67995,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/EQUITIES/2019/JUL/cm15JUL2019bhav.csv.zip"
+  },
   "raw/nse/cm_bhavcopy/2019/cm15MAR2019bhav.csv.zip": {
    "downloaded_at": "2026-10-03T19:59:32+00:00",
    "host": "nsearchives.nseindia.com",
@@ -9459,6 +9954,24 @@
    "source": "nse",
    "url": "https://nsearchives.nseindia.com/content/historical/EQUITIES/2019/MAY/cm15MAY2019bhav.csv.zip"
   },
+  "raw/nse/cm_bhavcopy/2019/cm15NOV2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:19:46+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "cm15NOV2019bhav.csv.zip",
+   "sha256": "7f2da5896506d165d613cda60aca05333c5cbf4497c81582044ac21f9f7f763e",
+   "size_bytes": 69680,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/EQUITIES/2019/NOV/cm15NOV2019bhav.csv.zip"
+  },
+  "raw/nse/cm_bhavcopy/2019/cm15OCT2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:18:57+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "cm15OCT2019bhav.csv.zip",
+   "sha256": "64d89524e12659c7eb9cd6b75bc0958d81ebd5f9ec96d78130b68e8a9d467ee2",
+   "size_bytes": 67773,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/EQUITIES/2019/OCT/cm15OCT2019bhav.csv.zip"
+  },
   "raw/nse/cm_bhavcopy/2019/cm16APR2019bhav.csv.zip": {
    "downloaded_at": "2026-10-03T20:00:16+00:00",
    "host": "nsearchives.nseindia.com",
@@ -9467,6 +9980,24 @@
    "size_bytes": 68828,
    "source": "nse",
    "url": "https://nsearchives.nseindia.com/content/historical/EQUITIES/2019/APR/cm16APR2019bhav.csv.zip"
+  },
+  "raw/nse/cm_bhavcopy/2019/cm16AUG2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:17:31+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "cm16AUG2019bhav.csv.zip",
+   "sha256": "d18c5de10c7be49ae5b67d14a66a231467f615247d800039fbdbe2477baf8bbd",
+   "size_bytes": 67601,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/EQUITIES/2019/AUG/cm16AUG2019bhav.csv.zip"
+  },
+  "raw/nse/cm_bhavcopy/2019/cm16DEC2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:20:29+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "cm16DEC2019bhav.csv.zip",
+   "sha256": "0ec67b42e77150ddc95280ae013f8f84b0e9e213f60563ab19c3d2a0ffd11fa3",
+   "size_bytes": 69065,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/EQUITIES/2019/DEC/cm16DEC2019bhav.csv.zip"
   },
   "raw/nse/cm_bhavcopy/2019/cm16JAN2019bhav.csv.zip": {
    "downloaded_at": "2026-10-03T19:58:08+00:00",
@@ -9477,6 +10008,15 @@
    "source": "nse",
    "url": "https://nsearchives.nseindia.com/content/historical/EQUITIES/2019/JAN/cm16JAN2019bhav.csv.zip"
   },
+  "raw/nse/cm_bhavcopy/2019/cm16JUL2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:16:45+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "cm16JUL2019bhav.csv.zip",
+   "sha256": "87602cb07507591d1edcb5d602a226f2b0a0aae29e097b40acd9586079795c70",
+   "size_bytes": 68186,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/EQUITIES/2019/JUL/cm16JUL2019bhav.csv.zip"
+  },
   "raw/nse/cm_bhavcopy/2019/cm16MAY2019bhav.csv.zip": {
    "downloaded_at": "2026-10-03T20:01:00+00:00",
    "host": "nsearchives.nseindia.com",
@@ -9486,6 +10026,33 @@
    "source": "nse",
    "url": "https://nsearchives.nseindia.com/content/historical/EQUITIES/2019/MAY/cm16MAY2019bhav.csv.zip"
   },
+  "raw/nse/cm_bhavcopy/2019/cm16OCT2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:19:00+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "cm16OCT2019bhav.csv.zip",
+   "sha256": "0407d86efb9a4921d1a2abb1bb3db4889b6659757a71157373f1ecb9eca66448",
+   "size_bytes": 68029,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/EQUITIES/2019/OCT/cm16OCT2019bhav.csv.zip"
+  },
+  "raw/nse/cm_bhavcopy/2019/cm16SEP2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:18:13+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "cm16SEP2019bhav.csv.zip",
+   "sha256": "6037a005e14af9eee84e9deceb542c37bee1fc970a3939ee5b8bbd7dd9cbf62b",
+   "size_bytes": 69114,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/EQUITIES/2019/SEP/cm16SEP2019bhav.csv.zip"
+  },
+  "raw/nse/cm_bhavcopy/2019/cm17DEC2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:20:32+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "cm17DEC2019bhav.csv.zip",
+   "sha256": "2e1af74509e3e288b1d304ae8ef811d00af2dac5852cb52f9b3c02025016a015",
+   "size_bytes": 69168,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/EQUITIES/2019/DEC/cm17DEC2019bhav.csv.zip"
+  },
   "raw/nse/cm_bhavcopy/2019/cm17JAN2019bhav.csv.zip": {
    "downloaded_at": "2026-10-03T19:58:10+00:00",
    "host": "nsearchives.nseindia.com",
@@ -9494,6 +10061,15 @@
    "size_bytes": 66933,
    "source": "nse",
    "url": "https://nsearchives.nseindia.com/content/historical/EQUITIES/2019/JAN/cm17JAN2019bhav.csv.zip"
+  },
+  "raw/nse/cm_bhavcopy/2019/cm17JUL2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:16:47+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "cm17JUL2019bhav.csv.zip",
+   "sha256": "8e375dc94cd13e0632dda673db4f4736c64848b75f177b4d5691b5f49affe85e",
+   "size_bytes": 67994,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/EQUITIES/2019/JUL/cm17JUL2019bhav.csv.zip"
   },
   "raw/nse/cm_bhavcopy/2019/cm17JUN2019bhav.csv.zip": {
    "downloaded_at": "2026-10-03T20:01:46+00:00",
@@ -9513,6 +10089,24 @@
    "source": "nse",
    "url": "https://nsearchives.nseindia.com/content/historical/EQUITIES/2019/MAY/cm17MAY2019bhav.csv.zip"
   },
+  "raw/nse/cm_bhavcopy/2019/cm17OCT2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:19:01+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "cm17OCT2019bhav.csv.zip",
+   "sha256": "77eb542d1008e683f65632b48212259be127f51668ea9d0cd6869a2beba8165f",
+   "size_bytes": 68723,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/EQUITIES/2019/OCT/cm17OCT2019bhav.csv.zip"
+  },
+  "raw/nse/cm_bhavcopy/2019/cm17SEP2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:18:15+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "cm17SEP2019bhav.csv.zip",
+   "sha256": "a93025d486ec850f8d4d7ac2bdff9b49acadb83d2c66daa0e8cd680c9adb9ceb",
+   "size_bytes": 68963,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/EQUITIES/2019/SEP/cm17SEP2019bhav.csv.zip"
+  },
   "raw/nse/cm_bhavcopy/2019/cm18APR2019bhav.csv.zip": {
    "downloaded_at": "2026-10-03T20:00:20+00:00",
    "host": "nsearchives.nseindia.com",
@@ -9521,6 +10115,15 @@
    "size_bytes": 69156,
    "source": "nse",
    "url": "https://nsearchives.nseindia.com/content/historical/EQUITIES/2019/APR/cm18APR2019bhav.csv.zip"
+  },
+  "raw/nse/cm_bhavcopy/2019/cm18DEC2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:20:34+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "cm18DEC2019bhav.csv.zip",
+   "sha256": "169fbcbf5c8f3a2fce39dad3146fede175dcfcf5e7c5cfa2cc087c2fbeffad8a",
+   "size_bytes": 68822,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/EQUITIES/2019/DEC/cm18DEC2019bhav.csv.zip"
   },
   "raw/nse/cm_bhavcopy/2019/cm18FEB2019bhav.csv.zip": {
    "downloaded_at": "2026-10-03T19:58:54+00:00",
@@ -9540,6 +10143,15 @@
    "source": "nse",
    "url": "https://nsearchives.nseindia.com/content/historical/EQUITIES/2019/JAN/cm18JAN2019bhav.csv.zip"
   },
+  "raw/nse/cm_bhavcopy/2019/cm18JUL2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:16:50+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "cm18JUL2019bhav.csv.zip",
+   "sha256": "af203fc77d300647364c7e1d724692d3fa95fe54e4e422a9fb32f866ff043fa8",
+   "size_bytes": 67607,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/EQUITIES/2019/JUL/cm18JUL2019bhav.csv.zip"
+  },
   "raw/nse/cm_bhavcopy/2019/cm18JUN2019bhav.csv.zip": {
    "downloaded_at": "2026-10-03T20:01:48+00:00",
    "host": "nsearchives.nseindia.com",
@@ -9558,6 +10170,51 @@
    "source": "nse",
    "url": "https://nsearchives.nseindia.com/content/historical/EQUITIES/2019/MAR/cm18MAR2019bhav.csv.zip"
   },
+  "raw/nse/cm_bhavcopy/2019/cm18NOV2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:19:48+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "cm18NOV2019bhav.csv.zip",
+   "sha256": "bf0ad2aed69580014812eb4b6f8fea70e8219928a05f08ec43ddff8e05c18f9c",
+   "size_bytes": 69237,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/EQUITIES/2019/NOV/cm18NOV2019bhav.csv.zip"
+  },
+  "raw/nse/cm_bhavcopy/2019/cm18OCT2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:19:04+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "cm18OCT2019bhav.csv.zip",
+   "sha256": "56c472b3072f773ba3c63c4e5ad38964afc1d72fbf8c71d10fee6f260f84c101",
+   "size_bytes": 69159,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/EQUITIES/2019/OCT/cm18OCT2019bhav.csv.zip"
+  },
+  "raw/nse/cm_bhavcopy/2019/cm18SEP2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:18:18+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "cm18SEP2019bhav.csv.zip",
+   "sha256": "5385d965bd53c84ceb88a55d6a687b33cb899b0e47b48c5b0926df7be3de6036",
+   "size_bytes": 68371,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/EQUITIES/2019/SEP/cm18SEP2019bhav.csv.zip"
+  },
+  "raw/nse/cm_bhavcopy/2019/cm19AUG2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:17:33+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "cm19AUG2019bhav.csv.zip",
+   "sha256": "f1d0a820ee02ee2689409a8f72032447d9f4855b5d7eab191f32f787a34b7ef5",
+   "size_bytes": 68627,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/EQUITIES/2019/AUG/cm19AUG2019bhav.csv.zip"
+  },
+  "raw/nse/cm_bhavcopy/2019/cm19DEC2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:20:36+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "cm19DEC2019bhav.csv.zip",
+   "sha256": "b8896d74a6d73ead05a4f0dc648a74d50124f1f6ee5e8310ba99d5a4ddcbf650",
+   "size_bytes": 67902,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/EQUITIES/2019/DEC/cm19DEC2019bhav.csv.zip"
+  },
   "raw/nse/cm_bhavcopy/2019/cm19FEB2019bhav.csv.zip": {
    "downloaded_at": "2026-10-03T19:58:56+00:00",
    "host": "nsearchives.nseindia.com",
@@ -9566,6 +10223,15 @@
    "size_bytes": 66876,
    "source": "nse",
    "url": "https://nsearchives.nseindia.com/content/historical/EQUITIES/2019/FEB/cm19FEB2019bhav.csv.zip"
+  },
+  "raw/nse/cm_bhavcopy/2019/cm19JUL2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:16:52+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "cm19JUL2019bhav.csv.zip",
+   "sha256": "ecea58a0b12aa24bc9dc50f6713fc0f1700d7ac77dca5ea16360e35f42c4aa39",
+   "size_bytes": 68465,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/EQUITIES/2019/JUL/cm19JUL2019bhav.csv.zip"
   },
   "raw/nse/cm_bhavcopy/2019/cm19JUN2019bhav.csv.zip": {
    "downloaded_at": "2026-10-03T20:01:50+00:00",
@@ -9584,6 +10250,42 @@
    "size_bytes": 69895,
    "source": "nse",
    "url": "https://nsearchives.nseindia.com/content/historical/EQUITIES/2019/MAR/cm19MAR2019bhav.csv.zip"
+  },
+  "raw/nse/cm_bhavcopy/2019/cm19NOV2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:19:50+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "cm19NOV2019bhav.csv.zip",
+   "sha256": "0a256f488ad463b2128e1e2225c0be8740eae53c83f0d152bdf1500499c08e9b",
+   "size_bytes": 68951,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/EQUITIES/2019/NOV/cm19NOV2019bhav.csv.zip"
+  },
+  "raw/nse/cm_bhavcopy/2019/cm19SEP2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:18:21+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "cm19SEP2019bhav.csv.zip",
+   "sha256": "4e6605bd0b1e8fba87e921e460dc1591fc135991d1e518b3feaf6e86e496fa77",
+   "size_bytes": 67731,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/EQUITIES/2019/SEP/cm19SEP2019bhav.csv.zip"
+  },
+  "raw/nse/cm_bhavcopy/2019/cm20AUG2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:17:35+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "cm20AUG2019bhav.csv.zip",
+   "sha256": "1852efb02d1c2d770c54556d3a6215fe11e45089be55dc2810168033d6271d82",
+   "size_bytes": 67671,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/EQUITIES/2019/AUG/cm20AUG2019bhav.csv.zip"
+  },
+  "raw/nse/cm_bhavcopy/2019/cm20DEC2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:20:38+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "cm20DEC2019bhav.csv.zip",
+   "sha256": "054b752c92600c727dc7f44c6f8e0b24fe5910a25e1c566736282bd8ceacae9c",
+   "size_bytes": 69095,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/EQUITIES/2019/DEC/cm20DEC2019bhav.csv.zip"
   },
   "raw/nse/cm_bhavcopy/2019/cm20FEB2019bhav.csv.zip": {
    "downloaded_at": "2026-10-03T19:58:58+00:00",
@@ -9621,6 +10323,33 @@
    "source": "nse",
    "url": "https://nsearchives.nseindia.com/content/historical/EQUITIES/2019/MAY/cm20MAY2019bhav.csv.zip"
   },
+  "raw/nse/cm_bhavcopy/2019/cm20NOV2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:19:52+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "cm20NOV2019bhav.csv.zip",
+   "sha256": "92c5d18b0144edbfa0220bd3d4cf523ddd65927b48f5f1c99ba9f34b5a8720d6",
+   "size_bytes": 69233,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/EQUITIES/2019/NOV/cm20NOV2019bhav.csv.zip"
+  },
+  "raw/nse/cm_bhavcopy/2019/cm20SEP2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:18:23+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "cm20SEP2019bhav.csv.zip",
+   "sha256": "92d623994b90181c3a47427a491542bfc21d1a8b28b19461bdfc46e4625d880f",
+   "size_bytes": 70934,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/EQUITIES/2019/SEP/cm20SEP2019bhav.csv.zip"
+  },
+  "raw/nse/cm_bhavcopy/2019/cm21AUG2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:17:37+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "cm21AUG2019bhav.csv.zip",
+   "sha256": "5f7aba7c3fda0de308607c761b352d2bef343eb9adebd62e29374c6e5151906c",
+   "size_bytes": 68110,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/EQUITIES/2019/AUG/cm21AUG2019bhav.csv.zip"
+  },
   "raw/nse/cm_bhavcopy/2019/cm21FEB2019bhav.csv.zip": {
    "downloaded_at": "2026-10-03T19:59:00+00:00",
    "host": "nsearchives.nseindia.com",
@@ -9657,6 +10386,15 @@
    "source": "nse",
    "url": "https://nsearchives.nseindia.com/content/historical/EQUITIES/2019/MAY/cm21MAY2019bhav.csv.zip"
   },
+  "raw/nse/cm_bhavcopy/2019/cm21NOV2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:19:54+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "cm21NOV2019bhav.csv.zip",
+   "sha256": "896ffb2716680feafab4a605ab26629fcf4f98d68bd5dfb8be726655dcbbfebb",
+   "size_bytes": 68803,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/EQUITIES/2019/NOV/cm21NOV2019bhav.csv.zip"
+  },
   "raw/nse/cm_bhavcopy/2019/cm22APR2019bhav.csv.zip": {
    "downloaded_at": "2026-10-03T20:00:24+00:00",
    "host": "nsearchives.nseindia.com",
@@ -9665,6 +10403,15 @@
    "size_bytes": 68955,
    "source": "nse",
    "url": "https://nsearchives.nseindia.com/content/historical/EQUITIES/2019/APR/cm22APR2019bhav.csv.zip"
+  },
+  "raw/nse/cm_bhavcopy/2019/cm22AUG2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:17:40+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "cm22AUG2019bhav.csv.zip",
+   "sha256": "0ac8765ade02d6b75e091f87de2ccbe83941cfbf65b9f9727f59f579f6de27da",
+   "size_bytes": 68460,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/EQUITIES/2019/AUG/cm22AUG2019bhav.csv.zip"
   },
   "raw/nse/cm_bhavcopy/2019/cm22FEB2019bhav.csv.zip": {
    "downloaded_at": "2026-10-03T19:59:02+00:00",
@@ -9684,6 +10431,15 @@
    "source": "nse",
    "url": "https://nsearchives.nseindia.com/content/historical/EQUITIES/2019/JAN/cm22JAN2019bhav.csv.zip"
   },
+  "raw/nse/cm_bhavcopy/2019/cm22JUL2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:16:53+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "cm22JUL2019bhav.csv.zip",
+   "sha256": "696c3b291f3d4418969ac13d07e70b516ef75fa404b454089bde47e66f26cef2",
+   "size_bytes": 68081,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/EQUITIES/2019/JUL/cm22JUL2019bhav.csv.zip"
+  },
   "raw/nse/cm_bhavcopy/2019/cm22MAR2019bhav.csv.zip": {
    "downloaded_at": "2026-10-03T19:59:42+00:00",
    "host": "nsearchives.nseindia.com",
@@ -9702,6 +10458,24 @@
    "source": "nse",
    "url": "https://nsearchives.nseindia.com/content/historical/EQUITIES/2019/MAY/cm22MAY2019bhav.csv.zip"
   },
+  "raw/nse/cm_bhavcopy/2019/cm22NOV2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:19:56+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "cm22NOV2019bhav.csv.zip",
+   "sha256": "6b1544404180bc799f8f9f270f7757237d76b5c12dc7dab3143e07fc75b51d47",
+   "size_bytes": 68604,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/EQUITIES/2019/NOV/cm22NOV2019bhav.csv.zip"
+  },
+  "raw/nse/cm_bhavcopy/2019/cm22OCT2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:19:07+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "cm22OCT2019bhav.csv.zip",
+   "sha256": "86c38a24d05bab1f8900b591b085842c6ea632f8335c5a5e56959d8fc9ec5509",
+   "size_bytes": 69863,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/EQUITIES/2019/OCT/cm22OCT2019bhav.csv.zip"
+  },
   "raw/nse/cm_bhavcopy/2019/cm23APR2019bhav.csv.zip": {
    "downloaded_at": "2026-10-03T20:00:26+00:00",
    "host": "nsearchives.nseindia.com",
@@ -9710,6 +10484,24 @@
    "size_bytes": 68445,
    "source": "nse",
    "url": "https://nsearchives.nseindia.com/content/historical/EQUITIES/2019/APR/cm23APR2019bhav.csv.zip"
+  },
+  "raw/nse/cm_bhavcopy/2019/cm23AUG2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:17:42+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "cm23AUG2019bhav.csv.zip",
+   "sha256": "0fcf307e5b738af4a7a516b52747d52c2ffec5a62f9db8a6ea34294202ded43b",
+   "size_bytes": 68466,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/EQUITIES/2019/AUG/cm23AUG2019bhav.csv.zip"
+  },
+  "raw/nse/cm_bhavcopy/2019/cm23DEC2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:20:40+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "cm23DEC2019bhav.csv.zip",
+   "sha256": "9914c24d3667ec21962f182e2cc658ebb75f7930ec05b513ad5f6494af4c11ee",
+   "size_bytes": 69035,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/EQUITIES/2019/DEC/cm23DEC2019bhav.csv.zip"
   },
   "raw/nse/cm_bhavcopy/2019/cm23JAN2019bhav.csv.zip": {
    "downloaded_at": "2026-10-03T19:58:18+00:00",
@@ -9720,6 +10512,15 @@
    "source": "nse",
    "url": "https://nsearchives.nseindia.com/content/historical/EQUITIES/2019/JAN/cm23JAN2019bhav.csv.zip"
   },
+  "raw/nse/cm_bhavcopy/2019/cm23JUL2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:16:56+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "cm23JUL2019bhav.csv.zip",
+   "sha256": "d8b3d5d458823ad695b14681a341a6d9b66023d60e181b9fd011f74bd34e986b",
+   "size_bytes": 68301,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/EQUITIES/2019/JUL/cm23JUL2019bhav.csv.zip"
+  },
   "raw/nse/cm_bhavcopy/2019/cm23MAY2019bhav.csv.zip": {
    "downloaded_at": "2026-10-03T20:01:11+00:00",
    "host": "nsearchives.nseindia.com",
@@ -9728,6 +10529,24 @@
    "size_bytes": 68254,
    "source": "nse",
    "url": "https://nsearchives.nseindia.com/content/historical/EQUITIES/2019/MAY/cm23MAY2019bhav.csv.zip"
+  },
+  "raw/nse/cm_bhavcopy/2019/cm23OCT2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:19:09+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "cm23OCT2019bhav.csv.zip",
+   "sha256": "3fbfeee1bb406f7df657580fdb90c496f97ad5643af8069bf7c0cd2d3d5719b8",
+   "size_bytes": 68531,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/EQUITIES/2019/OCT/cm23OCT2019bhav.csv.zip"
+  },
+  "raw/nse/cm_bhavcopy/2019/cm23SEP2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:18:25+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "cm23SEP2019bhav.csv.zip",
+   "sha256": "e591dfdde748f0b855ba3840508d4716b29cb833f7df0b248cb8a50597f99676",
+   "size_bytes": 70352,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/EQUITIES/2019/SEP/cm23SEP2019bhav.csv.zip"
   },
   "raw/nse/cm_bhavcopy/2019/cm24APR2019bhav.csv.zip": {
    "downloaded_at": "2026-10-03T20:00:28+00:00",
@@ -9738,6 +10557,15 @@
    "source": "nse",
    "url": "https://nsearchives.nseindia.com/content/historical/EQUITIES/2019/APR/cm24APR2019bhav.csv.zip"
   },
+  "raw/nse/cm_bhavcopy/2019/cm24DEC2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:20:42+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "cm24DEC2019bhav.csv.zip",
+   "sha256": "e4a56446016a013471f9e63e95d65670110c473c78342bd323dac6621b26d7cd",
+   "size_bytes": 68869,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/EQUITIES/2019/DEC/cm24DEC2019bhav.csv.zip"
+  },
   "raw/nse/cm_bhavcopy/2019/cm24JAN2019bhav.csv.zip": {
    "downloaded_at": "2026-10-03T19:58:20+00:00",
    "host": "nsearchives.nseindia.com",
@@ -9746,6 +10574,15 @@
    "size_bytes": 66493,
    "source": "nse",
    "url": "https://nsearchives.nseindia.com/content/historical/EQUITIES/2019/JAN/cm24JAN2019bhav.csv.zip"
+  },
+  "raw/nse/cm_bhavcopy/2019/cm24JUL2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:16:58+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "cm24JUL2019bhav.csv.zip",
+   "sha256": "e9952bde09930c75a0cf42c00b1d2db9a1586da67121154567b8185661e4288c",
+   "size_bytes": 68082,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/EQUITIES/2019/JUL/cm24JUL2019bhav.csv.zip"
   },
   "raw/nse/cm_bhavcopy/2019/cm24JUN2019bhav.csv.zip": {
    "downloaded_at": "2026-10-03T20:01:56+00:00",
@@ -9764,6 +10601,24 @@
    "size_bytes": 68805,
    "source": "nse",
    "url": "https://nsearchives.nseindia.com/content/historical/EQUITIES/2019/MAY/cm24MAY2019bhav.csv.zip"
+  },
+  "raw/nse/cm_bhavcopy/2019/cm24OCT2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:19:12+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "cm24OCT2019bhav.csv.zip",
+   "sha256": "354f9df2996fc7e6ab2329bfb0d7b6ffc3a625b14dcb5fafa9805d76d9e325ea",
+   "size_bytes": 67722,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/EQUITIES/2019/OCT/cm24OCT2019bhav.csv.zip"
+  },
+  "raw/nse/cm_bhavcopy/2019/cm24SEP2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:18:27+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "cm24SEP2019bhav.csv.zip",
+   "sha256": "bacfb8dd2c17ae39a77fd73996f7964b549d62bec8f329a0d159de69c108c5a8",
+   "size_bytes": 69147,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/EQUITIES/2019/SEP/cm24SEP2019bhav.csv.zip"
   },
   "raw/nse/cm_bhavcopy/2019/cm25APR2019bhav.csv.zip": {
    "downloaded_at": "2026-10-03T20:00:30+00:00",
@@ -9792,6 +10647,15 @@
    "source": "nse",
    "url": "https://nsearchives.nseindia.com/content/historical/EQUITIES/2019/JAN/cm25JAN2019bhav.csv.zip"
   },
+  "raw/nse/cm_bhavcopy/2019/cm25JUL2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:17:00+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "cm25JUL2019bhav.csv.zip",
+   "sha256": "aa1ba2ff2f1076353875bbf40f116ca83f2c224c31eb0f7418db408e19b21122",
+   "size_bytes": 68236,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/EQUITIES/2019/JUL/cm25JUL2019bhav.csv.zip"
+  },
   "raw/nse/cm_bhavcopy/2019/cm25JUN2019bhav.csv.zip": {
    "downloaded_at": "2026-10-03T20:01:58+00:00",
    "host": "nsearchives.nseindia.com",
@@ -9810,6 +10674,33 @@
    "source": "nse",
    "url": "https://nsearchives.nseindia.com/content/historical/EQUITIES/2019/MAR/cm25MAR2019bhav.csv.zip"
   },
+  "raw/nse/cm_bhavcopy/2019/cm25NOV2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:19:58+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "cm25NOV2019bhav.csv.zip",
+   "sha256": "b48d7d431072f447fd35152a8d2e2fb2df1fd71993e6f0618af6a4140cf0bdaf",
+   "size_bytes": 70000,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/EQUITIES/2019/NOV/cm25NOV2019bhav.csv.zip"
+  },
+  "raw/nse/cm_bhavcopy/2019/cm25OCT2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:19:13+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "cm25OCT2019bhav.csv.zip",
+   "sha256": "afbdd9171f8af0a3f82b39d4457ad9e2b3d6e32bc30608c5ac988ab405f2663d",
+   "size_bytes": 68158,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/EQUITIES/2019/OCT/cm25OCT2019bhav.csv.zip"
+  },
+  "raw/nse/cm_bhavcopy/2019/cm25SEP2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:18:29+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "cm25SEP2019bhav.csv.zip",
+   "sha256": "7a81f46c5448e5bb3f7e43fe606107d5fe05de47fcba3a5861584b4f30f4833e",
+   "size_bytes": 68491,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/EQUITIES/2019/SEP/cm25SEP2019bhav.csv.zip"
+  },
   "raw/nse/cm_bhavcopy/2019/cm26APR2019bhav.csv.zip": {
    "downloaded_at": "2026-10-03T20:00:32+00:00",
    "host": "nsearchives.nseindia.com",
@@ -9819,6 +10710,24 @@
    "source": "nse",
    "url": "https://nsearchives.nseindia.com/content/historical/EQUITIES/2019/APR/cm26APR2019bhav.csv.zip"
   },
+  "raw/nse/cm_bhavcopy/2019/cm26AUG2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:17:43+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "cm26AUG2019bhav.csv.zip",
+   "sha256": "46eef8c7e267def3d1108e17efd0017650d6804e06200e3e443b5f6f5be7637e",
+   "size_bytes": 68577,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/EQUITIES/2019/AUG/cm26AUG2019bhav.csv.zip"
+  },
+  "raw/nse/cm_bhavcopy/2019/cm26DEC2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:20:46+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "cm26DEC2019bhav.csv.zip",
+   "sha256": "fc0cbe32bbac9ed44f450bf93d69b8ad58145d0104c79b6a576f1744b9041661",
+   "size_bytes": 69073,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/EQUITIES/2019/DEC/cm26DEC2019bhav.csv.zip"
+  },
   "raw/nse/cm_bhavcopy/2019/cm26FEB2019bhav.csv.zip": {
    "downloaded_at": "2026-10-03T19:59:06+00:00",
    "host": "nsearchives.nseindia.com",
@@ -9827,6 +10736,15 @@
    "size_bytes": 67577,
    "source": "nse",
    "url": "https://nsearchives.nseindia.com/content/historical/EQUITIES/2019/FEB/cm26FEB2019bhav.csv.zip"
+  },
+  "raw/nse/cm_bhavcopy/2019/cm26JUL2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:17:01+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "cm26JUL2019bhav.csv.zip",
+   "sha256": "9552581a250ce30d1ec5ebd4e9acc58906b691da980f1216f4c38ca33365c900",
+   "size_bytes": 67488,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/EQUITIES/2019/JUL/cm26JUL2019bhav.csv.zip"
   },
   "raw/nse/cm_bhavcopy/2019/cm26JUN2019bhav.csv.zip": {
    "downloaded_at": "2026-10-03T20:02:00+00:00",
@@ -9845,6 +10763,42 @@
    "size_bytes": 69915,
    "source": "nse",
    "url": "https://nsearchives.nseindia.com/content/historical/EQUITIES/2019/MAR/cm26MAR2019bhav.csv.zip"
+  },
+  "raw/nse/cm_bhavcopy/2019/cm26NOV2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:20:00+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "cm26NOV2019bhav.csv.zip",
+   "sha256": "84a37092e9826ffcd5c42511142acdaff9344e49bd3ecf0c3cff994a90c4a99b",
+   "size_bytes": 69416,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/EQUITIES/2019/NOV/cm26NOV2019bhav.csv.zip"
+  },
+  "raw/nse/cm_bhavcopy/2019/cm26SEP2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:18:31+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "cm26SEP2019bhav.csv.zip",
+   "sha256": "3110aef5493d02bd6a55aecbe48c146ec5294cf8d66598a0340d8321e2c68cb2",
+   "size_bytes": 68620,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/EQUITIES/2019/SEP/cm26SEP2019bhav.csv.zip"
+  },
+  "raw/nse/cm_bhavcopy/2019/cm27AUG2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:17:46+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "cm27AUG2019bhav.csv.zip",
+   "sha256": "4f787441f8e9f1ce5b20169be10c7a5a7da1389b376794cc55c12b9736220707",
+   "size_bytes": 68256,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/EQUITIES/2019/AUG/cm27AUG2019bhav.csv.zip"
+  },
+  "raw/nse/cm_bhavcopy/2019/cm27DEC2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:20:47+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "cm27DEC2019bhav.csv.zip",
+   "sha256": "bfff98fd90e3d1eeb87c61a1f2145850c95c36943a63328b0d08ba95fcfa6fad",
+   "size_bytes": 69427,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/EQUITIES/2019/DEC/cm27DEC2019bhav.csv.zip"
   },
   "raw/nse/cm_bhavcopy/2019/cm27FEB2019bhav.csv.zip": {
    "downloaded_at": "2026-10-03T19:59:08+00:00",
@@ -9881,6 +10835,42 @@
    "size_bytes": 69865,
    "source": "nse",
    "url": "https://nsearchives.nseindia.com/content/historical/EQUITIES/2019/MAY/cm27MAY2019bhav.csv.zip"
+  },
+  "raw/nse/cm_bhavcopy/2019/cm27NOV2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:20:02+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "cm27NOV2019bhav.csv.zip",
+   "sha256": "65d7e7682c5406456a31f2047c54ffc9911e3bad1447ecc9623ef0a47eccf49c",
+   "size_bytes": 68681,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/EQUITIES/2019/NOV/cm27NOV2019bhav.csv.zip"
+  },
+  "raw/nse/cm_bhavcopy/2019/cm27OCT2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:19:15+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "cm27OCT2019bhav.csv.zip",
+   "sha256": "b881a41ca300bb9c91d3e532e85cfa6e4f0b79b52840bfee5b921f19e6b38481",
+   "size_bytes": 62064,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/EQUITIES/2019/OCT/cm27OCT2019bhav.csv.zip"
+  },
+  "raw/nse/cm_bhavcopy/2019/cm27SEP2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:18:33+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "cm27SEP2019bhav.csv.zip",
+   "sha256": "9de66cc4931b269fc1c66242ba443520f1d8ea82f9bc761575b8e666b73d7f07",
+   "size_bytes": 68644,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/EQUITIES/2019/SEP/cm27SEP2019bhav.csv.zip"
+  },
+  "raw/nse/cm_bhavcopy/2019/cm28AUG2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:17:48+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "cm28AUG2019bhav.csv.zip",
+   "sha256": "0d60ee31692b354065b98ac9565830f4d863762708159b4c4478c384f7ea61ed",
+   "size_bytes": 68159,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/EQUITIES/2019/AUG/cm28AUG2019bhav.csv.zip"
   },
   "raw/nse/cm_bhavcopy/2019/cm28FEB2019bhav.csv.zip": {
    "downloaded_at": "2026-10-03T19:59:10+00:00",
@@ -9927,6 +10917,24 @@
    "source": "nse",
    "url": "https://nsearchives.nseindia.com/content/historical/EQUITIES/2019/MAY/cm28MAY2019bhav.csv.zip"
   },
+  "raw/nse/cm_bhavcopy/2019/cm28NOV2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:20:04+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "cm28NOV2019bhav.csv.zip",
+   "sha256": "4702c6ff6063ff102cb0764a585074ef0d983fd06feab449cfa0b406f6c6e9e5",
+   "size_bytes": 68961,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/EQUITIES/2019/NOV/cm28NOV2019bhav.csv.zip"
+  },
+  "raw/nse/cm_bhavcopy/2019/cm29AUG2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:17:49+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "cm29AUG2019bhav.csv.zip",
+   "sha256": "c114cdcba4c8cedc9f11e699c867402ca9fd43068d9ae2112be4a40bf51cffea",
+   "size_bytes": 67632,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/EQUITIES/2019/AUG/cm29AUG2019bhav.csv.zip"
+  },
   "raw/nse/cm_bhavcopy/2019/cm29JAN2019bhav.csv.zip": {
    "downloaded_at": "2026-10-03T19:58:26+00:00",
    "host": "nsearchives.nseindia.com",
@@ -9935,6 +10943,15 @@
    "size_bytes": 67296,
    "source": "nse",
    "url": "https://nsearchives.nseindia.com/content/historical/EQUITIES/2019/JAN/cm29JAN2019bhav.csv.zip"
+  },
+  "raw/nse/cm_bhavcopy/2019/cm29JUL2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:17:03+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "cm29JUL2019bhav.csv.zip",
+   "sha256": "b36a19fd71a00e0765ebcf88c31b647f5c7986c39586144da9b5ed1874efd5d2",
+   "size_bytes": 67913,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/EQUITIES/2019/JUL/cm29JUL2019bhav.csv.zip"
   },
   "raw/nse/cm_bhavcopy/2019/cm29MAR2019bhav.csv.zip": {
    "downloaded_at": "2026-10-03T19:59:52+00:00",
@@ -9954,6 +10971,24 @@
    "source": "nse",
    "url": "https://nsearchives.nseindia.com/content/historical/EQUITIES/2019/MAY/cm29MAY2019bhav.csv.zip"
   },
+  "raw/nse/cm_bhavcopy/2019/cm29NOV2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:20:06+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "cm29NOV2019bhav.csv.zip",
+   "sha256": "3e11ef33f014d03bb9baf8318eca9de25cb58293f05d52231b20ca77c41b2a10",
+   "size_bytes": 68866,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/EQUITIES/2019/NOV/cm29NOV2019bhav.csv.zip"
+  },
+  "raw/nse/cm_bhavcopy/2019/cm29OCT2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:19:20+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "cm29OCT2019bhav.csv.zip",
+   "sha256": "59a9bbdd00b25d5ce2e208312813b5418e76118c5a6fc009f26c84e076638109",
+   "size_bytes": 68937,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/EQUITIES/2019/OCT/cm29OCT2019bhav.csv.zip"
+  },
   "raw/nse/cm_bhavcopy/2019/cm30APR2019bhav.csv.zip": {
    "downloaded_at": "2026-10-03T20:00:36+00:00",
    "host": "nsearchives.nseindia.com",
@@ -9962,6 +10997,24 @@
    "size_bytes": 69496,
    "source": "nse",
    "url": "https://nsearchives.nseindia.com/content/historical/EQUITIES/2019/APR/cm30APR2019bhav.csv.zip"
+  },
+  "raw/nse/cm_bhavcopy/2019/cm30AUG2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:17:51+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "cm30AUG2019bhav.csv.zip",
+   "sha256": "b06e3e3de2e6c26038c51d95d20b2c2a65357d19a156867d3957007f5056ac8c",
+   "size_bytes": 67801,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/EQUITIES/2019/AUG/cm30AUG2019bhav.csv.zip"
+  },
+  "raw/nse/cm_bhavcopy/2019/cm30DEC2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:20:49+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "cm30DEC2019bhav.csv.zip",
+   "sha256": "8e16bd8e12bcd86b4ce3cc38dca40848164368c73695abb327ddac65945683f7",
+   "size_bytes": 69795,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/EQUITIES/2019/DEC/cm30DEC2019bhav.csv.zip"
   },
   "raw/nse/cm_bhavcopy/2019/cm30JAN2019bhav.csv.zip": {
    "downloaded_at": "2026-10-03T19:58:28+00:00",
@@ -9972,6 +11025,15 @@
    "source": "nse",
    "url": "https://nsearchives.nseindia.com/content/historical/EQUITIES/2019/JAN/cm30JAN2019bhav.csv.zip"
   },
+  "raw/nse/cm_bhavcopy/2019/cm30JUL2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:17:06+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "cm30JUL2019bhav.csv.zip",
+   "sha256": "7fa36d3683f85f70ca7affc0220b8bece88ab2de99e05f72da1e7627cda8cf55",
+   "size_bytes": 68240,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/EQUITIES/2019/JUL/cm30JUL2019bhav.csv.zip"
+  },
   "raw/nse/cm_bhavcopy/2019/cm30MAY2019bhav.csv.zip": {
    "downloaded_at": "2026-10-03T20:01:20+00:00",
    "host": "nsearchives.nseindia.com",
@@ -9980,6 +11042,33 @@
    "size_bytes": 68811,
    "source": "nse",
    "url": "https://nsearchives.nseindia.com/content/historical/EQUITIES/2019/MAY/cm30MAY2019bhav.csv.zip"
+  },
+  "raw/nse/cm_bhavcopy/2019/cm30OCT2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:19:22+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "cm30OCT2019bhav.csv.zip",
+   "sha256": "8561ed874189b67467ab717a7d19bd157793c7c8a3164c81bda52fb51da97700",
+   "size_bytes": 68853,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/EQUITIES/2019/OCT/cm30OCT2019bhav.csv.zip"
+  },
+  "raw/nse/cm_bhavcopy/2019/cm30SEP2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:18:35+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "cm30SEP2019bhav.csv.zip",
+   "sha256": "ff9496580483dbbc47f0d600d4a5effdb775c526c6749dd68efe623c07abc69c",
+   "size_bytes": 69497,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/EQUITIES/2019/SEP/cm30SEP2019bhav.csv.zip"
+  },
+  "raw/nse/cm_bhavcopy/2019/cm31DEC2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:20:51+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "cm31DEC2019bhav.csv.zip",
+   "sha256": "2eee01afd56a8afc38c90b550155089ce64ae42973210c496c0405d7fe620a4b",
+   "size_bytes": 69270,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/EQUITIES/2019/DEC/cm31DEC2019bhav.csv.zip"
   },
   "raw/nse/cm_bhavcopy/2019/cm31JAN2019bhav.csv.zip": {
    "downloaded_at": "2026-10-03T19:58:30+00:00",
@@ -9990,6 +11079,15 @@
    "source": "nse",
    "url": "https://nsearchives.nseindia.com/content/historical/EQUITIES/2019/JAN/cm31JAN2019bhav.csv.zip"
   },
+  "raw/nse/cm_bhavcopy/2019/cm31JUL2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:17:07+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "cm31JUL2019bhav.csv.zip",
+   "sha256": "c4608ba0d1eb0797c6d4dd6b192151cca53d7f3a4cbfbd8884679615ad6af8e9",
+   "size_bytes": 68773,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/EQUITIES/2019/JUL/cm31JUL2019bhav.csv.zip"
+  },
   "raw/nse/cm_bhavcopy/2019/cm31MAY2019bhav.csv.zip": {
    "downloaded_at": "2026-10-03T20:01:22+00:00",
    "host": "nsearchives.nseindia.com",
@@ -9998,6 +11096,222 @@
    "size_bytes": 69316,
    "source": "nse",
    "url": "https://nsearchives.nseindia.com/content/historical/EQUITIES/2019/MAY/cm31MAY2019bhav.csv.zip"
+  },
+  "raw/nse/cm_bhavcopy/2019/cm31OCT2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:19:24+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "cm31OCT2019bhav.csv.zip",
+   "sha256": "c4327f4b639fc4824d37476b504664d983a5544ab7379c757a68f2272f47c350",
+   "size_bytes": 69168,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/EQUITIES/2019/OCT/cm31OCT2019bhav.csv.zip"
+  },
+  "raw/nse/cm_bhavcopy/2020/cm01JAN2020bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:20:53+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "cm01JAN2020bhav.csv.zip",
+   "sha256": "0546c1843289df8add7da2a8302360ca4b1096cfa1b0c5d471397ef440795077",
+   "size_bytes": 67417,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/EQUITIES/2020/JAN/cm01JAN2020bhav.csv.zip"
+  },
+  "raw/nse/cm_bhavcopy/2020/cm02JAN2020bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:20:56+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "cm02JAN2020bhav.csv.zip",
+   "sha256": "b3cdc49a3f683b236b5ad5ffc00eb9eb37f684d34598ced3109d5b2c154b88e3",
+   "size_bytes": 69955,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/EQUITIES/2020/JAN/cm02JAN2020bhav.csv.zip"
+  },
+  "raw/nse/cm_bhavcopy/2020/cm03JAN2020bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:20:58+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "cm03JAN2020bhav.csv.zip",
+   "sha256": "870ea7c10496240785e0f5a7966f2c967fe4142cd86b8749ae801a40f8e0abe2",
+   "size_bytes": 69910,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/EQUITIES/2020/JAN/cm03JAN2020bhav.csv.zip"
+  },
+  "raw/nse/cm_bhavcopy/2020/cm06JAN2020bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:20:59+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "cm06JAN2020bhav.csv.zip",
+   "sha256": "76cd239dff56e2685b39d766f543dd994a08171b769a1417d541b299c51e233f",
+   "size_bytes": 69850,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/EQUITIES/2020/JAN/cm06JAN2020bhav.csv.zip"
+  },
+  "raw/nse/cm_bhavcopy/2020/cm07JAN2020bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:21:02+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "cm07JAN2020bhav.csv.zip",
+   "sha256": "fb0a3bdc8a8ad41ba6562548b8470b51e7b30362c505d0d4878d0350c15be884",
+   "size_bytes": 69341,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/EQUITIES/2020/JAN/cm07JAN2020bhav.csv.zip"
+  },
+  "raw/nse/cm_bhavcopy/2020/cm08JAN2020bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:21:03+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "cm08JAN2020bhav.csv.zip",
+   "sha256": "22f58998e795902a94e25fe78d7ed9bb8b4b44cea2f7ba53f38d0ae28a23549b",
+   "size_bytes": 69210,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/EQUITIES/2020/JAN/cm08JAN2020bhav.csv.zip"
+  },
+  "raw/nse/cm_bhavcopy/2020/cm09JAN2020bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:21:05+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "cm09JAN2020bhav.csv.zip",
+   "sha256": "9a51679b6c43a32f78f7644c56b1b725cee5641335f7aa23ee756c1699869c50",
+   "size_bytes": 69832,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/EQUITIES/2020/JAN/cm09JAN2020bhav.csv.zip"
+  },
+  "raw/nse/cm_bhavcopy/2020/cm10JAN2020bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:21:07+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "cm10JAN2020bhav.csv.zip",
+   "sha256": "89a048a0ce3b9242b58bc6aa2757972715104731747ea540a33c7daee8611e4a",
+   "size_bytes": 69987,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/EQUITIES/2020/JAN/cm10JAN2020bhav.csv.zip"
+  },
+  "raw/nse/cm_bhavcopy/2020/cm13JAN2020bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:21:10+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "cm13JAN2020bhav.csv.zip",
+   "sha256": "ad3b2f3900f1942710cb9fff77aac816fa19e9aa0c7f7ff20853f8977a1789c4",
+   "size_bytes": 70666,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/EQUITIES/2020/JAN/cm13JAN2020bhav.csv.zip"
+  },
+  "raw/nse/cm_bhavcopy/2020/cm14JAN2020bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:21:12+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "cm14JAN2020bhav.csv.zip",
+   "sha256": "7dddb88dd24bd6be5e3ba749e60be858b1da522bc710b53e298f8eed6155dc89",
+   "size_bytes": 69606,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/EQUITIES/2020/JAN/cm14JAN2020bhav.csv.zip"
+  },
+  "raw/nse/cm_bhavcopy/2020/cm15JAN2020bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:21:14+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "cm15JAN2020bhav.csv.zip",
+   "sha256": "75dd7c41d4581b004585cfd6a34666d607fb8ed25889299b3663a8cd0f257ac4",
+   "size_bytes": 69891,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/EQUITIES/2020/JAN/cm15JAN2020bhav.csv.zip"
+  },
+  "raw/nse/cm_bhavcopy/2020/cm16JAN2020bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:21:16+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "cm16JAN2020bhav.csv.zip",
+   "sha256": "179f4d2c27a4b860606631874aeececde4237f0c4dcf5e55eb718f1a9963445b",
+   "size_bytes": 69877,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/EQUITIES/2020/JAN/cm16JAN2020bhav.csv.zip"
+  },
+  "raw/nse/cm_bhavcopy/2020/cm17JAN2020bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:21:18+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "cm17JAN2020bhav.csv.zip",
+   "sha256": "aaca41c0a4625cc7938eaee63d12ef1e7646646b54482c319d55bf4a5a84d569",
+   "size_bytes": 69871,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/EQUITIES/2020/JAN/cm17JAN2020bhav.csv.zip"
+  },
+  "raw/nse/cm_bhavcopy/2020/cm20JAN2020bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:21:19+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "cm20JAN2020bhav.csv.zip",
+   "sha256": "ac5e884f69aa32d5df46fd7cc3d699ddf854986857faf6cbb3fd44e533622b7e",
+   "size_bytes": 70223,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/EQUITIES/2020/JAN/cm20JAN2020bhav.csv.zip"
+  },
+  "raw/nse/cm_bhavcopy/2020/cm21JAN2020bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:21:22+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "cm21JAN2020bhav.csv.zip",
+   "sha256": "f9ba257529eb68c4616e98f6bf3355b03d8e5554d8aebafcf0cebf518c31d91b",
+   "size_bytes": 69640,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/EQUITIES/2020/JAN/cm21JAN2020bhav.csv.zip"
+  },
+  "raw/nse/cm_bhavcopy/2020/cm22JAN2020bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:21:24+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "cm22JAN2020bhav.csv.zip",
+   "sha256": "362dc20a888a86465a966098bf6ec8ad3112a380a9e78d08b6b9d5246794410a",
+   "size_bytes": 70046,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/EQUITIES/2020/JAN/cm22JAN2020bhav.csv.zip"
+  },
+  "raw/nse/cm_bhavcopy/2020/cm23JAN2020bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:21:25+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "cm23JAN2020bhav.csv.zip",
+   "sha256": "f5c093f32503e2538a368c36080d9c9f2090e59b13daf9b3447243005f17508b",
+   "size_bytes": 69821,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/EQUITIES/2020/JAN/cm23JAN2020bhav.csv.zip"
+  },
+  "raw/nse/cm_bhavcopy/2020/cm24JAN2020bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:21:28+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "cm24JAN2020bhav.csv.zip",
+   "sha256": "7010bb9c2a859cf5ff083ab006bb95f8d7ac8e10c154d1f38907ae0528f6b0b0",
+   "size_bytes": 69682,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/EQUITIES/2020/JAN/cm24JAN2020bhav.csv.zip"
+  },
+  "raw/nse/cm_bhavcopy/2020/cm27JAN2020bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:21:29+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "cm27JAN2020bhav.csv.zip",
+   "sha256": "0ee8c79582037997bbd0116116153bc3f24781d6a8e7dd8d9a79c5c222384de6",
+   "size_bytes": 69983,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/EQUITIES/2020/JAN/cm27JAN2020bhav.csv.zip"
+  },
+  "raw/nse/cm_bhavcopy/2020/cm28JAN2020bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:21:32+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "cm28JAN2020bhav.csv.zip",
+   "sha256": "a3f0377e90d21d7762700c8ecf3d63347a17a40af2928a410393278ca5bb4271",
+   "size_bytes": 69679,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/EQUITIES/2020/JAN/cm28JAN2020bhav.csv.zip"
+  },
+  "raw/nse/cm_bhavcopy/2020/cm29JAN2020bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:21:33+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "cm29JAN2020bhav.csv.zip",
+   "sha256": "0a26ed139b25bc0a57531d673465405040de26d75b13eff070908908b72a8d24",
+   "size_bytes": 69822,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/EQUITIES/2020/JAN/cm29JAN2020bhav.csv.zip"
+  },
+  "raw/nse/cm_bhavcopy/2020/cm30JAN2020bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:21:36+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "cm30JAN2020bhav.csv.zip",
+   "sha256": "3f904bbc3d535e9fbd7826399a15bc4d1cce548e79832f36087d947ebdfee0e4",
+   "size_bytes": 68948,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/EQUITIES/2020/JAN/cm30JAN2020bhav.csv.zip"
+  },
+  "raw/nse/cm_bhavcopy/2020/cm31JAN2020bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:21:37+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "cm31JAN2020bhav.csv.zip",
+   "sha256": "13c2069e482a6e90b789c5de61415c1b389bd2ac543a941ffa7fb1e06d103439",
+   "size_bytes": 68577,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/EQUITIES/2020/JAN/cm31JAN2020bhav.csv.zip"
   },
   "raw/nse/cm_bhavcopy/2024/BhavCopy_NSE_CM_0_0_0_20240101_F_0000.csv.zip": {
    "downloaded_at": "2026-10-03T19:20:28+00:00",
@@ -18927,6 +20241,15 @@
    "source": "nse",
    "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2019/APR/fo01APR2019bhav.csv.zip"
   },
+  "raw/nse/fo_bhavcopy/2019/fo01AUG2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:17:11+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "fo01AUG2019bhav.csv.zip",
+   "sha256": "8314e18c3d263c21a04179292950f71b391313add33fe50812164bcfcc1a0edd",
+   "size_bytes": 430094,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2019/AUG/fo01AUG2019bhav.csv.zip"
+  },
   "raw/nse/fo_bhavcopy/2019/fo01FEB2019bhav.csv.zip": {
    "downloaded_at": "2026-10-03T19:58:33+00:00",
    "host": "nsearchives.nseindia.com",
@@ -18945,6 +20268,15 @@
    "source": "nse",
    "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2019/JAN/fo01JAN2019bhav.csv.zip"
   },
+  "raw/nse/fo_bhavcopy/2019/fo01JUL2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:16:25+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "fo01JUL2019bhav.csv.zip",
+   "sha256": "46e2264ed619ac3f8fc070533eed3e77b8f5f9a21261eec835b162ca6e08634a",
+   "size_bytes": 419410,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2019/JUL/fo01JUL2019bhav.csv.zip"
+  },
   "raw/nse/fo_bhavcopy/2019/fo01MAR2019bhav.csv.zip": {
    "downloaded_at": "2026-10-03T19:59:13+00:00",
    "host": "nsearchives.nseindia.com",
@@ -18953,6 +20285,24 @@
    "size_bytes": 403416,
    "source": "nse",
    "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2019/MAR/fo01MAR2019bhav.csv.zip"
+  },
+  "raw/nse/fo_bhavcopy/2019/fo01NOV2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:19:27+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "fo01NOV2019bhav.csv.zip",
+   "sha256": "5b5d1de518ca573d3f4865c17c525075bcf9a5b9826559a481503ec0cd52cb5f",
+   "size_bytes": 399486,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2019/NOV/fo01NOV2019bhav.csv.zip"
+  },
+  "raw/nse/fo_bhavcopy/2019/fo01OCT2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:18:38+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "fo01OCT2019bhav.csv.zip",
+   "sha256": "99ac99d4c2e3f5801674d123dc559a05a6bcc5c1651af330847a7a29b10c4a7a",
+   "size_bytes": 423195,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2019/OCT/fo01OCT2019bhav.csv.zip"
   },
   "raw/nse/fo_bhavcopy/2019/fo02APR2019bhav.csv.zip": {
    "downloaded_at": "2026-10-03T19:59:58+00:00",
@@ -18963,6 +20313,24 @@
    "source": "nse",
    "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2019/APR/fo02APR2019bhav.csv.zip"
   },
+  "raw/nse/fo_bhavcopy/2019/fo02AUG2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:17:13+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "fo02AUG2019bhav.csv.zip",
+   "sha256": "8d9bd32b839a9b7dcc55714d5c0fef57375c09acb85e546a3f72cbfcb1c5690f",
+   "size_bytes": 431633,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2019/AUG/fo02AUG2019bhav.csv.zip"
+  },
+  "raw/nse/fo_bhavcopy/2019/fo02DEC2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:20:09+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "fo02DEC2019bhav.csv.zip",
+   "sha256": "cf29fe325d767b60a6a49269e6b0dee8ff6e9b9ad9491d3b8671706243f5c299",
+   "size_bytes": 377223,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2019/DEC/fo02DEC2019bhav.csv.zip"
+  },
   "raw/nse/fo_bhavcopy/2019/fo02JAN2019bhav.csv.zip": {
    "downloaded_at": "2026-10-03T19:57:49+00:00",
    "host": "nsearchives.nseindia.com",
@@ -18971,6 +20339,15 @@
    "size_bytes": 444724,
    "source": "nse",
    "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2019/JAN/fo02JAN2019bhav.csv.zip"
+  },
+  "raw/nse/fo_bhavcopy/2019/fo02JUL2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:16:27+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "fo02JUL2019bhav.csv.zip",
+   "sha256": "b2e8fa05702025ed7d6f1774ff3148fd3e178dd4de8c80d6bf1ac14be79dd2aa",
+   "size_bytes": 418981,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2019/JUL/fo02JUL2019bhav.csv.zip"
   },
   "raw/nse/fo_bhavcopy/2019/fo02MAY2019bhav.csv.zip": {
    "downloaded_at": "2026-10-03T20:00:42+00:00",
@@ -18990,6 +20367,15 @@
    "source": "nse",
    "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2019/APR/fo03APR2019bhav.csv.zip"
   },
+  "raw/nse/fo_bhavcopy/2019/fo03DEC2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:20:11+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "fo03DEC2019bhav.csv.zip",
+   "sha256": "739daa460b1506ac1b2ce537b2ec7cc409ddac60afec86ce8334760e725bf361",
+   "size_bytes": 378613,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2019/DEC/fo03DEC2019bhav.csv.zip"
+  },
   "raw/nse/fo_bhavcopy/2019/fo03JAN2019bhav.csv.zip": {
    "downloaded_at": "2026-10-03T19:57:52+00:00",
    "host": "nsearchives.nseindia.com",
@@ -18998,6 +20384,15 @@
    "size_bytes": 444280,
    "source": "nse",
    "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2019/JAN/fo03JAN2019bhav.csv.zip"
+  },
+  "raw/nse/fo_bhavcopy/2019/fo03JUL2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:16:29+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "fo03JUL2019bhav.csv.zip",
+   "sha256": "a9681f73f9e06991d81000d76e7b14ba989bc1fb9b99e316fa4af0c711cab2a4",
+   "size_bytes": 420112,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2019/JUL/fo03JUL2019bhav.csv.zip"
   },
   "raw/nse/fo_bhavcopy/2019/fo03JUN2019bhav.csv.zip": {
    "downloaded_at": "2026-10-03T20:01:25+00:00",
@@ -19017,6 +20412,24 @@
    "source": "nse",
    "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2019/MAY/fo03MAY2019bhav.csv.zip"
   },
+  "raw/nse/fo_bhavcopy/2019/fo03OCT2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:18:42+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "fo03OCT2019bhav.csv.zip",
+   "sha256": "d40e31634316ba967dc4a2751a77e74f4de370aa4fb3d07a1236fefa382f0953",
+   "size_bytes": 421030,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2019/OCT/fo03OCT2019bhav.csv.zip"
+  },
+  "raw/nse/fo_bhavcopy/2019/fo03SEP2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:17:57+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "fo03SEP2019bhav.csv.zip",
+   "sha256": "3636b117857ca51fe5fb7908ab621f4b82462864603fdf3d9a8395daf4a35fa4",
+   "size_bytes": 410209,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2019/SEP/fo03SEP2019bhav.csv.zip"
+  },
   "raw/nse/fo_bhavcopy/2019/fo04APR2019bhav.csv.zip": {
    "downloaded_at": "2026-10-03T20:00:02+00:00",
    "host": "nsearchives.nseindia.com",
@@ -19025,6 +20438,15 @@
    "size_bytes": 489748,
    "source": "nse",
    "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2019/APR/fo04APR2019bhav.csv.zip"
+  },
+  "raw/nse/fo_bhavcopy/2019/fo04DEC2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:20:13+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "fo04DEC2019bhav.csv.zip",
+   "sha256": "b30e4628463702ec3fd17b1e1012ef702179942370b6745a5118bda49e4e727e",
+   "size_bytes": 380580,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2019/DEC/fo04DEC2019bhav.csv.zip"
   },
   "raw/nse/fo_bhavcopy/2019/fo04FEB2019bhav.csv.zip": {
    "downloaded_at": "2026-10-03T19:58:35+00:00",
@@ -19044,6 +20466,15 @@
    "source": "nse",
    "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2019/JAN/fo04JAN2019bhav.csv.zip"
   },
+  "raw/nse/fo_bhavcopy/2019/fo04JUL2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:16:31+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "fo04JUL2019bhav.csv.zip",
+   "sha256": "516b4c78c619edd7a0dbc47140539915feaffc1b91a8d457503a71d5348f7a6e",
+   "size_bytes": 421410,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2019/JUL/fo04JUL2019bhav.csv.zip"
+  },
   "raw/nse/fo_bhavcopy/2019/fo04JUN2019bhav.csv.zip": {
    "downloaded_at": "2026-10-03T20:01:27+00:00",
    "host": "nsearchives.nseindia.com",
@@ -19052,6 +20483,33 @@
    "size_bytes": 444728,
    "source": "nse",
    "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2019/JUN/fo04JUN2019bhav.csv.zip"
+  },
+  "raw/nse/fo_bhavcopy/2019/fo04NOV2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:19:29+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "fo04NOV2019bhav.csv.zip",
+   "sha256": "f2cc1741d4e4d9a960cc2e62c551e9b2d601822e4b5aa23794706d70554a5a9c",
+   "size_bytes": 403897,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2019/NOV/fo04NOV2019bhav.csv.zip"
+  },
+  "raw/nse/fo_bhavcopy/2019/fo04OCT2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:18:44+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "fo04OCT2019bhav.csv.zip",
+   "sha256": "3ac480cfbb8c7bbb4ab22325e87c2b2dbe0d2fa922f2e2d553b0588d581a7f13",
+   "size_bytes": 420537,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2019/OCT/fo04OCT2019bhav.csv.zip"
+  },
+  "raw/nse/fo_bhavcopy/2019/fo04SEP2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:17:59+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "fo04SEP2019bhav.csv.zip",
+   "sha256": "a9652198c5eae4550f370b003b0ca66de70a1ac133d4b81e514d1b4909172fa0",
+   "size_bytes": 411884,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2019/SEP/fo04SEP2019bhav.csv.zip"
   },
   "raw/nse/fo_bhavcopy/2019/fo05APR2019bhav.csv.zip": {
    "downloaded_at": "2026-10-03T20:00:04+00:00",
@@ -19062,6 +20520,24 @@
    "source": "nse",
    "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2019/APR/fo05APR2019bhav.csv.zip"
   },
+  "raw/nse/fo_bhavcopy/2019/fo05AUG2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:17:15+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "fo05AUG2019bhav.csv.zip",
+   "sha256": "52d3a27ffb927529db7918ab7be448b93469aab8cab42ddde5880a7ae6b1bb3f",
+   "size_bytes": 432626,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2019/AUG/fo05AUG2019bhav.csv.zip"
+  },
+  "raw/nse/fo_bhavcopy/2019/fo05DEC2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:20:15+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "fo05DEC2019bhav.csv.zip",
+   "sha256": "51d049b191466ba76dca0f52a83fd8b0965722662abcb156ce4b95446997b202",
+   "size_bytes": 380218,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2019/DEC/fo05DEC2019bhav.csv.zip"
+  },
   "raw/nse/fo_bhavcopy/2019/fo05FEB2019bhav.csv.zip": {
    "downloaded_at": "2026-10-03T19:58:37+00:00",
    "host": "nsearchives.nseindia.com",
@@ -19071,6 +20547,15 @@
    "source": "nse",
    "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2019/FEB/fo05FEB2019bhav.csv.zip"
   },
+  "raw/nse/fo_bhavcopy/2019/fo05JUL2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:16:33+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "fo05JUL2019bhav.csv.zip",
+   "sha256": "fa457f6c6f7543c69a4e71f89c24790bc7e9d966098f4b5b9d245e7ef356b1cb",
+   "size_bytes": 427277,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2019/JUL/fo05JUL2019bhav.csv.zip"
+  },
   "raw/nse/fo_bhavcopy/2019/fo05MAR2019bhav.csv.zip": {
    "downloaded_at": "2026-10-03T19:59:17+00:00",
    "host": "nsearchives.nseindia.com",
@@ -19079,6 +20564,42 @@
    "size_bytes": 409476,
    "source": "nse",
    "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2019/MAR/fo05MAR2019bhav.csv.zip"
+  },
+  "raw/nse/fo_bhavcopy/2019/fo05NOV2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:19:31+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "fo05NOV2019bhav.csv.zip",
+   "sha256": "30bddfe58470935f46aaa4159542ca7569892bda7108c743685a7b327fddea2d",
+   "size_bytes": 403735,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2019/NOV/fo05NOV2019bhav.csv.zip"
+  },
+  "raw/nse/fo_bhavcopy/2019/fo05SEP2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:18:01+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "fo05SEP2019bhav.csv.zip",
+   "sha256": "2a3e701a82e462bc5b1cc81743314ec3153d828136b1e76362e7322eb80ba8e5",
+   "size_bytes": 411135,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2019/SEP/fo05SEP2019bhav.csv.zip"
+  },
+  "raw/nse/fo_bhavcopy/2019/fo06AUG2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:17:17+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "fo06AUG2019bhav.csv.zip",
+   "sha256": "3dac07a2f038419bcef09508692b12c1755017f4ea86b5b390583da23c768558",
+   "size_bytes": 437245,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2019/AUG/fo06AUG2019bhav.csv.zip"
+  },
+  "raw/nse/fo_bhavcopy/2019/fo06DEC2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:20:17+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "fo06DEC2019bhav.csv.zip",
+   "sha256": "12e46e20e0cf39e85ceee87e3a07856c8a2494511180593d01cd0143844ebdfd",
+   "size_bytes": 383981,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2019/DEC/fo06DEC2019bhav.csv.zip"
   },
   "raw/nse/fo_bhavcopy/2019/fo06FEB2019bhav.csv.zip": {
    "downloaded_at": "2026-10-03T19:58:39+00:00",
@@ -19115,6 +20636,33 @@
    "size_bytes": 467208,
    "source": "nse",
    "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2019/MAY/fo06MAY2019bhav.csv.zip"
+  },
+  "raw/nse/fo_bhavcopy/2019/fo06NOV2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:19:33+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "fo06NOV2019bhav.csv.zip",
+   "sha256": "cd41b9796f8902d4e32fee12030d5bd5b61a52ad50a755564d278f162db9d39b",
+   "size_bytes": 405969,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2019/NOV/fo06NOV2019bhav.csv.zip"
+  },
+  "raw/nse/fo_bhavcopy/2019/fo06SEP2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:18:03+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "fo06SEP2019bhav.csv.zip",
+   "sha256": "f0198c1fc479eac98c96f393220551a1b960a9be574e6a63337ec19c4edb76be",
+   "size_bytes": 409280,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2019/SEP/fo06SEP2019bhav.csv.zip"
+  },
+  "raw/nse/fo_bhavcopy/2019/fo07AUG2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:17:19+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "fo07AUG2019bhav.csv.zip",
+   "sha256": "ccaec52574bc90bf181a2e8774380ff6ba0bce7889d4799468957d2ffeaf9af1",
+   "size_bytes": 437668,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2019/AUG/fo07AUG2019bhav.csv.zip"
   },
   "raw/nse/fo_bhavcopy/2019/fo07FEB2019bhav.csv.zip": {
    "downloaded_at": "2026-10-03T19:58:41+00:00",
@@ -19161,6 +20709,24 @@
    "source": "nse",
    "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2019/MAY/fo07MAY2019bhav.csv.zip"
   },
+  "raw/nse/fo_bhavcopy/2019/fo07NOV2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:19:35+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "fo07NOV2019bhav.csv.zip",
+   "sha256": "ca5a1cc9283954d5612749a6dfa3ff16c66edbbeddc518ddb65568c89772be94",
+   "size_bytes": 406598,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2019/NOV/fo07NOV2019bhav.csv.zip"
+  },
+  "raw/nse/fo_bhavcopy/2019/fo07OCT2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:18:46+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "fo07OCT2019bhav.csv.zip",
+   "sha256": "80ef551fb712a88d1d4c6e36a205c30d3210daaf95546e52c5eb4fba1c6b86ab",
+   "size_bytes": 421545,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2019/OCT/fo07OCT2019bhav.csv.zip"
+  },
   "raw/nse/fo_bhavcopy/2019/fo08APR2019bhav.csv.zip": {
    "downloaded_at": "2026-10-03T20:00:05+00:00",
    "host": "nsearchives.nseindia.com",
@@ -19169,6 +20735,15 @@
    "size_bytes": 487123,
    "source": "nse",
    "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2019/APR/fo08APR2019bhav.csv.zip"
+  },
+  "raw/nse/fo_bhavcopy/2019/fo08AUG2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:17:21+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "fo08AUG2019bhav.csv.zip",
+   "sha256": "218325592d0278517e0da83974f42c447fa7b7355e263d6850d611a6be233c60",
+   "size_bytes": 441842,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2019/AUG/fo08AUG2019bhav.csv.zip"
   },
   "raw/nse/fo_bhavcopy/2019/fo08FEB2019bhav.csv.zip": {
    "downloaded_at": "2026-10-03T19:58:43+00:00",
@@ -19188,6 +20763,15 @@
    "source": "nse",
    "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2019/JAN/fo08JAN2019bhav.csv.zip"
   },
+  "raw/nse/fo_bhavcopy/2019/fo08JUL2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:16:35+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "fo08JUL2019bhav.csv.zip",
+   "sha256": "36241fd742f7e31324db945ee461a017a63a6b0bac4c1e9abea442b7d3a18c68",
+   "size_bytes": 435692,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2019/JUL/fo08JUL2019bhav.csv.zip"
+  },
   "raw/nse/fo_bhavcopy/2019/fo08MAR2019bhav.csv.zip": {
    "downloaded_at": "2026-10-03T19:59:24+00:00",
    "host": "nsearchives.nseindia.com",
@@ -19206,6 +20790,15 @@
    "source": "nse",
    "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2019/MAY/fo08MAY2019bhav.csv.zip"
   },
+  "raw/nse/fo_bhavcopy/2019/fo08NOV2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:19:37+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "fo08NOV2019bhav.csv.zip",
+   "sha256": "cbb1ade8ccd319005566078742dc925a6e8f120fcc3024137e5764254ac90e39",
+   "size_bytes": 408121,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2019/NOV/fo08NOV2019bhav.csv.zip"
+  },
   "raw/nse/fo_bhavcopy/2019/fo09APR2019bhav.csv.zip": {
    "downloaded_at": "2026-10-03T20:00:08+00:00",
    "host": "nsearchives.nseindia.com",
@@ -19214,6 +20807,24 @@
    "size_bytes": 488554,
    "source": "nse",
    "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2019/APR/fo09APR2019bhav.csv.zip"
+  },
+  "raw/nse/fo_bhavcopy/2019/fo09AUG2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:17:22+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "fo09AUG2019bhav.csv.zip",
+   "sha256": "b94be8a16ec974b24a7af37e4c851057c541b750ce73e9cfb6e14ab05caec93d",
+   "size_bytes": 443994,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2019/AUG/fo09AUG2019bhav.csv.zip"
+  },
+  "raw/nse/fo_bhavcopy/2019/fo09DEC2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:20:19+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "fo09DEC2019bhav.csv.zip",
+   "sha256": "758910fc5f76e39a8ad321ce12fe105ddd77b7af84a9a4142e0f7b4f1d17b8f1",
+   "size_bytes": 382322,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2019/DEC/fo09DEC2019bhav.csv.zip"
   },
   "raw/nse/fo_bhavcopy/2019/fo09JAN2019bhav.csv.zip": {
    "downloaded_at": "2026-10-03T19:57:59+00:00",
@@ -19224,6 +20835,15 @@
    "source": "nse",
    "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2019/JAN/fo09JAN2019bhav.csv.zip"
   },
+  "raw/nse/fo_bhavcopy/2019/fo09JUL2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:16:37+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "fo09JUL2019bhav.csv.zip",
+   "sha256": "6ab28813cee0bad976dad6f3a11f37713934cb533200399b62c7edb71fc80efc",
+   "size_bytes": 437814,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2019/JUL/fo09JUL2019bhav.csv.zip"
+  },
   "raw/nse/fo_bhavcopy/2019/fo09MAY2019bhav.csv.zip": {
    "downloaded_at": "2026-10-03T20:00:52+00:00",
    "host": "nsearchives.nseindia.com",
@@ -19232,6 +20852,24 @@
    "size_bytes": 473509,
    "source": "nse",
    "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2019/MAY/fo09MAY2019bhav.csv.zip"
+  },
+  "raw/nse/fo_bhavcopy/2019/fo09OCT2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:18:50+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "fo09OCT2019bhav.csv.zip",
+   "sha256": "7ac9d38639a0dd0ff07f537df38f3090ca0d4a4e239fc2cacd5e42eca146f958",
+   "size_bytes": 427206,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2019/OCT/fo09OCT2019bhav.csv.zip"
+  },
+  "raw/nse/fo_bhavcopy/2019/fo09SEP2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:18:05+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "fo09SEP2019bhav.csv.zip",
+   "sha256": "3fa68c1be653408f9c14781b8159578d92a96da11ac4def59dc71a770ae4cf3c",
+   "size_bytes": 409417,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2019/SEP/fo09SEP2019bhav.csv.zip"
   },
   "raw/nse/fo_bhavcopy/2019/fo10APR2019bhav.csv.zip": {
    "downloaded_at": "2026-10-03T20:00:10+00:00",
@@ -19242,6 +20880,15 @@
    "source": "nse",
    "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2019/APR/fo10APR2019bhav.csv.zip"
   },
+  "raw/nse/fo_bhavcopy/2019/fo10DEC2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:20:21+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "fo10DEC2019bhav.csv.zip",
+   "sha256": "1e46f6469e980f285adf0b7781e5ddce6b210f250e3bee995063e4d3d2075e2d",
+   "size_bytes": 384182,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2019/DEC/fo10DEC2019bhav.csv.zip"
+  },
   "raw/nse/fo_bhavcopy/2019/fo10JAN2019bhav.csv.zip": {
    "downloaded_at": "2026-10-03T19:58:01+00:00",
    "host": "nsearchives.nseindia.com",
@@ -19250,6 +20897,15 @@
    "size_bytes": 444056,
    "source": "nse",
    "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2019/JAN/fo10JAN2019bhav.csv.zip"
+  },
+  "raw/nse/fo_bhavcopy/2019/fo10JUL2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:16:38+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "fo10JUL2019bhav.csv.zip",
+   "sha256": "182e0660778877475f39adfb12811102813aef829d952978d889951e6adfc478",
+   "size_bytes": 437084,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2019/JUL/fo10JUL2019bhav.csv.zip"
   },
   "raw/nse/fo_bhavcopy/2019/fo10JUN2019bhav.csv.zip": {
    "downloaded_at": "2026-10-03T20:01:37+00:00",
@@ -19269,6 +20925,15 @@
    "source": "nse",
    "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2019/MAY/fo10MAY2019bhav.csv.zip"
   },
+  "raw/nse/fo_bhavcopy/2019/fo10OCT2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:18:52+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "fo10OCT2019bhav.csv.zip",
+   "sha256": "817f650fa8a8460aa5bce1706b2dcdacdbd6e9a40f00c3edcd4b1bb15aea6538",
+   "size_bytes": 422966,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2019/OCT/fo10OCT2019bhav.csv.zip"
+  },
   "raw/nse/fo_bhavcopy/2019/fo11APR2019bhav.csv.zip": {
    "downloaded_at": "2026-10-03T20:00:11+00:00",
    "host": "nsearchives.nseindia.com",
@@ -19277,6 +20942,15 @@
    "size_bytes": 487155,
    "source": "nse",
    "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2019/APR/fo11APR2019bhav.csv.zip"
+  },
+  "raw/nse/fo_bhavcopy/2019/fo11DEC2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:20:23+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "fo11DEC2019bhav.csv.zip",
+   "sha256": "9ed9eacecbf2da0422140b8bfdc77276212807d41a36daf2ef892e09fc7399a6",
+   "size_bytes": 385506,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2019/DEC/fo11DEC2019bhav.csv.zip"
   },
   "raw/nse/fo_bhavcopy/2019/fo11FEB2019bhav.csv.zip": {
    "downloaded_at": "2026-10-03T19:58:45+00:00",
@@ -19296,6 +20970,15 @@
    "source": "nse",
    "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2019/JAN/fo11JAN2019bhav.csv.zip"
   },
+  "raw/nse/fo_bhavcopy/2019/fo11JUL2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:16:41+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "fo11JUL2019bhav.csv.zip",
+   "sha256": "c8c7122e4a1c18f7cf25688ec01bea1128a63e36f3f7e566c051e8aa0702e16b",
+   "size_bytes": 436962,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2019/JUL/fo11JUL2019bhav.csv.zip"
+  },
   "raw/nse/fo_bhavcopy/2019/fo11JUN2019bhav.csv.zip": {
    "downloaded_at": "2026-10-03T20:01:39+00:00",
    "host": "nsearchives.nseindia.com",
@@ -19314,6 +20997,33 @@
    "source": "nse",
    "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2019/MAR/fo11MAR2019bhav.csv.zip"
   },
+  "raw/nse/fo_bhavcopy/2019/fo11NOV2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:19:39+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "fo11NOV2019bhav.csv.zip",
+   "sha256": "6149f7f8290f3e6a4bbde334f0ea4b34650b4e664e7288e2d48307cfe1c480c8",
+   "size_bytes": 405874,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2019/NOV/fo11NOV2019bhav.csv.zip"
+  },
+  "raw/nse/fo_bhavcopy/2019/fo11OCT2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:18:54+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "fo11OCT2019bhav.csv.zip",
+   "sha256": "4ce6a54d6e1330343a980ad3e97e7beb8a719a11d83238052110f8a4f7fb12d7",
+   "size_bytes": 421658,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2019/OCT/fo11OCT2019bhav.csv.zip"
+  },
+  "raw/nse/fo_bhavcopy/2019/fo11SEP2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:18:09+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "fo11SEP2019bhav.csv.zip",
+   "sha256": "5719b2fceedcf1c29d281602c95d011194c12e4da17f8b0cf4df17d887724e68",
+   "size_bytes": 412850,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2019/SEP/fo11SEP2019bhav.csv.zip"
+  },
   "raw/nse/fo_bhavcopy/2019/fo12APR2019bhav.csv.zip": {
    "downloaded_at": "2026-10-03T20:00:13+00:00",
    "host": "nsearchives.nseindia.com",
@@ -19323,6 +21033,15 @@
    "source": "nse",
    "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2019/APR/fo12APR2019bhav.csv.zip"
   },
+  "raw/nse/fo_bhavcopy/2019/fo12DEC2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:20:27+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "fo12DEC2019bhav.csv.zip",
+   "sha256": "522eaac90e733c19bfa36eaf3314ba333d67c8bbe7c7184e1585c4ee4edc2744",
+   "size_bytes": 384692,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2019/DEC/fo12DEC2019bhav.csv.zip"
+  },
   "raw/nse/fo_bhavcopy/2019/fo12FEB2019bhav.csv.zip": {
    "downloaded_at": "2026-10-03T19:58:47+00:00",
    "host": "nsearchives.nseindia.com",
@@ -19331,6 +21050,15 @@
    "size_bytes": 443813,
    "source": "nse",
    "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2019/FEB/fo12FEB2019bhav.csv.zip"
+  },
+  "raw/nse/fo_bhavcopy/2019/fo12JUL2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:16:43+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "fo12JUL2019bhav.csv.zip",
+   "sha256": "9b3614eb027f8ea0be8851b043494e15b389ab602a4cc8b13316616032ef6df9",
+   "size_bytes": 434476,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2019/JUL/fo12JUL2019bhav.csv.zip"
   },
   "raw/nse/fo_bhavcopy/2019/fo12JUN2019bhav.csv.zip": {
    "downloaded_at": "2026-10-03T20:01:41+00:00",
@@ -19349,6 +21077,33 @@
    "size_bytes": 427381,
    "source": "nse",
    "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2019/MAR/fo12MAR2019bhav.csv.zip"
+  },
+  "raw/nse/fo_bhavcopy/2019/fo12SEP2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:18:11+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "fo12SEP2019bhav.csv.zip",
+   "sha256": "d3c916c1e2250f622d80abf313495fd3ac7845bd3bad722617b76d13679d1d40",
+   "size_bytes": 413601,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2019/SEP/fo12SEP2019bhav.csv.zip"
+  },
+  "raw/nse/fo_bhavcopy/2019/fo13AUG2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:17:26+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "fo13AUG2019bhav.csv.zip",
+   "sha256": "01ab36e94e1c6fb3577286f03feaeac6ec5d353a8b5f297480f1bc4eeac57643",
+   "size_bytes": 445978,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2019/AUG/fo13AUG2019bhav.csv.zip"
+  },
+  "raw/nse/fo_bhavcopy/2019/fo13DEC2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:20:29+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "fo13DEC2019bhav.csv.zip",
+   "sha256": "179fef5378208a1d3d47d58a5a4cdfe15673715fedbbf6f97bca0711cffc961c",
+   "size_bytes": 387483,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2019/DEC/fo13DEC2019bhav.csv.zip"
   },
   "raw/nse/fo_bhavcopy/2019/fo13FEB2019bhav.csv.zip": {
    "downloaded_at": "2026-10-03T19:58:50+00:00",
@@ -19385,6 +21140,33 @@
    "size_bytes": 477005,
    "source": "nse",
    "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2019/MAY/fo13MAY2019bhav.csv.zip"
+  },
+  "raw/nse/fo_bhavcopy/2019/fo13NOV2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:19:43+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "fo13NOV2019bhav.csv.zip",
+   "sha256": "0c6d524331b3cdd57bc3edd39ce8619801b3934f5ceee7f10e0dc2b504fb07f3",
+   "size_bytes": 411807,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2019/NOV/fo13NOV2019bhav.csv.zip"
+  },
+  "raw/nse/fo_bhavcopy/2019/fo13SEP2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:18:13+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "fo13SEP2019bhav.csv.zip",
+   "sha256": "7931ba2e204e560fdda991123e49211ff0df2cb9abe19cec1df8937d102ce14d",
+   "size_bytes": 412215,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2019/SEP/fo13SEP2019bhav.csv.zip"
+  },
+  "raw/nse/fo_bhavcopy/2019/fo14AUG2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:17:29+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "fo14AUG2019bhav.csv.zip",
+   "sha256": "cb57da37714baacc7ab05e67f3257f0031bb8b83995cfd39b632fedd619a6fd6",
+   "size_bytes": 445633,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2019/AUG/fo14AUG2019bhav.csv.zip"
   },
   "raw/nse/fo_bhavcopy/2019/fo14FEB2019bhav.csv.zip": {
    "downloaded_at": "2026-10-03T19:58:51+00:00",
@@ -19431,6 +21213,24 @@
    "source": "nse",
    "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2019/MAY/fo14MAY2019bhav.csv.zip"
   },
+  "raw/nse/fo_bhavcopy/2019/fo14NOV2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:19:45+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "fo14NOV2019bhav.csv.zip",
+   "sha256": "23b4e1b3d7ed892242f5768a2ee6ca491298fe9aa47762b408c19888e3575e3a",
+   "size_bytes": 412331,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2019/NOV/fo14NOV2019bhav.csv.zip"
+  },
+  "raw/nse/fo_bhavcopy/2019/fo14OCT2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:18:56+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "fo14OCT2019bhav.csv.zip",
+   "sha256": "270239e9dcb3facfebf094187b3af25aeb7fa40e7c3c842205f81fcda9702eb8",
+   "size_bytes": 422665,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2019/OCT/fo14OCT2019bhav.csv.zip"
+  },
   "raw/nse/fo_bhavcopy/2019/fo15APR2019bhav.csv.zip": {
    "downloaded_at": "2026-10-03T20:00:15+00:00",
    "host": "nsearchives.nseindia.com",
@@ -19458,6 +21258,15 @@
    "source": "nse",
    "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2019/JAN/fo15JAN2019bhav.csv.zip"
   },
+  "raw/nse/fo_bhavcopy/2019/fo15JUL2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:16:45+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "fo15JUL2019bhav.csv.zip",
+   "sha256": "0f5943d38b07f01e8e27119c108368355ba87c939a3ab395b6f3e11c1bed50c4",
+   "size_bytes": 435670,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2019/JUL/fo15JUL2019bhav.csv.zip"
+  },
   "raw/nse/fo_bhavcopy/2019/fo15MAR2019bhav.csv.zip": {
    "downloaded_at": "2026-10-03T19:59:33+00:00",
    "host": "nsearchives.nseindia.com",
@@ -19476,6 +21285,24 @@
    "source": "nse",
    "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2019/MAY/fo15MAY2019bhav.csv.zip"
   },
+  "raw/nse/fo_bhavcopy/2019/fo15NOV2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:19:47+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "fo15NOV2019bhav.csv.zip",
+   "sha256": "79018a3701c636bf3a699dcb5e6d11b889dc158a0695817d440d5719927ed729",
+   "size_bytes": 412749,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2019/NOV/fo15NOV2019bhav.csv.zip"
+  },
+  "raw/nse/fo_bhavcopy/2019/fo15OCT2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:18:59+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "fo15OCT2019bhav.csv.zip",
+   "sha256": "e603a35449d1df8064f2132796c46e1cebe93b0c3c9ba4b50ddb66ef3f345210",
+   "size_bytes": 424805,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2019/OCT/fo15OCT2019bhav.csv.zip"
+  },
   "raw/nse/fo_bhavcopy/2019/fo16APR2019bhav.csv.zip": {
    "downloaded_at": "2026-10-03T20:00:17+00:00",
    "host": "nsearchives.nseindia.com",
@@ -19484,6 +21311,24 @@
    "size_bytes": 512414,
    "source": "nse",
    "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2019/APR/fo16APR2019bhav.csv.zip"
+  },
+  "raw/nse/fo_bhavcopy/2019/fo16AUG2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:17:33+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "fo16AUG2019bhav.csv.zip",
+   "sha256": "de4ef791a789128f46a59fcd154a7401955ee4b829bd8796b30f6cbc221f910f",
+   "size_bytes": 439699,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2019/AUG/fo16AUG2019bhav.csv.zip"
+  },
+  "raw/nse/fo_bhavcopy/2019/fo16DEC2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:20:31+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "fo16DEC2019bhav.csv.zip",
+   "sha256": "10e4fced060b8fac7b1d1e843a4ecaf20ac596cf3c74010862b8e3b10963d857",
+   "size_bytes": 386061,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2019/DEC/fo16DEC2019bhav.csv.zip"
   },
   "raw/nse/fo_bhavcopy/2019/fo16JAN2019bhav.csv.zip": {
    "downloaded_at": "2026-10-03T19:58:09+00:00",
@@ -19494,6 +21339,15 @@
    "source": "nse",
    "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2019/JAN/fo16JAN2019bhav.csv.zip"
   },
+  "raw/nse/fo_bhavcopy/2019/fo16JUL2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:16:47+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "fo16JUL2019bhav.csv.zip",
+   "sha256": "824d38ae2dd8dfeeb11ae05a6dbe17490dc2a2512b51272662cb694ed112ad0c",
+   "size_bytes": 440965,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2019/JUL/fo16JUL2019bhav.csv.zip"
+  },
   "raw/nse/fo_bhavcopy/2019/fo16MAY2019bhav.csv.zip": {
    "downloaded_at": "2026-10-03T20:01:02+00:00",
    "host": "nsearchives.nseindia.com",
@@ -19503,6 +21357,33 @@
    "source": "nse",
    "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2019/MAY/fo16MAY2019bhav.csv.zip"
   },
+  "raw/nse/fo_bhavcopy/2019/fo16OCT2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:19:00+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "fo16OCT2019bhav.csv.zip",
+   "sha256": "2b7c950e344b329900cc23e8f2f8c853bc1c948b19f6b2ba3f0f9e062c5db1c6",
+   "size_bytes": 423737,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2019/OCT/fo16OCT2019bhav.csv.zip"
+  },
+  "raw/nse/fo_bhavcopy/2019/fo16SEP2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:18:15+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "fo16SEP2019bhav.csv.zip",
+   "sha256": "c441b3d27e877047dda06fd08a4467cdaf095d57948eb05cdf10887f0af0806e",
+   "size_bytes": 413186,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2019/SEP/fo16SEP2019bhav.csv.zip"
+  },
+  "raw/nse/fo_bhavcopy/2019/fo17DEC2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:20:33+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "fo17DEC2019bhav.csv.zip",
+   "sha256": "5be05bb31db3d03655d845076fb335685eca18cf7392d8279c29659fb5767da4",
+   "size_bytes": 389872,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2019/DEC/fo17DEC2019bhav.csv.zip"
+  },
   "raw/nse/fo_bhavcopy/2019/fo17JAN2019bhav.csv.zip": {
    "downloaded_at": "2026-10-03T19:58:11+00:00",
    "host": "nsearchives.nseindia.com",
@@ -19511,6 +21392,15 @@
    "size_bytes": 452086,
    "source": "nse",
    "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2019/JAN/fo17JAN2019bhav.csv.zip"
+  },
+  "raw/nse/fo_bhavcopy/2019/fo17JUL2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:16:48+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "fo17JUL2019bhav.csv.zip",
+   "sha256": "ebba676a3d6d712baaa00d2244693963df94446d58fbf6389f62b8a300d274e7",
+   "size_bytes": 442560,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2019/JUL/fo17JUL2019bhav.csv.zip"
   },
   "raw/nse/fo_bhavcopy/2019/fo17JUN2019bhav.csv.zip": {
    "downloaded_at": "2026-10-03T20:01:47+00:00",
@@ -19530,6 +21420,24 @@
    "source": "nse",
    "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2019/MAY/fo17MAY2019bhav.csv.zip"
   },
+  "raw/nse/fo_bhavcopy/2019/fo17OCT2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:19:03+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "fo17OCT2019bhav.csv.zip",
+   "sha256": "8c8a3553619c3306c50151d2c3092980644391e1ab4b0d76fa4374e68ad67a59",
+   "size_bytes": 427583,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2019/OCT/fo17OCT2019bhav.csv.zip"
+  },
+  "raw/nse/fo_bhavcopy/2019/fo17SEP2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:18:17+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "fo17SEP2019bhav.csv.zip",
+   "sha256": "3c605383274655db8b98cf77f32231ccb8c1b3a383265391da9eeb2363ccca0d",
+   "size_bytes": 419064,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2019/SEP/fo17SEP2019bhav.csv.zip"
+  },
   "raw/nse/fo_bhavcopy/2019/fo18APR2019bhav.csv.zip": {
    "downloaded_at": "2026-10-03T20:00:22+00:00",
    "host": "nsearchives.nseindia.com",
@@ -19538,6 +21446,15 @@
    "size_bytes": 517639,
    "source": "nse",
    "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2019/APR/fo18APR2019bhav.csv.zip"
+  },
+  "raw/nse/fo_bhavcopy/2019/fo18DEC2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:20:35+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "fo18DEC2019bhav.csv.zip",
+   "sha256": "5eebc3d23925399c6f63fe30d058ae0de20ada1ef9859382ba953503ed8e540f",
+   "size_bytes": 393885,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2019/DEC/fo18DEC2019bhav.csv.zip"
   },
   "raw/nse/fo_bhavcopy/2019/fo18FEB2019bhav.csv.zip": {
    "downloaded_at": "2026-10-03T19:58:55+00:00",
@@ -19557,6 +21474,15 @@
    "source": "nse",
    "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2019/JAN/fo18JAN2019bhav.csv.zip"
   },
+  "raw/nse/fo_bhavcopy/2019/fo18JUL2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:16:51+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "fo18JUL2019bhav.csv.zip",
+   "sha256": "ca58aabd9a74ae0a263b2248aaebcdaf09037ff86165376800b205d146b3d296",
+   "size_bytes": 446832,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2019/JUL/fo18JUL2019bhav.csv.zip"
+  },
   "raw/nse/fo_bhavcopy/2019/fo18JUN2019bhav.csv.zip": {
    "downloaded_at": "2026-10-03T20:01:49+00:00",
    "host": "nsearchives.nseindia.com",
@@ -19575,6 +21501,51 @@
    "source": "nse",
    "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2019/MAR/fo18MAR2019bhav.csv.zip"
   },
+  "raw/nse/fo_bhavcopy/2019/fo18NOV2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:19:49+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "fo18NOV2019bhav.csv.zip",
+   "sha256": "4a751bfb6ec4e327fe37191232bcb859a7f8727d5f9a8c41681dd43a9139d26c",
+   "size_bytes": 413301,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2019/NOV/fo18NOV2019bhav.csv.zip"
+  },
+  "raw/nse/fo_bhavcopy/2019/fo18OCT2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:19:05+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "fo18OCT2019bhav.csv.zip",
+   "sha256": "46e3ec36459880a97d598a88f38384aaa0c992ae0693f99460879df6640acb99",
+   "size_bytes": 431726,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2019/OCT/fo18OCT2019bhav.csv.zip"
+  },
+  "raw/nse/fo_bhavcopy/2019/fo18SEP2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:18:20+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "fo18SEP2019bhav.csv.zip",
+   "sha256": "86061c1aab4b73bfcb3d21134f20978f3d984a56d572a21506b69712a57ea5b8",
+   "size_bytes": 418713,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2019/SEP/fo18SEP2019bhav.csv.zip"
+  },
+  "raw/nse/fo_bhavcopy/2019/fo19AUG2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:17:34+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "fo19AUG2019bhav.csv.zip",
+   "sha256": "1a1ecfd6b5840616cec5c0b64407d4d446975276295b89d7b023a5ae7986b66a",
+   "size_bytes": 441603,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2019/AUG/fo19AUG2019bhav.csv.zip"
+  },
+  "raw/nse/fo_bhavcopy/2019/fo19DEC2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:20:37+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "fo19DEC2019bhav.csv.zip",
+   "sha256": "ba239545d11be6bc075d1970241707f93ef87a8b06fa6050762d7b6c2831c244",
+   "size_bytes": 394737,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2019/DEC/fo19DEC2019bhav.csv.zip"
+  },
   "raw/nse/fo_bhavcopy/2019/fo19FEB2019bhav.csv.zip": {
    "downloaded_at": "2026-10-03T19:58:57+00:00",
    "host": "nsearchives.nseindia.com",
@@ -19583,6 +21554,15 @@
    "size_bytes": 453572,
    "source": "nse",
    "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2019/FEB/fo19FEB2019bhav.csv.zip"
+  },
+  "raw/nse/fo_bhavcopy/2019/fo19JUL2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:16:53+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "fo19JUL2019bhav.csv.zip",
+   "sha256": "d62786da5297c060c681d85313345ae70496df4c79a6a2573baaec2e933d9ec6",
+   "size_bytes": 456445,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2019/JUL/fo19JUL2019bhav.csv.zip"
   },
   "raw/nse/fo_bhavcopy/2019/fo19JUN2019bhav.csv.zip": {
    "downloaded_at": "2026-10-03T20:01:52+00:00",
@@ -19601,6 +21581,42 @@
    "size_bytes": 442554,
    "source": "nse",
    "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2019/MAR/fo19MAR2019bhav.csv.zip"
+  },
+  "raw/nse/fo_bhavcopy/2019/fo19NOV2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:19:51+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "fo19NOV2019bhav.csv.zip",
+   "sha256": "ab41b1b284d7a46f3a644da095507d62a0e1589be15cdd1e5dbffcc0ea102e1b",
+   "size_bytes": 417088,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2019/NOV/fo19NOV2019bhav.csv.zip"
+  },
+  "raw/nse/fo_bhavcopy/2019/fo19SEP2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:18:22+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "fo19SEP2019bhav.csv.zip",
+   "sha256": "451d8198a8c6b6c5b81745d4a25fac4fb108a4dac7aa00a3d35172822ce28d0e",
+   "size_bytes": 421339,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2019/SEP/fo19SEP2019bhav.csv.zip"
+  },
+  "raw/nse/fo_bhavcopy/2019/fo20AUG2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:17:37+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "fo20AUG2019bhav.csv.zip",
+   "sha256": "f3a66969e90571a8d92789c11a54bdaa3d27922eda30d13cb01b87ae672b3d72",
+   "size_bytes": 448686,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2019/AUG/fo20AUG2019bhav.csv.zip"
+  },
+  "raw/nse/fo_bhavcopy/2019/fo20DEC2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:20:39+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "fo20DEC2019bhav.csv.zip",
+   "sha256": "bcd08d7f7a709cf549342748bffb70536062fc03d00075747e5737fe539c4837",
+   "size_bytes": 400394,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2019/DEC/fo20DEC2019bhav.csv.zip"
   },
   "raw/nse/fo_bhavcopy/2019/fo20FEB2019bhav.csv.zip": {
    "downloaded_at": "2026-10-03T19:58:59+00:00",
@@ -19638,6 +21654,33 @@
    "source": "nse",
    "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2019/MAY/fo20MAY2019bhav.csv.zip"
   },
+  "raw/nse/fo_bhavcopy/2019/fo20NOV2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:19:53+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "fo20NOV2019bhav.csv.zip",
+   "sha256": "cc2d832af289da125b3d9925304e054aedfd4aaaa9c5093ea80d701df4f82285",
+   "size_bytes": 423048,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2019/NOV/fo20NOV2019bhav.csv.zip"
+  },
+  "raw/nse/fo_bhavcopy/2019/fo20SEP2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:18:24+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "fo20SEP2019bhav.csv.zip",
+   "sha256": "fa3b8d2c8e4cf7154d7cff4231f5712aec2224fe09a57602097c17a084ee9f3b",
+   "size_bytes": 449002,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2019/SEP/fo20SEP2019bhav.csv.zip"
+  },
+  "raw/nse/fo_bhavcopy/2019/fo21AUG2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:17:39+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "fo21AUG2019bhav.csv.zip",
+   "sha256": "a9a2315a11a1e88a99d3255bd0ccf132f42ab6b44de1587bff412512bcc4b502",
+   "size_bytes": 453646,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2019/AUG/fo21AUG2019bhav.csv.zip"
+  },
   "raw/nse/fo_bhavcopy/2019/fo21FEB2019bhav.csv.zip": {
    "downloaded_at": "2026-10-03T19:59:01+00:00",
    "host": "nsearchives.nseindia.com",
@@ -19674,6 +21717,15 @@
    "source": "nse",
    "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2019/MAY/fo21MAY2019bhav.csv.zip"
   },
+  "raw/nse/fo_bhavcopy/2019/fo21NOV2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:19:55+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "fo21NOV2019bhav.csv.zip",
+   "sha256": "1196007995c615367a6f498442cbe127ce9b73badc46d184c800f9bafaae342e",
+   "size_bytes": 424309,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2019/NOV/fo21NOV2019bhav.csv.zip"
+  },
   "raw/nse/fo_bhavcopy/2019/fo22APR2019bhav.csv.zip": {
    "downloaded_at": "2026-10-03T20:00:26+00:00",
    "host": "nsearchives.nseindia.com",
@@ -19682,6 +21734,15 @@
    "size_bytes": 522185,
    "source": "nse",
    "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2019/APR/fo22APR2019bhav.csv.zip"
+  },
+  "raw/nse/fo_bhavcopy/2019/fo22AUG2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:17:41+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "fo22AUG2019bhav.csv.zip",
+   "sha256": "1e6d11d9ded974a1c47e5cfb2e47ef938ed5e920df5e1e508f514f5541615582",
+   "size_bytes": 463408,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2019/AUG/fo22AUG2019bhav.csv.zip"
   },
   "raw/nse/fo_bhavcopy/2019/fo22FEB2019bhav.csv.zip": {
    "downloaded_at": "2026-10-03T19:59:03+00:00",
@@ -19701,6 +21762,15 @@
    "source": "nse",
    "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2019/JAN/fo22JAN2019bhav.csv.zip"
   },
+  "raw/nse/fo_bhavcopy/2019/fo22JUL2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:16:54+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "fo22JUL2019bhav.csv.zip",
+   "sha256": "d08e56cb340bb0e807a45308e4fda894aa823a19da5f2b594a52a1622f87f188",
+   "size_bytes": 461705,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2019/JUL/fo22JUL2019bhav.csv.zip"
+  },
   "raw/nse/fo_bhavcopy/2019/fo22MAR2019bhav.csv.zip": {
    "downloaded_at": "2026-10-03T19:59:44+00:00",
    "host": "nsearchives.nseindia.com",
@@ -19719,6 +21789,24 @@
    "source": "nse",
    "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2019/MAY/fo22MAY2019bhav.csv.zip"
   },
+  "raw/nse/fo_bhavcopy/2019/fo22NOV2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:19:57+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "fo22NOV2019bhav.csv.zip",
+   "sha256": "88406af88f5f5e3a8b4a6cf784df5acd8a502f53d2655655a73e96bfc1192553",
+   "size_bytes": 426246,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2019/NOV/fo22NOV2019bhav.csv.zip"
+  },
+  "raw/nse/fo_bhavcopy/2019/fo22OCT2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:19:08+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "fo22OCT2019bhav.csv.zip",
+   "sha256": "6391c202e3bbbb0760b337b599b67672a4fef0636abfb3a418106bacf5d71c58",
+   "size_bytes": 435521,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2019/OCT/fo22OCT2019bhav.csv.zip"
+  },
   "raw/nse/fo_bhavcopy/2019/fo23APR2019bhav.csv.zip": {
    "downloaded_at": "2026-10-03T20:00:27+00:00",
    "host": "nsearchives.nseindia.com",
@@ -19727,6 +21815,24 @@
    "size_bytes": 523409,
    "source": "nse",
    "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2019/APR/fo23APR2019bhav.csv.zip"
+  },
+  "raw/nse/fo_bhavcopy/2019/fo23AUG2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:17:43+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "fo23AUG2019bhav.csv.zip",
+   "sha256": "6f55280d1d7023c1210054c6480c6f6457abd63e69363b3007a62028393fb0bc",
+   "size_bytes": 470939,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2019/AUG/fo23AUG2019bhav.csv.zip"
+  },
+  "raw/nse/fo_bhavcopy/2019/fo23DEC2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:20:41+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "fo23DEC2019bhav.csv.zip",
+   "sha256": "a802624c9d178f3ba6775f0a61e34a2838afa4941fdb2f0278788697695ae1f6",
+   "size_bytes": 402978,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2019/DEC/fo23DEC2019bhav.csv.zip"
   },
   "raw/nse/fo_bhavcopy/2019/fo23JAN2019bhav.csv.zip": {
    "downloaded_at": "2026-10-03T19:58:19+00:00",
@@ -19737,6 +21843,15 @@
    "source": "nse",
    "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2019/JAN/fo23JAN2019bhav.csv.zip"
   },
+  "raw/nse/fo_bhavcopy/2019/fo23JUL2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:16:57+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "fo23JUL2019bhav.csv.zip",
+   "sha256": "fbfdc7e45f832a5a79a904fb21d4797f6c6fdda06b316e2aeb817e747b8df79e",
+   "size_bytes": 464772,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2019/JUL/fo23JUL2019bhav.csv.zip"
+  },
   "raw/nse/fo_bhavcopy/2019/fo23MAY2019bhav.csv.zip": {
    "downloaded_at": "2026-10-03T20:01:12+00:00",
    "host": "nsearchives.nseindia.com",
@@ -19745,6 +21860,24 @@
    "size_bytes": 503732,
    "source": "nse",
    "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2019/MAY/fo23MAY2019bhav.csv.zip"
+  },
+  "raw/nse/fo_bhavcopy/2019/fo23OCT2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:19:11+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "fo23OCT2019bhav.csv.zip",
+   "sha256": "fa9e0e764a145c94520076fcbe7258c098a58620aa7559f95c5354cb19788087",
+   "size_bytes": 436944,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2019/OCT/fo23OCT2019bhav.csv.zip"
+  },
+  "raw/nse/fo_bhavcopy/2019/fo23SEP2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:18:26+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "fo23SEP2019bhav.csv.zip",
+   "sha256": "de998e9274d3add2ebd42e995c8e7fe7c2a14c863fe10b1ec8e2b41472e2dd4e",
+   "size_bytes": 452954,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2019/SEP/fo23SEP2019bhav.csv.zip"
   },
   "raw/nse/fo_bhavcopy/2019/fo24APR2019bhav.csv.zip": {
    "downloaded_at": "2026-10-03T20:00:29+00:00",
@@ -19755,6 +21888,15 @@
    "source": "nse",
    "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2019/APR/fo24APR2019bhav.csv.zip"
   },
+  "raw/nse/fo_bhavcopy/2019/fo24DEC2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:20:43+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "fo24DEC2019bhav.csv.zip",
+   "sha256": "28824ba03a96493dc98852ba0998288b93ea09d1db3674b90387f950a18c4c49",
+   "size_bytes": 406543,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2019/DEC/fo24DEC2019bhav.csv.zip"
+  },
   "raw/nse/fo_bhavcopy/2019/fo24JAN2019bhav.csv.zip": {
    "downloaded_at": "2026-10-03T19:58:21+00:00",
    "host": "nsearchives.nseindia.com",
@@ -19763,6 +21905,15 @@
    "size_bytes": 458962,
    "source": "nse",
    "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2019/JAN/fo24JAN2019bhav.csv.zip"
+  },
+  "raw/nse/fo_bhavcopy/2019/fo24JUL2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:16:59+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "fo24JUL2019bhav.csv.zip",
+   "sha256": "0b342ccddb7ae6545fcc274715fec78c4dce680500de2cddd5aeca48fb191a84",
+   "size_bytes": 474138,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2019/JUL/fo24JUL2019bhav.csv.zip"
   },
   "raw/nse/fo_bhavcopy/2019/fo24JUN2019bhav.csv.zip": {
    "downloaded_at": "2026-10-03T20:01:57+00:00",
@@ -19781,6 +21932,24 @@
    "size_bytes": 507165,
    "source": "nse",
    "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2019/MAY/fo24MAY2019bhav.csv.zip"
+  },
+  "raw/nse/fo_bhavcopy/2019/fo24OCT2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:19:13+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "fo24OCT2019bhav.csv.zip",
+   "sha256": "dcbb7b8dab8d22d92958982de0880a62c8dc3c3a89f739f3f88c0f86e215af72",
+   "size_bytes": 439676,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2019/OCT/fo24OCT2019bhav.csv.zip"
+  },
+  "raw/nse/fo_bhavcopy/2019/fo24SEP2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:18:28+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "fo24SEP2019bhav.csv.zip",
+   "sha256": "00d8d2fd54bf4004ce589acf2c1dcd8d79e9f18ae15c65f2bb470d4468d58f4a",
+   "size_bytes": 460795,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2019/SEP/fo24SEP2019bhav.csv.zip"
   },
   "raw/nse/fo_bhavcopy/2019/fo25APR2019bhav.csv.zip": {
    "downloaded_at": "2026-10-03T20:00:31+00:00",
@@ -19809,6 +21978,15 @@
    "source": "nse",
    "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2019/JAN/fo25JAN2019bhav.csv.zip"
   },
+  "raw/nse/fo_bhavcopy/2019/fo25JUL2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:17:01+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "fo25JUL2019bhav.csv.zip",
+   "sha256": "bf8e9fbbaef550d040dc0ae37617a4ff2df7d33f957c4289b7c4db7a95b7085f",
+   "size_bytes": 475369,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2019/JUL/fo25JUL2019bhav.csv.zip"
+  },
   "raw/nse/fo_bhavcopy/2019/fo25JUN2019bhav.csv.zip": {
    "downloaded_at": "2026-10-03T20:01:59+00:00",
    "host": "nsearchives.nseindia.com",
@@ -19827,6 +22005,33 @@
    "source": "nse",
    "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2019/MAR/fo25MAR2019bhav.csv.zip"
   },
+  "raw/nse/fo_bhavcopy/2019/fo25NOV2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:19:59+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "fo25NOV2019bhav.csv.zip",
+   "sha256": "86b216f14a8680857c3eec9125af8cb6c58694823c02df9c4516d14246cd8e4d",
+   "size_bytes": 429635,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2019/NOV/fo25NOV2019bhav.csv.zip"
+  },
+  "raw/nse/fo_bhavcopy/2019/fo25OCT2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:19:14+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "fo25OCT2019bhav.csv.zip",
+   "sha256": "8fe7cc86049338a45562646ff29cb3ea23cab5ad64b728f03049c0032a2a0c87",
+   "size_bytes": 447123,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2019/OCT/fo25OCT2019bhav.csv.zip"
+  },
+  "raw/nse/fo_bhavcopy/2019/fo25SEP2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:18:31+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "fo25SEP2019bhav.csv.zip",
+   "sha256": "e6ffc712a3cb5bb13ca1c8a4350637bdeeeed01c4a2f0d0c73069f4b0278f2ad",
+   "size_bytes": 461516,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2019/SEP/fo25SEP2019bhav.csv.zip"
+  },
   "raw/nse/fo_bhavcopy/2019/fo26APR2019bhav.csv.zip": {
    "downloaded_at": "2026-10-03T20:00:33+00:00",
    "host": "nsearchives.nseindia.com",
@@ -19836,6 +22041,24 @@
    "source": "nse",
    "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2019/APR/fo26APR2019bhav.csv.zip"
   },
+  "raw/nse/fo_bhavcopy/2019/fo26AUG2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:17:45+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "fo26AUG2019bhav.csv.zip",
+   "sha256": "17cd82c5507a7a4322f31dda950298759e27e413b3612eaf623cf44d7ea26a1f",
+   "size_bytes": 475366,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2019/AUG/fo26AUG2019bhav.csv.zip"
+  },
+  "raw/nse/fo_bhavcopy/2019/fo26DEC2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:20:47+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "fo26DEC2019bhav.csv.zip",
+   "sha256": "b89959390a03917539ff7dbd177c0a9849c6e39030e57fb637534ab8c68bbc7f",
+   "size_bytes": 404115,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2019/DEC/fo26DEC2019bhav.csv.zip"
+  },
   "raw/nse/fo_bhavcopy/2019/fo26FEB2019bhav.csv.zip": {
    "downloaded_at": "2026-10-03T19:59:07+00:00",
    "host": "nsearchives.nseindia.com",
@@ -19844,6 +22067,15 @@
    "size_bytes": 467761,
    "source": "nse",
    "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2019/FEB/fo26FEB2019bhav.csv.zip"
+  },
+  "raw/nse/fo_bhavcopy/2019/fo26JUL2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:17:03+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "fo26JUL2019bhav.csv.zip",
+   "sha256": "98f9ec83159902b0f4aaecea001d956428e8a507c76c8ab367ef25d80b02d491",
+   "size_bytes": 411648,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2019/JUL/fo26JUL2019bhav.csv.zip"
   },
   "raw/nse/fo_bhavcopy/2019/fo26JUN2019bhav.csv.zip": {
    "downloaded_at": "2026-10-03T20:02:02+00:00",
@@ -19862,6 +22094,42 @@
    "size_bytes": 455239,
    "source": "nse",
    "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2019/MAR/fo26MAR2019bhav.csv.zip"
+  },
+  "raw/nse/fo_bhavcopy/2019/fo26NOV2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:20:01+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "fo26NOV2019bhav.csv.zip",
+   "sha256": "1d2e624a5483eb631885a671103e589125f2f321076fc07348a262f492d189a6",
+   "size_bytes": 436825,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2019/NOV/fo26NOV2019bhav.csv.zip"
+  },
+  "raw/nse/fo_bhavcopy/2019/fo26SEP2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:18:32+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "fo26SEP2019bhav.csv.zip",
+   "sha256": "b1f59c70b7f36a9ff3c171a753fbf1c242d09fcae505fe659db04e519ccf774d",
+   "size_bytes": 465031,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2019/SEP/fo26SEP2019bhav.csv.zip"
+  },
+  "raw/nse/fo_bhavcopy/2019/fo27AUG2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:17:47+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "fo27AUG2019bhav.csv.zip",
+   "sha256": "b49ced2b1e1f803c58b5d66d6c1797febe1bee42631bcf0efde91ed9a7c95dee",
+   "size_bytes": 479561,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2019/AUG/fo27AUG2019bhav.csv.zip"
+  },
+  "raw/nse/fo_bhavcopy/2019/fo27DEC2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:20:49+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "fo27DEC2019bhav.csv.zip",
+   "sha256": "941ef0984c1ea932cf630c4e92f27f8e59249b707d795aabaf3f379eb944bdf9",
+   "size_bytes": 357619,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2019/DEC/fo27DEC2019bhav.csv.zip"
   },
   "raw/nse/fo_bhavcopy/2019/fo27FEB2019bhav.csv.zip": {
    "downloaded_at": "2026-10-03T19:59:10+00:00",
@@ -19898,6 +22166,42 @@
    "size_bytes": 513281,
    "source": "nse",
    "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2019/MAY/fo27MAY2019bhav.csv.zip"
+  },
+  "raw/nse/fo_bhavcopy/2019/fo27NOV2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:20:03+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "fo27NOV2019bhav.csv.zip",
+   "sha256": "33fbad883554e4f526e6c84bbfeb239ac50b2ffe3813fa2d37e11997f14432eb",
+   "size_bytes": 436753,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2019/NOV/fo27NOV2019bhav.csv.zip"
+  },
+  "raw/nse/fo_bhavcopy/2019/fo27OCT2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:19:18+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "fo27OCT2019bhav.csv.zip",
+   "sha256": "ad8a44a14faf14777aa66c3bb01097a0b2411caa97065a00d363d661052bbdab",
+   "size_bytes": 405175,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2019/OCT/fo27OCT2019bhav.csv.zip"
+  },
+  "raw/nse/fo_bhavcopy/2019/fo27SEP2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:18:34+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "fo27SEP2019bhav.csv.zip",
+   "sha256": "3150f310951de1810597da9f64c0b8d303271aca433c2a77ca78b5a83f2fed9d",
+   "size_bytes": 407990,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2019/SEP/fo27SEP2019bhav.csv.zip"
+  },
+  "raw/nse/fo_bhavcopy/2019/fo28AUG2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:17:49+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "fo28AUG2019bhav.csv.zip",
+   "sha256": "1b56d963158231713eefbba8ff8e3c77eb1abbdffad0adb52596c34ef77b7e87",
+   "size_bytes": 704834,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2019/AUG/fo28AUG2019bhav.csv.zip"
   },
   "raw/nse/fo_bhavcopy/2019/fo28FEB2019bhav.csv.zip": {
    "downloaded_at": "2026-10-03T19:59:11+00:00",
@@ -19944,6 +22248,24 @@
    "source": "nse",
    "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2019/MAY/fo28MAY2019bhav.csv.zip"
   },
+  "raw/nse/fo_bhavcopy/2019/fo28NOV2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:20:05+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "fo28NOV2019bhav.csv.zip",
+   "sha256": "c8f056ec717db27491541c92f0f898c9843b533c07f3b27309e0992bc5c304c2",
+   "size_bytes": 434268,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2019/NOV/fo28NOV2019bhav.csv.zip"
+  },
+  "raw/nse/fo_bhavcopy/2019/fo29AUG2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:17:51+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "fo29AUG2019bhav.csv.zip",
+   "sha256": "d908b01ff9ab160193426af821fd8d33353c50bf31d6d4e546800295c3d04229",
+   "size_bytes": 479517,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2019/AUG/fo29AUG2019bhav.csv.zip"
+  },
   "raw/nse/fo_bhavcopy/2019/fo29JAN2019bhav.csv.zip": {
    "downloaded_at": "2026-10-03T19:58:27+00:00",
    "host": "nsearchives.nseindia.com",
@@ -19952,6 +22274,15 @@
    "size_bytes": 481672,
    "source": "nse",
    "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2019/JAN/fo29JAN2019bhav.csv.zip"
+  },
+  "raw/nse/fo_bhavcopy/2019/fo29JUL2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:17:05+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "fo29JUL2019bhav.csv.zip",
+   "sha256": "657928b9e0b6128e5b3f3b5ecbf918285571167dd2c047ea8421723defd658ee",
+   "size_bytes": 416390,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2019/JUL/fo29JUL2019bhav.csv.zip"
   },
   "raw/nse/fo_bhavcopy/2019/fo29MAR2019bhav.csv.zip": {
    "downloaded_at": "2026-10-03T19:59:53+00:00",
@@ -19971,6 +22302,24 @@
    "source": "nse",
    "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2019/MAY/fo29MAY2019bhav.csv.zip"
   },
+  "raw/nse/fo_bhavcopy/2019/fo29NOV2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:20:07+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "fo29NOV2019bhav.csv.zip",
+   "sha256": "8c30bc134dcff7ec28e52f967142e1817a3e530b3470640b6a54c2a6a23512e2",
+   "size_bytes": 379969,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2019/NOV/fo29NOV2019bhav.csv.zip"
+  },
+  "raw/nse/fo_bhavcopy/2019/fo29OCT2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:19:21+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "fo29OCT2019bhav.csv.zip",
+   "sha256": "ecc087bae33c57f989c4346cdd855283735b23eca34adba31f19ea23181dce2b",
+   "size_bytes": 458497,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2019/OCT/fo29OCT2019bhav.csv.zip"
+  },
   "raw/nse/fo_bhavcopy/2019/fo30APR2019bhav.csv.zip": {
    "downloaded_at": "2026-10-03T20:00:37+00:00",
    "host": "nsearchives.nseindia.com",
@@ -19979,6 +22328,24 @@
    "size_bytes": 465121,
    "source": "nse",
    "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2019/APR/fo30APR2019bhav.csv.zip"
+  },
+  "raw/nse/fo_bhavcopy/2019/fo30AUG2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:17:53+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "fo30AUG2019bhav.csv.zip",
+   "sha256": "0f4072fc37d533b6b4d61cbe3937b6147ffd99e177da7f6de9cdbf2554030a5e",
+   "size_bytes": 409609,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2019/AUG/fo30AUG2019bhav.csv.zip"
+  },
+  "raw/nse/fo_bhavcopy/2019/fo30DEC2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:20:51+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "fo30DEC2019bhav.csv.zip",
+   "sha256": "e13697255f2e71eff8ce2c8f80bfa945fed72760c50c81ac9d384dcf718311d2",
+   "size_bytes": 359549,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2019/DEC/fo30DEC2019bhav.csv.zip"
   },
   "raw/nse/fo_bhavcopy/2019/fo30JAN2019bhav.csv.zip": {
    "downloaded_at": "2026-10-03T19:58:29+00:00",
@@ -19989,6 +22356,15 @@
    "source": "nse",
    "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2019/JAN/fo30JAN2019bhav.csv.zip"
   },
+  "raw/nse/fo_bhavcopy/2019/fo30JUL2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:17:07+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "fo30JUL2019bhav.csv.zip",
+   "sha256": "9a20d4090d359d1858c90c674c29e42ef995d2001e97159ae2ad67130c2204a0",
+   "size_bytes": 422787,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2019/JUL/fo30JUL2019bhav.csv.zip"
+  },
   "raw/nse/fo_bhavcopy/2019/fo30MAY2019bhav.csv.zip": {
    "downloaded_at": "2026-10-03T20:01:21+00:00",
    "host": "nsearchives.nseindia.com",
@@ -19997,6 +22373,33 @@
    "size_bytes": 516254,
    "source": "nse",
    "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2019/MAY/fo30MAY2019bhav.csv.zip"
+  },
+  "raw/nse/fo_bhavcopy/2019/fo30OCT2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:19:23+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "fo30OCT2019bhav.csv.zip",
+   "sha256": "076f0213a74b0b885866d00e5d2c3f65e75e03ac859b505ab43244c262cb0a35",
+   "size_bytes": 466930,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2019/OCT/fo30OCT2019bhav.csv.zip"
+  },
+  "raw/nse/fo_bhavcopy/2019/fo30SEP2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:18:36+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "fo30SEP2019bhav.csv.zip",
+   "sha256": "334f621d0d7c03f20eaed39606f9f9c4addc43b64b7f57a73aed866aa9b424eb",
+   "size_bytes": 416901,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2019/SEP/fo30SEP2019bhav.csv.zip"
+  },
+  "raw/nse/fo_bhavcopy/2019/fo31DEC2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:20:53+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "fo31DEC2019bhav.csv.zip",
+   "sha256": "0e3b62cb2af7fd30589b26f75d96c72218d85489349185764dd47ac21ba8c0fd",
+   "size_bytes": 361686,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2019/DEC/fo31DEC2019bhav.csv.zip"
   },
   "raw/nse/fo_bhavcopy/2019/fo31JAN2019bhav.csv.zip": {
    "downloaded_at": "2026-10-03T19:58:31+00:00",
@@ -20007,6 +22410,15 @@
    "source": "nse",
    "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2019/JAN/fo31JAN2019bhav.csv.zip"
   },
+  "raw/nse/fo_bhavcopy/2019/fo31JUL2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:17:08+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "fo31JUL2019bhav.csv.zip",
+   "sha256": "39eeb2047ca2bcac23365e3a9c49be704d17069e5f7800b49441da31ce50a69c",
+   "size_bytes": 428373,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2019/JUL/fo31JUL2019bhav.csv.zip"
+  },
   "raw/nse/fo_bhavcopy/2019/fo31MAY2019bhav.csv.zip": {
    "downloaded_at": "2026-10-03T20:01:23+00:00",
    "host": "nsearchives.nseindia.com",
@@ -20015,6 +22427,213 @@
    "size_bytes": 442986,
    "source": "nse",
    "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2019/MAY/fo31MAY2019bhav.csv.zip"
+  },
+  "raw/nse/fo_bhavcopy/2019/fo31OCT2019bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:19:25+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "fo31OCT2019bhav.csv.zip",
+   "sha256": "f62623f5e1799fd438678c2ad8cdd0d255540428b3d1ddea7cf29556d96aa149",
+   "size_bytes": 463526,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2019/OCT/fo31OCT2019bhav.csv.zip"
+  },
+  "raw/nse/fo_bhavcopy/2020/fo01JAN2020bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:20:55+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "fo01JAN2020bhav.csv.zip",
+   "sha256": "6ca001c8d55777c1f8ef711409aa0d71a840dc9b4a500ca5b9fc896ba624fd02",
+   "size_bytes": 358799,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2020/JAN/fo01JAN2020bhav.csv.zip"
+  },
+  "raw/nse/fo_bhavcopy/2020/fo02JAN2020bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:20:57+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "fo02JAN2020bhav.csv.zip",
+   "sha256": "e551d6e7115344cc7e205a6a678eb962bcbc981cbbb7d417bf179c78c8d54243",
+   "size_bytes": 366460,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2020/JAN/fo02JAN2020bhav.csv.zip"
+  },
+  "raw/nse/fo_bhavcopy/2020/fo03JAN2020bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:20:59+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "fo03JAN2020bhav.csv.zip",
+   "sha256": "4f4c78fc9ed827d8291bedd154cd52876036e4e8dfdb63116fe571f24d04829e",
+   "size_bytes": 368624,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2020/JAN/fo03JAN2020bhav.csv.zip"
+  },
+  "raw/nse/fo_bhavcopy/2020/fo06JAN2020bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:21:01+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "fo06JAN2020bhav.csv.zip",
+   "sha256": "ca590fe8069cbf264091004365149aeba886c965ae19fd345ec93dce0eacdf1a",
+   "size_bytes": 374980,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2020/JAN/fo06JAN2020bhav.csv.zip"
+  },
+  "raw/nse/fo_bhavcopy/2020/fo07JAN2020bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:21:03+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "fo07JAN2020bhav.csv.zip",
+   "sha256": "7394add3bbfe47d3a026a3eb3ec0f74008f5420eaae34c8885b3529753d4c9ea",
+   "size_bytes": 375578,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2020/JAN/fo07JAN2020bhav.csv.zip"
+  },
+  "raw/nse/fo_bhavcopy/2020/fo08JAN2020bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:21:05+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "fo08JAN2020bhav.csv.zip",
+   "sha256": "fe608916a721ade91cc68ab4f0be6c301ef56da4beb340d41d9accdf66274017",
+   "size_bytes": 376552,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2020/JAN/fo08JAN2020bhav.csv.zip"
+  },
+  "raw/nse/fo_bhavcopy/2020/fo09JAN2020bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:21:07+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "fo09JAN2020bhav.csv.zip",
+   "sha256": "4d5f4c793fbeb761214e56b89846458d21b1496acf89f3641c65e95ce111c3d5",
+   "size_bytes": 379529,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2020/JAN/fo09JAN2020bhav.csv.zip"
+  },
+  "raw/nse/fo_bhavcopy/2020/fo10JAN2020bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:21:09+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "fo10JAN2020bhav.csv.zip",
+   "sha256": "5ff2cdc6af80ceb2d9228e860ed2820a1d49c92d7cdf942dfd26a98a535ba9fe",
+   "size_bytes": 377831,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2020/JAN/fo10JAN2020bhav.csv.zip"
+  },
+  "raw/nse/fo_bhavcopy/2020/fo13JAN2020bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:21:11+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "fo13JAN2020bhav.csv.zip",
+   "sha256": "2ee2257a638fd5aae43e63ee40c51fec813d2ad35abceb31ceae6d49b4a6f5ad",
+   "size_bytes": 376240,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2020/JAN/fo13JAN2020bhav.csv.zip"
+  },
+  "raw/nse/fo_bhavcopy/2020/fo14JAN2020bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:21:13+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "fo14JAN2020bhav.csv.zip",
+   "sha256": "e9702c3d8125a8f0d80e2f90708e5d62f38592a3619a082f733936b6fd41bcd2",
+   "size_bytes": 381877,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2020/JAN/fo14JAN2020bhav.csv.zip"
+  },
+  "raw/nse/fo_bhavcopy/2020/fo15JAN2020bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:21:15+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "fo15JAN2020bhav.csv.zip",
+   "sha256": "b8a9f3ca845f09e0812ad34dcd7068e715360b84fca3553857a30bcf1a8170cb",
+   "size_bytes": 386444,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2020/JAN/fo15JAN2020bhav.csv.zip"
+  },
+  "raw/nse/fo_bhavcopy/2020/fo16JAN2020bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:21:17+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "fo16JAN2020bhav.csv.zip",
+   "sha256": "40f8494aa30804bf170ab8f85bc268667c9f8e9b07a2c7ec0ac44c05a2fb1031",
+   "size_bytes": 388540,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2020/JAN/fo16JAN2020bhav.csv.zip"
+  },
+  "raw/nse/fo_bhavcopy/2020/fo17JAN2020bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:21:19+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "fo17JAN2020bhav.csv.zip",
+   "sha256": "eec561a57cb2594b087fedf4dccd0d2ce400da64671198e6f730d0e5f354704a",
+   "size_bytes": 388956,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2020/JAN/fo17JAN2020bhav.csv.zip"
+  },
+  "raw/nse/fo_bhavcopy/2020/fo20JAN2020bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:21:21+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "fo20JAN2020bhav.csv.zip",
+   "sha256": "eeb156b236963cd0872b71e487336a2c76020bd9028839451205ab9c531e85db",
+   "size_bytes": 394533,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2020/JAN/fo20JAN2020bhav.csv.zip"
+  },
+  "raw/nse/fo_bhavcopy/2020/fo21JAN2020bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:21:23+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "fo21JAN2020bhav.csv.zip",
+   "sha256": "97a5170bfd2223f0abcdb7942dd0b1593e14be90098af90581ba609b53dc94c8",
+   "size_bytes": 396076,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2020/JAN/fo21JAN2020bhav.csv.zip"
+  },
+  "raw/nse/fo_bhavcopy/2020/fo22JAN2020bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:21:25+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "fo22JAN2020bhav.csv.zip",
+   "sha256": "649262d86a870941447f78d91ca3bdc59717e16ee7419347a76c08c6a6c52ef0",
+   "size_bytes": 399901,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2020/JAN/fo22JAN2020bhav.csv.zip"
+  },
+  "raw/nse/fo_bhavcopy/2020/fo23JAN2020bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:21:27+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "fo23JAN2020bhav.csv.zip",
+   "sha256": "0fe92ee200d5c1d9d72381fcbeeab6183c7d61424c26f374d71e182f68218bb4",
+   "size_bytes": 403437,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2020/JAN/fo23JAN2020bhav.csv.zip"
+  },
+  "raw/nse/fo_bhavcopy/2020/fo24JAN2020bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:21:29+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "fo24JAN2020bhav.csv.zip",
+   "sha256": "0c545b4d41d409d94853641271ace27438bd36684300a57539490e6dccb5d73f",
+   "size_bytes": 408601,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2020/JAN/fo24JAN2020bhav.csv.zip"
+  },
+  "raw/nse/fo_bhavcopy/2020/fo27JAN2020bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:21:31+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "fo27JAN2020bhav.csv.zip",
+   "sha256": "26321d471a0ced0d1594da81389da06a33d38f14269d578672c8027bcf25b651",
+   "size_bytes": 413073,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2020/JAN/fo27JAN2020bhav.csv.zip"
+  },
+  "raw/nse/fo_bhavcopy/2020/fo28JAN2020bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:21:33+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "fo28JAN2020bhav.csv.zip",
+   "sha256": "27d64ad0ae06b3e1f2660341f2cc055edba7336cd7ef9a0708a19bf33d72b2c8",
+   "size_bytes": 417660,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2020/JAN/fo28JAN2020bhav.csv.zip"
+  },
+  "raw/nse/fo_bhavcopy/2020/fo29JAN2020bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:21:35+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "fo29JAN2020bhav.csv.zip",
+   "sha256": "2f13c1fce37c60ca53dc91d9484356bd68b9c8d9d0b70dcedbee711cad8c3c07",
+   "size_bytes": 420162,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2020/JAN/fo29JAN2020bhav.csv.zip"
+  },
+  "raw/nse/fo_bhavcopy/2020/fo30JAN2020bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T20:21:37+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "fo30JAN2020bhav.csv.zip",
+   "sha256": "b7d08afe6b87e73d7150a5bcceaef1db75b7d83fbdfee7ed90b4e6bda6f898f2",
+   "size_bytes": 418564,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2020/JAN/fo30JAN2020bhav.csv.zip"
   },
   "raw/nse/fo_bhavcopy/2024/BhavCopy_NSE_FO_0_0_0_20240101_F_0000.csv.zip": {
    "downloaded_at": "2026-10-03T19:20:28+00:00",
@@ -20495,6 +23114,24 @@
    "reason": "NSE holiday",
    "recorded_at": "2026-10-03T20:00:35+00:00"
   },
+  "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2019/AUG/fo12AUG2019bhav.csv.zip": {
+   "date": "2019-08-12",
+   "holiday_source": "circular NSE circular NSE/CMTR/39612",
+   "reason": "NSE holiday",
+   "recorded_at": "2026-10-03T20:17:25+00:00"
+  },
+  "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2019/AUG/fo15AUG2019bhav.csv.zip": {
+   "date": "2019-08-15",
+   "holiday_source": "circular NSE circular NSE/CMTR/39612",
+   "reason": "NSE holiday",
+   "recorded_at": "2026-10-03T20:17:30+00:00"
+  },
+  "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2019/DEC/fo25DEC2019bhav.csv.zip": {
+   "date": "2019-12-25",
+   "holiday_source": "circular NSE circular NSE/CMTR/39612",
+   "reason": "NSE holiday",
+   "recorded_at": "2026-10-03T20:20:44+00:00"
+  },
   "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2019/JUN/fo05JUN2019bhav.csv.zip": {
    "date": "2019-06-05",
    "holiday_source": "circular NSE circular NSE/CMTR/39612",
@@ -20518,6 +23155,48 @@
    "holiday_source": "circular NSE circular NSE/CMTR/39612",
    "reason": "NSE holiday",
    "recorded_at": "2026-10-03T20:00:39+00:00"
+  },
+  "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2019/NOV/fo12NOV2019bhav.csv.zip": {
+   "date": "2019-11-12",
+   "holiday_source": "circular NSE circular NSE/CMTR/39612",
+   "reason": "NSE holiday",
+   "recorded_at": "2026-10-03T20:19:41+00:00"
+  },
+  "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2019/OCT/fo02OCT2019bhav.csv.zip": {
+   "date": "2019-10-02",
+   "holiday_source": "circular NSE circular NSE/CMTR/39612",
+   "reason": "NSE holiday",
+   "recorded_at": "2026-10-03T20:18:40+00:00"
+  },
+  "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2019/OCT/fo08OCT2019bhav.csv.zip": {
+   "date": "2019-10-08",
+   "holiday_source": "circular NSE circular NSE/CMTR/39612",
+   "reason": "NSE holiday",
+   "recorded_at": "2026-10-03T20:18:48+00:00"
+  },
+  "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2019/OCT/fo21OCT2019bhav.csv.zip": {
+   "date": "2019-10-21",
+   "holiday_source": "news news news; circular number not found",
+   "reason": "NSE holiday",
+   "recorded_at": "2026-10-03T20:19:06+00:00"
+  },
+  "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2019/OCT/fo28OCT2019bhav.csv.zip": {
+   "date": "2019-10-28",
+   "holiday_source": "circular NSE circular NSE/CMTR/39612",
+   "reason": "NSE holiday",
+   "recorded_at": "2026-10-03T20:19:19+00:00"
+  },
+  "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2019/SEP/fo02SEP2019bhav.csv.zip": {
+   "date": "2019-09-02",
+   "holiday_source": "circular NSE circular NSE/CMTR/39612",
+   "reason": "NSE holiday",
+   "recorded_at": "2026-10-03T20:17:54+00:00"
+  },
+  "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2019/SEP/fo10SEP2019bhav.csv.zip": {
+   "date": "2019-09-10",
+   "holiday_source": "circular NSE circular NSE/CMTR/39612",
+   "reason": "NSE holiday",
+   "recorded_at": "2026-10-03T20:18:06+00:00"
   },
   "https://nsearchives.nseindia.com/content/historical/EQUITIES/2015/APR/cm02APR2015bhav.csv.zip": {
    "date": "2015-04-02",
@@ -20873,6 +23552,24 @@
    "reason": "NSE holiday",
    "recorded_at": "2026-10-03T20:00:34+00:00"
   },
+  "https://nsearchives.nseindia.com/content/historical/EQUITIES/2019/AUG/cm12AUG2019bhav.csv.zip": {
+   "date": "2019-08-12",
+   "holiday_source": "circular NSE circular NSE/CMTR/39612",
+   "reason": "NSE holiday",
+   "recorded_at": "2026-10-03T20:17:23+00:00"
+  },
+  "https://nsearchives.nseindia.com/content/historical/EQUITIES/2019/AUG/cm15AUG2019bhav.csv.zip": {
+   "date": "2019-08-15",
+   "holiday_source": "circular NSE circular NSE/CMTR/39612",
+   "reason": "NSE holiday",
+   "recorded_at": "2026-10-03T20:17:29+00:00"
+  },
+  "https://nsearchives.nseindia.com/content/historical/EQUITIES/2019/DEC/cm25DEC2019bhav.csv.zip": {
+   "date": "2019-12-25",
+   "holiday_source": "circular NSE circular NSE/CMTR/39612",
+   "reason": "NSE holiday",
+   "recorded_at": "2026-10-03T20:20:43+00:00"
+  },
   "https://nsearchives.nseindia.com/content/historical/EQUITIES/2019/JUN/cm05JUN2019bhav.csv.zip": {
    "date": "2019-06-05",
    "holiday_source": "circular NSE circular NSE/CMTR/39612",
@@ -20896,6 +23593,48 @@
    "holiday_source": "circular NSE circular NSE/CMTR/39612",
    "reason": "NSE holiday",
    "recorded_at": "2026-10-03T20:00:38+00:00"
+  },
+  "https://nsearchives.nseindia.com/content/historical/EQUITIES/2019/NOV/cm12NOV2019bhav.csv.zip": {
+   "date": "2019-11-12",
+   "holiday_source": "circular NSE circular NSE/CMTR/39612",
+   "reason": "NSE holiday",
+   "recorded_at": "2026-10-03T20:19:40+00:00"
+  },
+  "https://nsearchives.nseindia.com/content/historical/EQUITIES/2019/OCT/cm02OCT2019bhav.csv.zip": {
+   "date": "2019-10-02",
+   "holiday_source": "circular NSE circular NSE/CMTR/39612",
+   "reason": "NSE holiday",
+   "recorded_at": "2026-10-03T20:18:39+00:00"
+  },
+  "https://nsearchives.nseindia.com/content/historical/EQUITIES/2019/OCT/cm08OCT2019bhav.csv.zip": {
+   "date": "2019-10-08",
+   "holiday_source": "circular NSE circular NSE/CMTR/39612",
+   "reason": "NSE holiday",
+   "recorded_at": "2026-10-03T20:18:47+00:00"
+  },
+  "https://nsearchives.nseindia.com/content/historical/EQUITIES/2019/OCT/cm21OCT2019bhav.csv.zip": {
+   "date": "2019-10-21",
+   "holiday_source": "news news news; circular number not found",
+   "reason": "NSE holiday",
+   "recorded_at": "2026-10-03T20:19:05+00:00"
+  },
+  "https://nsearchives.nseindia.com/content/historical/EQUITIES/2019/OCT/cm28OCT2019bhav.csv.zip": {
+   "date": "2019-10-28",
+   "holiday_source": "circular NSE circular NSE/CMTR/39612",
+   "reason": "NSE holiday",
+   "recorded_at": "2026-10-03T20:19:18+00:00"
+  },
+  "https://nsearchives.nseindia.com/content/historical/EQUITIES/2019/SEP/cm02SEP2019bhav.csv.zip": {
+   "date": "2019-09-02",
+   "holiday_source": "circular NSE circular NSE/CMTR/39612",
+   "reason": "NSE holiday",
+   "recorded_at": "2026-10-03T20:17:53+00:00"
+  },
+  "https://nsearchives.nseindia.com/content/historical/EQUITIES/2019/SEP/cm10SEP2019bhav.csv.zip": {
+   "date": "2019-09-10",
+   "holiday_source": "circular NSE circular NSE/CMTR/39612",
+   "reason": "NSE holiday",
+   "recorded_at": "2026-10-03T20:18:05+00:00"
   }
  },
  "schema": 1

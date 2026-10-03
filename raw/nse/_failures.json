@@ -1,6 +1,6 @@
 {
  "counters": {
-  "http_attempts": 20,
+  "http_attempts": 322,
   "in_a_row": 0,
   "in_a_row_limit": 10,
   "retried_ok": 0,
@@ -21,6 +21,23 @@
    "status": null,
    "time": "2026-10-03T20:11:16+00:00",
    "type": "stop"
+  },
+  {
+   "label": "process died; resumed under owner's standing rule of 4 Oct",
+   "max_automatic_resumes": 3,
+   "owner_words": "Resume automatically, without asking me, only when all of these hold: the process died (machine restart, not a stop rule), NSE refused nothing (no 403 or 429), both failure counts are unchanged since the last check, and every file matches its sha256. Record it in the download log and the S3 report as \"process died; resumed under owner's standing rule of 4 Oct\". At most 3 automatic resumes in S3. A 4th restart, or any other problem, stops and asks me.",
+   "time": "2026-10-03T20:16:21+00:00",
+   "type": "standing_rule"
+  },
+  {
+   "after_stop": "process died",
+   "in_a_row": 0,
+   "owner_words": "Owner's answer in the session on 3 Oct 2026 (4 Oct IST) to 'Where should the download resume?': 'Resume here (Recommended)'",
+   "run_limit": 50,
+   "run_total": 0,
+   "text": "resumed on owner's instruction",
+   "time": "2026-10-03T20:16:21+00:00",
+   "type": "resume"
   }
  ],
  "failures": [],
