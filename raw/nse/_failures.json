@@ -1,11 +1,11 @@
 {
  "counters": {
-  "http_attempts": 1235,
+  "http_attempts": 3129,
   "in_a_row": 0,
   "in_a_row_limit": 10,
   "retried_ok": 0,
   "run_limit": 50,
-  "run_total": 3
+  "run_total": 4
  },
  "events": [
   {
@@ -63,6 +63,16 @@
    ],
    "time": "2026-10-03T20:53:21+00:00",
    "type": "auto_resume_refused"
+  },
+  {
+   "after_stop": "process died",
+   "in_a_row": 0,
+   "owner_words": "Owner's answers in the session on 3 Oct 2026 (4 Oct IST). To 'Where should the download resume?': 'Resume here, hold back the 3 failed dates (Recommended)'. To the question about F&O 2021-05-12 (the revised file): 'Yes, use it: it is NSE's own corrected file for that day. In MANIFEST.json and the S3 report, record both the zip name and the real file name inside it (fo12MAY2021bhav_revised.csv), marked \"NSE revised file\".'",
+   "run_limit": 50,
+   "run_total": 3,
+   "text": "resumed on owner's instruction",
+   "time": "2026-10-03T21:13:54+00:00",
+   "type": "resume"
   }
  ],
  "failures": [
@@ -95,6 +105,16 @@
    "status": 200,
    "time": "2026-10-03T20:36:18+00:00",
    "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2021/MAY/fo12MAY2021bhav.csv.zip"
+  },
+  {
+   "attempts": 4,
+   "in_a_row": 1,
+   "reason": "bad reply: zip members ['fo13FEB2023bhav_revised.csv/fo13FEB2023bhav.csv'], expected ['fo13FEB2023bhav.csv']",
+   "run_total": 4,
+   "seq": 4,
+   "status": 200,
+   "time": "2026-10-03T21:27:42+00:00",
+   "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2023/FEB/fo13FEB2023bhav.csv.zip"
   }
  ],
  "version": 1
