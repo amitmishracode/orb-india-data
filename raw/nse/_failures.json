@@ -7,7 +7,22 @@
   "run_limit": 50,
   "run_total": 0
  },
- "events": [],
+ "events": [
+  {
+   "reason": "container restarted at about 20:02 UTC (uptime 0 min at 20:09); the downloader process 2979 no longer exists (ps shows none); found at the 20:08 check-in; 2,226 bhavcopies and 127 holiday no-file entries done, failures 0, in a row 0",
+   "time": "2026-10-03T20:11:16+00:00",
+   "type": "lock_removed"
+  },
+  {
+   "detail": "container restarted at about 20:02 UTC (uptime 0 min at 20:09); the downloader process 2979 no longer exists (ps shows none); found at the 20:08 check-in; 2,226 bhavcopies and 127 holiday no-file entries done, failures 0, in a row 0",
+   "in_a_row": 0,
+   "reason": "process died",
+   "run_total": 0,
+   "status": null,
+   "time": "2026-10-03T20:11:16+00:00",
+   "type": "stop"
+  }
+ ],
  "failures": [],
  "version": 1
 }
