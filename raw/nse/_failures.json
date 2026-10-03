@@ -1,0 +1,13 @@
+{
+ "counters": {
+  "http_attempts": 11,
+  "in_a_row": 0,
+  "in_a_row_limit": 10,
+  "retried_ok": 0,
+  "run_limit": 50,
+  "run_total": 0
+ },
+ "events": [],
+ "failures": [],
+ "version": 1
+}
