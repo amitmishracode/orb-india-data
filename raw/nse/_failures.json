@@ -1,11 +1,11 @@
 {
  "counters": {
-  "http_attempts": 4104,
+  "http_attempts": 4110,
   "in_a_row": 0,
   "in_a_row_limit": 10,
   "retried_ok": 0,
   "run_limit": 50,
-  "run_total": 4
+  "run_total": 5
  },
  "events": [
   {
@@ -82,6 +82,25 @@
    "status": null,
    "time": "2026-10-03T22:04:45+00:00",
    "type": "stop"
+  },
+  {
+   "after_stop": "dates_failed",
+   "in_a_row": 0,
+   "owner_words": "Owner's notes of 4 Oct 2026 (IST), verbatim. Note 1: \"2021-03-30 F&O file: when the run ends, request it once more. If it is still 404, mark 2021-03-30 as an excluded session with the reason \\\"F&O file missing from NSE's archive (404 on every attempt)\\\", recorded as my decision of 4 Oct in DATA_SPEC §6. Never fill it in from other days.\" Note 3: \"After the download, continue S3 to the end. My usage limit may run out partway, so after every finished step: commit and push both repos, and update PROGRESS.md with exactly where S3 is and what comes next.\" Earlier answer on F&O 2021-05-12: \"Yes, use it: it is NSE's own corrected file for that day.\" Claude's reading, for the owner to correct: cash 2020-07-13 is requested again under the same \"Resume here, hold back the 3 failed dates\" answer (its folder layout is now accepted); F&O 2023-02-13 (a new layout, folder fo13FEB2023bhav_revised.csv holding fo13FEB2023bhav.csv) is NOT requested again until the owner decides.",
+   "run_limit": 50,
+   "run_total": 4,
+   "text": "resumed on owner's instruction",
+   "time": "2026-10-03T22:06:17+00:00",
+   "type": "resume"
+  },
+  {
+   "detail": "2 requests failed after their retries, first: https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2021/MAR/fo30MAR2021bhav.csv.zip",
+   "in_a_row": 0,
+   "reason": "dates_failed",
+   "run_total": 5,
+   "status": null,
+   "time": "2026-10-03T22:07:34+00:00",
+   "type": "stop"
   }
  ],
  "failures": [
@@ -124,6 +143,16 @@
    "status": 200,
    "time": "2026-10-03T21:27:42+00:00",
    "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2023/FEB/fo13FEB2023bhav.csv.zip"
+  },
+  {
+   "attempts": 4,
+   "in_a_row": 1,
+   "reason": "HTTP 404",
+   "run_total": 5,
+   "seq": 5,
+   "status": 404,
+   "time": "2026-10-03T22:07:30+00:00",
+   "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2021/MAR/fo30MAR2021bhav.csv.zip"
   }
  ],
  "version": 1
