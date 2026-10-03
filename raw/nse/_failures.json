@@ -1,6 +1,6 @@
 {
  "counters": {
-  "http_attempts": 4110,
+  "http_attempts": 4111,
   "in_a_row": 0,
   "in_a_row_limit": 10,
   "retried_ok": 0,
@@ -101,6 +101,16 @@
    "status": null,
    "time": "2026-10-03T22:07:34+00:00",
    "type": "stop"
+  },
+  {
+   "after_stop": "dates_failed",
+   "in_a_row": 0,
+   "owner_words": "Owner's note 3 of 4 Oct 2026 (IST), verbatim: \"After the download, continue S3 to the end. My usage limit may run out partway, so after every finished step: commit and push both repos, and update PROGRESS.md with exactly where S3 is and what comes next.\" Claude's reading: steps that need no F&O file go on (symbol-change file, halt and holiday circulars, corporate actions); F&O 2023-02-13 stays held back until the owner decides.",
+   "run_limit": 50,
+   "run_total": 5,
+   "text": "resumed on owner's instruction",
+   "time": "2026-10-03T22:08:09+00:00",
+   "type": "resume"
   }
  ],
  "failures": [

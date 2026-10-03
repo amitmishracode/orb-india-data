@@ -54788,6 +54788,15 @@
    "size_bytes": 176256,
    "source": "nse",
    "url": "https://archives.nseindia.com/content/circulars/CMTR71775.pdf"
+  },
+  "raw/nse/symbol_changes/symbolchange_20261003.csv": {
+   "downloaded_at": "2026-10-03T22:08:13+00:00",
+   "host": "archives.nseindia.com",
+   "name": "symbolchange_20261003.csv",
+   "sha256": "948ccc56f46555bc6553538047d7b967e99a9250c58b7bf0a1d66a7e1f033e10",
+   "size_bytes": 69052,
+   "source": "nse",
+   "url": "https://archives.nseindia.com/content/equities/symbolchange.csv"
   }
  },
  "no_file": {
