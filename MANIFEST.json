@@ -1,5 +1,59 @@
 {
  "files": {
+  "raw/nse/cm_bhavcopy/2015/cm01JAN2015bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T19:20:25+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "cm01JAN2015bhav.csv.zip",
+   "sha256": "c13be02ec70c85ef029ec1542170e7c335c4cb925aee506c7ccbfcee19f5fc3e",
+   "size_bytes": 56642,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/EQUITIES/2015/JAN/cm01JAN2015bhav.csv.zip"
+  },
+  "raw/nse/cm_bhavcopy/2024/BhavCopy_NSE_CM_0_0_0_20240101_F_0000.csv.zip": {
+   "downloaded_at": "2026-10-03T19:20:28+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "BhavCopy_NSE_CM_0_0_0_20240101_F_0000.csv.zip",
+   "sha256": "067374fc5663cc4c0db1e4022e6e50de3491e3bbc7f209ec12fccbdafdd1fcfd",
+   "size_bytes": 151548,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/cm/BhavCopy_NSE_CM_0_0_0_20240101_F_0000.csv.zip"
+  },
+  "raw/nse/cm_bhavcopy/2024/BhavCopy_NSE_CM_0_0_0_20240708_F_0000.csv.zip": {
+   "downloaded_at": "2026-10-03T19:20:29+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "BhavCopy_NSE_CM_0_0_0_20240708_F_0000.csv.zip",
+   "sha256": "0ef55b77c30c8a57d5451cd371424242ad515f708630736ea6dc44c38d6e1e85",
+   "size_bytes": 166236,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/cm/BhavCopy_NSE_CM_0_0_0_20240708_F_0000.csv.zip"
+  },
+  "raw/nse/fo_bhavcopy/2015/fo01JAN2015bhav.csv.zip": {
+   "downloaded_at": "2026-10-03T19:20:26+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "fo01JAN2015bhav.csv.zip",
+   "sha256": "def43356cc699d0125afdadcededc6db0dadbea468aa1ff04da69a2b625cc480",
+   "size_bytes": 308711,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2015/JAN/fo01JAN2015bhav.csv.zip"
+  },
+  "raw/nse/fo_bhavcopy/2024/BhavCopy_NSE_FO_0_0_0_20240101_F_0000.csv.zip": {
+   "downloaded_at": "2026-10-03T19:20:28+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "BhavCopy_NSE_FO_0_0_0_20240101_F_0000.csv.zip",
+   "sha256": "406e0924a0549a579ded817327d14692525f55d82004b4ad7a1fd2d9df15d680",
+   "size_bytes": 1681680,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/fo/BhavCopy_NSE_FO_0_0_0_20240101_F_0000.csv.zip"
+  },
+  "raw/nse/fo_bhavcopy/2024/BhavCopy_NSE_FO_0_0_0_20240708_F_0000.csv.zip": {
+   "downloaded_at": "2026-10-03T19:20:31+00:00",
+   "host": "nsearchives.nseindia.com",
+   "name": "BhavCopy_NSE_FO_0_0_0_20240708_F_0000.csv.zip",
+   "sha256": "af47c5b8b6e0ac02da4d5a4d22d46d73527d81552a93aba99ae91590b8549d76",
+   "size_bytes": 1170530,
+   "source": "nse",
+   "url": "https://nsearchives.nseindia.com/content/fo/BhavCopy_NSE_FO_0_0_0_20240708_F_0000.csv.zip"
+  },
   "raw/nse/holiday_circulars/CMTR33746.pdf": {
    "downloaded_at": "2026-10-03T19:15:37+00:00",
    "host": "archives.nseindia.com",
@@ -100,6 +154,19 @@
    "url": "https://archives.nseindia.com/content/circulars/CMTR71775.pdf"
   }
  },
- "no_file": {},
+ "no_file": {
+  "https://nsearchives.nseindia.com/content/cm/BhavCopy_NSE_CM_0_0_0_20240126_F_0000.csv.zip": {
+   "date": "2024-01-26",
+   "holiday_source": "circular NSE circular NSE/CMTR/59722",
+   "reason": "NSE holiday",
+   "recorded_at": "2026-10-03T19:20:33+00:00"
+  },
+  "https://nsearchives.nseindia.com/content/historical/EQUITIES/2015/JAN/cm26JAN2015bhav.csv.zip": {
+   "date": "2015-01-26",
+   "holiday_source": "library jugaad-data 0.35.9 jugaad_data/holidays.py",
+   "reason": "NSE holiday",
+   "recorded_at": "2026-10-03T19:20:32+00:00"
+  }
+ },
  "schema": 1
 }

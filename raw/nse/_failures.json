@@ -1,6 +1,6 @@
 {
  "counters": {
-  "http_attempts": 11,
+  "http_attempts": 20,
   "in_a_row": 0,
   "in_a_row_limit": 10,
   "retried_ok": 0,
