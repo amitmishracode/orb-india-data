@@ -1,6 +1,6 @@
 {
  "counters": {
-  "http_attempts": 3129,
+  "http_attempts": 4104,
   "in_a_row": 0,
   "in_a_row_limit": 10,
   "retried_ok": 0,
@@ -73,6 +73,15 @@
    "text": "resumed on owner's instruction",
    "time": "2026-10-03T21:13:54+00:00",
    "type": "resume"
+  },
+  {
+   "detail": "4 requests failed after their retries, first: https://nsearchives.nseindia.com/content/historical/EQUITIES/2020/JUL/cm13JUL2020bhav.csv.zip",
+   "in_a_row": 0,
+   "reason": "dates_failed",
+   "run_total": 4,
+   "status": null,
+   "time": "2026-10-03T22:04:45+00:00",
+   "type": "stop"
   }
  ],
  "failures": [
