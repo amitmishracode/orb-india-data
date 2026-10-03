@@ -1,11 +1,11 @@
 {
  "counters": {
-  "http_attempts": 4111,
-  "in_a_row": 0,
+  "http_attempts": 4112,
+  "in_a_row": 1,
   "in_a_row_limit": 10,
   "retried_ok": 0,
   "run_limit": 50,
-  "run_total": 5
+  "run_total": 6
  },
  "events": [
   {
@@ -111,6 +111,15 @@
    "text": "resumed on owner's instruction",
    "time": "2026-10-03T22:08:09+00:00",
    "type": "resume"
+  },
+  {
+   "detail": "https://www.nseindia.com/: HTTP 403",
+   "in_a_row": 1,
+   "reason": "http_403",
+   "run_total": 6,
+   "status": 403,
+   "time": "2026-10-03T22:08:54+00:00",
+   "type": "stop"
   }
  ],
  "failures": [
@@ -163,6 +172,16 @@
    "status": 404,
    "time": "2026-10-03T22:07:30+00:00",
    "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2021/MAR/fo30MAR2021bhav.csv.zip"
+  },
+  {
+   "attempts": 1,
+   "in_a_row": 1,
+   "reason": "HTTP 403",
+   "run_total": 6,
+   "seq": 6,
+   "status": 403,
+   "time": "2026-10-03T22:08:54+00:00",
+   "url": "https://www.nseindia.com/"
   }
  ],
  "version": 1
