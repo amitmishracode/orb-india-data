@@ -1,11 +1,11 @@
 {
  "counters": {
-  "http_attempts": 322,
+  "http_attempts": 825,
   "in_a_row": 0,
   "in_a_row_limit": 10,
   "retried_ok": 0,
   "run_limit": 50,
-  "run_total": 0
+  "run_total": 1
  },
  "events": [
   {
@@ -40,6 +40,17 @@
    "type": "resume"
   }
  ],
- "failures": [],
+ "failures": [
+  {
+   "attempts": 4,
+   "in_a_row": 1,
+   "reason": "bad reply: zip members ['cm13JUL2020bhav.csv/cm13JUL2020bhav.csv'], expected ['cm13JUL2020bhav.csv']",
+   "run_total": 1,
+   "seq": 1,
+   "status": 200,
+   "time": "2026-10-03T20:26:40+00:00",
+   "url": "https://nsearchives.nseindia.com/content/historical/EQUITIES/2020/JUL/cm13JUL2020bhav.csv.zip"
+  }
+ ],
  "version": 1
 }
