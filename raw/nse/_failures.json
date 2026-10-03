@@ -1,11 +1,11 @@
 {
  "counters": {
-  "http_attempts": 853,
+  "http_attempts": 952,
   "in_a_row": 0,
   "in_a_row_limit": 10,
   "retried_ok": 0,
   "run_limit": 50,
-  "run_total": 1
+  "run_total": 2
  },
  "events": [
   {
@@ -50,6 +50,16 @@
    "status": 200,
    "time": "2026-10-03T20:26:40+00:00",
    "url": "https://nsearchives.nseindia.com/content/historical/EQUITIES/2020/JUL/cm13JUL2020bhav.csv.zip"
+  },
+  {
+   "attempts": 4,
+   "in_a_row": 1,
+   "reason": "HTTP 404",
+   "run_total": 2,
+   "seq": 2,
+   "status": 404,
+   "time": "2026-10-03T20:34:06+00:00",
+   "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2021/MAR/fo30MAR2021bhav.csv.zip"
   }
  ],
  "version": 1
