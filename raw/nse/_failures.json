@@ -1,7 +1,7 @@
 {
  "counters": {
-  "http_attempts": 4112,
-  "in_a_row": 1,
+  "http_attempts": 4113,
+  "in_a_row": 0,
   "in_a_row_limit": 10,
   "retried_ok": 0,
   "run_limit": 50,
@@ -120,6 +120,16 @@
    "status": 403,
    "time": "2026-10-03T22:08:54+00:00",
    "type": "stop"
+  },
+  {
+   "after_stop": "http_403",
+   "in_a_row": 0,
+   "owner_words": "Owner's answers of 4 Oct 2026 (IST), verbatim. On F&O 2023-02-13: \"Yes. And a standing rule for the rest of S3: accept any zip that holds exactly one CSV, with or without \\\"_revised\\\" in the folder or file name, as long as the trade date inside the file matches the date. Record the zip, folder and file names, marked \\\"NSE revised layout\\\", and list each one in S3 report §2. Anything else still stops.\" On www.nseindia.com: \"Do not retry www.nseindia.com from the cloud.\" This resume requests F&O 2023-02-13 once, from nsearchives only.",
+   "run_limit": 50,
+   "run_total": 6,
+   "text": "resumed on owner's instruction",
+   "time": "2026-10-04T05:17:16+00:00",
+   "type": "resume"
   }
  ],
  "failures": [
