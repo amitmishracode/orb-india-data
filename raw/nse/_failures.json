@@ -147,6 +147,26 @@
    "sha256": "e8686a0477986f1bdeb1a67c430bcfab00a65f20266e5424f40b0e958e55443a",
    "time": "2026-10-04T07:08:21+00:00",
    "type": "reference_edit"
+  },
+  {
+   "corrects": "2026-10-04T07:08:21+00:00",
+   "field": "circular",
+   "file": "nse_special_sessions.csv",
+   "new_text": "no circular searched yet: www.nseindia.com refused the cloud: 403; the laptop session searches for a circular for this session",
+   "old_text": "none found (no NSE circular exists for this row)",
+   "reason": "event 15 said no NSE circular exists for this row, but no search was made (www.nseindia.com refused the cloud at its first request); round 2 review DIFF-20261004-16",
+   "time": "2026-10-04T08:24:16+00:00",
+   "type": "reference_edit_correction"
+  },
+  {
+   "circular": "none",
+   "evidence": "orb-india-data commit f721bee (reference/nse_exclusions.csv, the 4 rows' source text)",
+   "file": "nse_exclusions.csv",
+   "key": "2017-07-10,2020-03-13,2020-03-23,2021-02-24",
+   "reason": "stop note added by hand at the 403 stop of 3 Oct 22:08:54 UTC: the circular search stopped and these 4 halt candidates were not searched (no circular searched yet); logged afterwards (review DIFF-20261004-16)",
+   "sha256": "9cb5d89c2548b828084ebb72e4479a583df4778c1ab0d98f2854124bce790041",
+   "time": "2026-10-04T08:24:19+00:00",
+   "type": "reference_edit"
   }
  ],
  "failures": [
