@@ -130,6 +130,14 @@
    "text": "resumed on owner's instruction",
    "time": "2026-10-04T05:17:16+00:00",
    "type": "resume"
+  },
+  {
+   "from_stop": "2026-10-03T22:08:54+00:00",
+   "host": "www.nseindia.com",
+   "owner_words": "Owner's answer of 4 Oct 2026 (IST), verbatim: \"Do not retry www.nseindia.com from the cloud. Continue all offline steps now, as decision 3 says: halts stay UNVERIFIED (still excluded), holiday rows keep their source, the F&O membership check is \\\"pending (www.nseindia.com refused the cloud: 403)\\\", and corporate actions are \\\"not attempted\\\". All www.nseindia.com work (halt and holiday circulars, the F&O circular check, corporate actions) moves to one laptop session after the S3 pull requests are merged, before S6.\" The block follows from the 403 stop of 3 Oct 22:08:54 UTC; the resume of 4 Oct 05:17:16 UTC named nsearchives only.",
+   "status": null,
+   "time": "2026-10-04T06:56:47+00:00",
+   "type": "host_block"
   }
  ],
  "failures": [
