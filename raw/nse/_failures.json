@@ -138,6 +138,15 @@
    "status": null,
    "time": "2026-10-04T06:56:47+00:00",
    "type": "host_block"
+  },
+  {
+   "circular": "none found (no NSE circular exists for this row)",
+   "file": "nse_special_sessions.csv",
+   "key": "2015-11-11",
+   "reason": "source corrected: exchange_calendars is not in the repo; the evidence is NSE's own files (Wednesday, not on the holiday list, traded value 0.164 of a normal session); verified library -> data (review DIFF-20261004-14)",
+   "sha256": "e8686a0477986f1bdeb1a67c430bcfab00a65f20266e5424f40b0e958e55443a",
+   "time": "2026-10-04T07:08:21+00:00",
+   "type": "reference_edit"
   }
  ],
  "failures": [
