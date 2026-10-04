@@ -1,0 +1,10 @@
+# orb-india-data (S3, 2026-10-03). Bhavcopy zips and other raw NSE files that are not committed
+# (owner, 3 Oct: only per-year extracts, MANIFEST.json and a few small raw files are committed).
+raw/nse/cm_bhavcopy/
+raw/nse/fo_bhavcopy/
+raw/nse/halt_circulars/
+raw/nse/holiday_circulars_single/
+raw/nse/search_cache/
+raw/nse/**/*.tmp
+raw/nse/_progress.log
+raw/nse/_download.lock

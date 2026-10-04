@@ -1,0 +1,5 @@
+date,halt_start,halt_end,source,circular_no,circular_url,verified
+2017-07-10,09:55,12:30,"news: NSE technical glitch (F&O shut 09:55, trading resumed 12:30) | circular search stopped 2026-10-03T22:08:54Z (http_403 from www.nseindia.com); not searched",,,UNVERIFIED
+2020-03-13,09:20,10:20,"news: 10% Nifty circuit breaker, 45-minute halt, resumed after pre-open | circular search stopped 2026-10-03T22:08:54Z (http_403 from www.nseindia.com); not searched",,,UNVERIFIED
+2020-03-23,09:58,10:58,"news: second 10% circuit breaker, 45-minute halt | circular search stopped 2026-10-03T22:08:54Z (http_403 from www.nseindia.com); not searched",,,UNVERIFIED
+2021-02-24,11:43,15:45,"news: NSE outage from about 11:40, resumed 15:45, close extended to 17:00 | circular search stopped 2026-10-03T22:08:54Z (http_403 from www.nseindia.com); not searched",,,UNVERIFIED

@@ -1,0 +1,19 @@
+date,kind,source,verified
+2015-02-28,weekend_live,"Budget day, Saturday; secondary sources only, no NSE circular found",news
+2015-11-11,muhurat_weekday,"no NSE circular found; shown by NSE's own files: cash and F&O files on a Wednesday that is not on the holiday list, EQ traded value 0.164 of a normal session (S3 report §2)",data
+2016-10-30,muhurat_weekend,secondary site; no NSE circular found,news
+2017-10-19,muhurat_weekday,NSE/CMTR/33746,circular
+2018-11-07,muhurat_weekday,NSE/CMTR/36475,circular
+2019-10-27,muhurat_weekend,NSE/CMTR/39612,circular
+2020-02-01,weekend_live,"Budget day, Saturday; secondary sources only, no NSE circular found",news
+2020-11-14,muhurat_weekend,NSE/CMTR/42877,circular
+2021-11-04,muhurat_weekday,NSE/CMTR/46623,circular
+2022-10-24,muhurat_weekday,NSE/CMTR/50560,circular
+2023-11-12,muhurat_weekend,NSE/CMTR/54757,circular
+2024-01-20,weekend_live,NSE/MSD/60300 plans a special session; the final normal-hours format is from news,news
+2024-03-02,weekend_live,NSE/MSD/60677,circular
+2024-05-18,weekend_live,NSE/MSD/61893,circular
+2024-11-01,muhurat_weekday,NSE/CMTR/59722,circular
+2025-02-01,weekend_live,NSE/CMTR/65729,circular
+2025-10-21,muhurat_weekday,NSE/CMTR/65587,circular
+2026-02-01,weekend_live,NSE/CMTR/72349 (a Sunday),circular

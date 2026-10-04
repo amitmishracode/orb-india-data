@@ -1,0 +1,235 @@
+{
+ "counters": {
+  "http_attempts": 4113,
+  "in_a_row": 0,
+  "in_a_row_limit": 10,
+  "retried_ok": 0,
+  "run_limit": 50,
+  "run_total": 6
+ },
+ "events": [
+  {
+   "reason": "container restarted at about 20:02 UTC (uptime 0 min at 20:09); the downloader process 2979 no longer exists (ps shows none); found at the 20:08 check-in; 2,226 bhavcopies and 127 holiday no-file entries done, failures 0, in a row 0",
+   "time": "2026-10-03T20:11:16+00:00",
+   "type": "lock_removed"
+  },
+  {
+   "detail": "container restarted at about 20:02 UTC (uptime 0 min at 20:09); the downloader process 2979 no longer exists (ps shows none); found at the 20:08 check-in; 2,226 bhavcopies and 127 holiday no-file entries done, failures 0, in a row 0",
+   "in_a_row": 0,
+   "reason": "process died",
+   "run_total": 0,
+   "status": null,
+   "time": "2026-10-03T20:11:16+00:00",
+   "type": "stop"
+  },
+  {
+   "label": "process died; resumed under owner's standing rule of 4 Oct",
+   "max_automatic_resumes": 3,
+   "owner_words": "Resume automatically, without asking me, only when all of these hold: the process died (machine restart, not a stop rule), NSE refused nothing (no 403 or 429), both failure counts are unchanged since the last check, and every file matches its sha256. Record it in the download log and the S3 report as \"process died; resumed under owner's standing rule of 4 Oct\". At most 3 automatic resumes in S3. A 4th restart, or any other problem, stops and asks me.",
+   "time": "2026-10-03T20:16:21+00:00",
+   "type": "standing_rule"
+  },
+  {
+   "after_stop": "process died",
+   "in_a_row": 0,
+   "owner_words": "Owner's answer in the session on 3 Oct 2026 (4 Oct IST) to 'Where should the download resume?': 'Resume here (Recommended)'",
+   "run_limit": 50,
+   "run_total": 0,
+   "text": "resumed on owner's instruction",
+   "time": "2026-10-03T20:16:21+00:00",
+   "type": "resume"
+  },
+  {
+   "lock_pid": 637,
+   "lock_started": "2026-10-03T20:16:21+00:00",
+   "reason": "second container restart: the machine booted at 20:50:40 UTC, after the downloader started at 20:16:21; last progress line 20:40:02; found at the 20:50 check-in; no python process exists; 3,559 of 6,428 requests done, every file matches its sha256; failures 0 in a row, 3 in the run (cash 2020-07-13 and F&O 2021-05-12: unusual zip layouts, F&O 2021-03-30: 404)",
+   "time": "2026-10-03T20:53:20+00:00",
+   "type": "lock_removed"
+  },
+  {
+   "detail": "second container restart: the machine booted at 20:50:40 UTC, after the downloader started at 20:16:21; last progress line 20:40:02; found at the 20:50 check-in; no python process exists; 3,559 of 6,428 requests done, every file matches its sha256; failures 0 in a row, 3 in the run (cash 2020-07-13 and F&O 2021-05-12: unusual zip layouts, F&O 2021-03-30: 404)",
+   "in_a_row": 0,
+   "lock_pid": 637,
+   "lock_started": "2026-10-03T20:16:21+00:00",
+   "reason": "process died",
+   "run_total": 3,
+   "status": null,
+   "time": "2026-10-03T20:53:20+00:00",
+   "type": "stop"
+  },
+  {
+   "reasons": [
+    "the failure counts changed since the last check (0/1 then, at 2026-10-03T20:34:03+00:00; 0/3 now)"
+   ],
+   "time": "2026-10-03T20:53:21+00:00",
+   "type": "auto_resume_refused"
+  },
+  {
+   "after_stop": "process died",
+   "in_a_row": 0,
+   "owner_words": "Owner's answers in the session on 3 Oct 2026 (4 Oct IST). To 'Where should the download resume?': 'Resume here, hold back the 3 failed dates (Recommended)'. To the question about F&O 2021-05-12 (the revised file): 'Yes, use it: it is NSE's own corrected file for that day. In MANIFEST.json and the S3 report, record both the zip name and the real file name inside it (fo12MAY2021bhav_revised.csv), marked \"NSE revised file\".'",
+   "run_limit": 50,
+   "run_total": 3,
+   "text": "resumed on owner's instruction",
+   "time": "2026-10-03T21:13:54+00:00",
+   "type": "resume"
+  },
+  {
+   "detail": "4 requests failed after their retries, first: https://nsearchives.nseindia.com/content/historical/EQUITIES/2020/JUL/cm13JUL2020bhav.csv.zip",
+   "in_a_row": 0,
+   "reason": "dates_failed",
+   "run_total": 4,
+   "status": null,
+   "time": "2026-10-03T22:04:45+00:00",
+   "type": "stop"
+  },
+  {
+   "after_stop": "dates_failed",
+   "in_a_row": 0,
+   "owner_words": "Owner's notes of 4 Oct 2026 (IST), verbatim. Note 1: \"2021-03-30 F&O file: when the run ends, request it once more. If it is still 404, mark 2021-03-30 as an excluded session with the reason \\\"F&O file missing from NSE's archive (404 on every attempt)\\\", recorded as my decision of 4 Oct in DATA_SPEC §6. Never fill it in from other days.\" Note 3: \"After the download, continue S3 to the end. My usage limit may run out partway, so after every finished step: commit and push both repos, and update PROGRESS.md with exactly where S3 is and what comes next.\" Earlier answer on F&O 2021-05-12: \"Yes, use it: it is NSE's own corrected file for that day.\" Claude's reading, for the owner to correct: cash 2020-07-13 is requested again under the same \"Resume here, hold back the 3 failed dates\" answer (its folder layout is now accepted); F&O 2023-02-13 (a new layout, folder fo13FEB2023bhav_revised.csv holding fo13FEB2023bhav.csv) is NOT requested again until the owner decides.",
+   "run_limit": 50,
+   "run_total": 4,
+   "text": "resumed on owner's instruction",
+   "time": "2026-10-03T22:06:17+00:00",
+   "type": "resume"
+  },
+  {
+   "detail": "2 requests failed after their retries, first: https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2021/MAR/fo30MAR2021bhav.csv.zip",
+   "in_a_row": 0,
+   "reason": "dates_failed",
+   "run_total": 5,
+   "status": null,
+   "time": "2026-10-03T22:07:34+00:00",
+   "type": "stop"
+  },
+  {
+   "after_stop": "dates_failed",
+   "in_a_row": 0,
+   "owner_words": "Owner's note 3 of 4 Oct 2026 (IST), verbatim: \"After the download, continue S3 to the end. My usage limit may run out partway, so after every finished step: commit and push both repos, and update PROGRESS.md with exactly where S3 is and what comes next.\" Claude's reading: steps that need no F&O file go on (symbol-change file, halt and holiday circulars, corporate actions); F&O 2023-02-13 stays held back until the owner decides.",
+   "run_limit": 50,
+   "run_total": 5,
+   "text": "resumed on owner's instruction",
+   "time": "2026-10-03T22:08:09+00:00",
+   "type": "resume"
+  },
+  {
+   "detail": "https://www.nseindia.com/: HTTP 403",
+   "in_a_row": 1,
+   "reason": "http_403",
+   "run_total": 6,
+   "status": 403,
+   "time": "2026-10-03T22:08:54+00:00",
+   "type": "stop"
+  },
+  {
+   "after_stop": "http_403",
+   "in_a_row": 0,
+   "owner_words": "Owner's answers of 4 Oct 2026 (IST), verbatim. On F&O 2023-02-13: \"Yes. And a standing rule for the rest of S3: accept any zip that holds exactly one CSV, with or without \\\"_revised\\\" in the folder or file name, as long as the trade date inside the file matches the date. Record the zip, folder and file names, marked \\\"NSE revised layout\\\", and list each one in S3 report §2. Anything else still stops.\" On www.nseindia.com: \"Do not retry www.nseindia.com from the cloud.\" This resume requests F&O 2023-02-13 once, from nsearchives only.",
+   "run_limit": 50,
+   "run_total": 6,
+   "text": "resumed on owner's instruction",
+   "time": "2026-10-04T05:17:16+00:00",
+   "type": "resume"
+  },
+  {
+   "from_stop": "2026-10-03T22:08:54+00:00",
+   "host": "www.nseindia.com",
+   "owner_words": "Owner's answer of 4 Oct 2026 (IST), verbatim: \"Do not retry www.nseindia.com from the cloud. Continue all offline steps now, as decision 3 says: halts stay UNVERIFIED (still excluded), holiday rows keep their source, the F&O membership check is \\\"pending (www.nseindia.com refused the cloud: 403)\\\", and corporate actions are \\\"not attempted\\\". All www.nseindia.com work (halt and holiday circulars, the F&O circular check, corporate actions) moves to one laptop session after the S3 pull requests are merged, before S6.\" The block follows from the 403 stop of 3 Oct 22:08:54 UTC; the resume of 4 Oct 05:17:16 UTC named nsearchives only.",
+   "status": null,
+   "time": "2026-10-04T06:56:47+00:00",
+   "type": "host_block"
+  },
+  {
+   "circular": "none found (no NSE circular exists for this row)",
+   "file": "nse_special_sessions.csv",
+   "key": "2015-11-11",
+   "reason": "source corrected: exchange_calendars is not in the repo; the evidence is NSE's own files (Wednesday, not on the holiday list, traded value 0.164 of a normal session); verified library -> data (review DIFF-20261004-14)",
+   "sha256": "e8686a0477986f1bdeb1a67c430bcfab00a65f20266e5424f40b0e958e55443a",
+   "time": "2026-10-04T07:08:21+00:00",
+   "type": "reference_edit"
+  },
+  {
+   "corrects": "2026-10-04T07:08:21+00:00",
+   "field": "circular",
+   "file": "nse_special_sessions.csv",
+   "new_text": "no circular searched yet: www.nseindia.com refused the cloud: 403; the laptop session searches for a circular for this session",
+   "old_text": "none found (no NSE circular exists for this row)",
+   "reason": "event 15 said no NSE circular exists for this row, but no search was made (www.nseindia.com refused the cloud at its first request); round 2 review DIFF-20261004-16",
+   "time": "2026-10-04T08:24:16+00:00",
+   "type": "reference_edit_correction"
+  },
+  {
+   "circular": "none",
+   "evidence": "orb-india-data commit f721bee (reference/nse_exclusions.csv, the 4 rows' source text)",
+   "file": "nse_exclusions.csv",
+   "key": "2017-07-10,2020-03-13,2020-03-23,2021-02-24",
+   "reason": "stop note added by hand at the 403 stop of 3 Oct 22:08:54 UTC: the circular search stopped and these 4 halt candidates were not searched (no circular searched yet); logged afterwards (review DIFF-20261004-16)",
+   "sha256": "9cb5d89c2548b828084ebb72e4479a583df4778c1ab0d98f2854124bce790041",
+   "time": "2026-10-04T08:24:19+00:00",
+   "type": "reference_edit"
+  }
+ ],
+ "failures": [
+  {
+   "attempts": 4,
+   "in_a_row": 1,
+   "reason": "bad reply: zip members ['cm13JUL2020bhav.csv/cm13JUL2020bhav.csv'], expected ['cm13JUL2020bhav.csv']",
+   "run_total": 1,
+   "seq": 1,
+   "status": 200,
+   "time": "2026-10-03T20:26:40+00:00",
+   "url": "https://nsearchives.nseindia.com/content/historical/EQUITIES/2020/JUL/cm13JUL2020bhav.csv.zip"
+  },
+  {
+   "attempts": 4,
+   "in_a_row": 1,
+   "reason": "HTTP 404",
+   "run_total": 2,
+   "seq": 2,
+   "status": 404,
+   "time": "2026-10-03T20:34:06+00:00",
+   "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2021/MAR/fo30MAR2021bhav.csv.zip"
+  },
+  {
+   "attempts": 4,
+   "in_a_row": 1,
+   "reason": "bad reply: zip members ['fo12MAY2021bhav_revised.csv/fo12MAY2021bhav_revised.csv'], expected ['fo12MAY2021bhav.csv']",
+   "run_total": 3,
+   "seq": 3,
+   "status": 200,
+   "time": "2026-10-03T20:36:18+00:00",
+   "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2021/MAY/fo12MAY2021bhav.csv.zip"
+  },
+  {
+   "attempts": 4,
+   "in_a_row": 1,
+   "reason": "bad reply: zip members ['fo13FEB2023bhav_revised.csv/fo13FEB2023bhav.csv'], expected ['fo13FEB2023bhav.csv']",
+   "run_total": 4,
+   "seq": 4,
+   "status": 200,
+   "time": "2026-10-03T21:27:42+00:00",
+   "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2023/FEB/fo13FEB2023bhav.csv.zip"
+  },
+  {
+   "attempts": 4,
+   "in_a_row": 1,
+   "reason": "HTTP 404",
+   "run_total": 5,
+   "seq": 5,
+   "status": 404,
+   "time": "2026-10-03T22:07:30+00:00",
+   "url": "https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2021/MAR/fo30MAR2021bhav.csv.zip"
+  },
+  {
+   "attempts": 1,
+   "in_a_row": 1,
+   "reason": "HTTP 403",
+   "run_total": 6,
+   "seq": 6,
+   "status": 403,
+   "time": "2026-10-03T22:08:54+00:00",
+   "url": "https://www.nseindia.com/"
+  }
+ ],
+ "version": 1
+}
