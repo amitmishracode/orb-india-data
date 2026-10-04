@@ -1,5 +1,275 @@
 {
  "files": {
+  "curated/calendar.parquet": {
+   "max_ts": "2026-09-30",
+   "min_ts": "2015-01-01",
+   "name": "calendar.parquet",
+   "notes": "S3 build; see reports/data/s3_report",
+   "rows": 3076,
+   "sha256": "b7d1927f321b40e6ef4f8b3b890f0d2fe9d448f8d1303b0e223fc26cbf24df3f",
+   "size_bytes": 21084,
+   "source": "derived from the NSE bhavcopies under raw/nse"
+  },
+  "curated/symbol_map.csv": {
+   "max_ts": "2026-07-01",
+   "min_ts": "2015-05-07",
+   "name": "symbol_map.csv",
+   "notes": "S3 build; see reports/data/s3_report",
+   "rows": 38,
+   "sha256": "cce326b47075478c3df98926db3b4fae404e8e31f25dac5fc541796d2d5e5763",
+   "size_bytes": 1722,
+   "source": "derived from the NSE bhavcopies under raw/nse"
+  },
+  "curated/universe.parquet": {
+   "max_ts": "2026-09-30",
+   "min_ts": "2015-01-01",
+   "name": "universe.parquet",
+   "notes": "S3 build; see reports/data/s3_report",
+   "rows": 533002,
+   "sha256": "a2efcc35968608ac954901026d69aeb004ecf6e4f310748c1d367d50136acebd",
+   "size_bytes": 6303259,
+   "source": "derived from the NSE bhavcopies under raw/nse"
+  },
+  "extract/nse/cm_eq_be_2015.parquet": {
+   "max_ts": "2015-12-31",
+   "min_ts": "2015-01-01",
+   "name": "cm_eq_be_2015.parquet",
+   "notes": "S3 build; see reports/data/s3_report",
+   "rows": 368375,
+   "sha256": "3206423258cfc87f9a5a04ab58b918e93775db82b629275a17cac2be7567874b",
+   "size_bytes": 10873585,
+   "source": "derived from the NSE bhavcopies under raw/nse"
+  },
+  "extract/nse/cm_eq_be_2016.parquet": {
+   "max_ts": "2016-12-30",
+   "min_ts": "2016-01-01",
+   "name": "cm_eq_be_2016.parquet",
+   "notes": "S3 build; see reports/data/s3_report",
+   "rows": 382015,
+   "sha256": "dc5cdc64da899866a37c880928cb76c5206c772e9a4ef8137709d632eeb7ca73",
+   "size_bytes": 11293739,
+   "source": "derived from the NSE bhavcopies under raw/nse"
+  },
+  "extract/nse/cm_eq_be_2017.parquet": {
+   "max_ts": "2017-12-29",
+   "min_ts": "2017-01-02",
+   "name": "cm_eq_be_2017.parquet",
+   "notes": "S3 build; see reports/data/s3_report",
+   "rows": 394612,
+   "sha256": "84d4954a6280142535465c26c034a5f54a242db3a81cbaf7ed34da11d9125a27",
+   "size_bytes": 11916954,
+   "source": "derived from the NSE bhavcopies under raw/nse"
+  },
+  "extract/nse/cm_eq_be_2018.parquet": {
+   "max_ts": "2018-12-31",
+   "min_ts": "2018-01-01",
+   "name": "cm_eq_be_2018.parquet",
+   "notes": "S3 build; see reports/data/s3_report",
+   "rows": 401775,
+   "sha256": "b50a7ec7de9759b9aba912a240adb295a471c26b01cb38d73261528c6e35a780",
+   "size_bytes": 12211068,
+   "source": "derived from the NSE bhavcopies under raw/nse"
+  },
+  "extract/nse/cm_eq_be_2019.parquet": {
+   "max_ts": "2019-12-31",
+   "min_ts": "2019-01-01",
+   "name": "cm_eq_be_2019.parquet",
+   "notes": "S3 build; see reports/data/s3_report",
+   "rows": 401795,
+   "sha256": "d6c1e89962e418c27b2d97719116554f9459bf37fa39680c00192050d45795d7",
+   "size_bytes": 11974032,
+   "source": "derived from the NSE bhavcopies under raw/nse"
+  },
+  "extract/nse/cm_eq_be_2020.parquet": {
+   "max_ts": "2020-12-31",
+   "min_ts": "2020-01-01",
+   "name": "cm_eq_be_2020.parquet",
+   "notes": "S3 build; see reports/data/s3_report",
+   "rows": 418260,
+   "sha256": "4632a04ac2b2384c30f28303f6a69e94c566f6e6e4d0a14e69a6672abb9e639c",
+   "size_bytes": 12576000,
+   "source": "derived from the NSE bhavcopies under raw/nse"
+  },
+  "extract/nse/cm_eq_be_2021.parquet": {
+   "max_ts": "2021-12-31",
+   "min_ts": "2021-01-01",
+   "name": "cm_eq_be_2021.parquet",
+   "notes": "S3 build; see reports/data/s3_report",
+   "rows": 435935,
+   "sha256": "f64c32eef1d602cd75fee5c2193042d4d01b9abff956dc044ad9066eec8a7dfe",
+   "size_bytes": 13805891,
+   "source": "derived from the NSE bhavcopies under raw/nse"
+  },
+  "extract/nse/cm_eq_be_2022.parquet": {
+   "max_ts": "2022-12-30",
+   "min_ts": "2022-01-03",
+   "name": "cm_eq_be_2022.parquet",
+   "notes": "S3 build; see reports/data/s3_report",
+   "rows": 475049,
+   "sha256": "ce8f6bb8e861cdcd428cc42fc8550c7650438ba87fd6afa503c93c1501e5be5b",
+   "size_bytes": 14806487,
+   "source": "derived from the NSE bhavcopies under raw/nse"
+  },
+  "extract/nse/cm_eq_be_2023.parquet": {
+   "max_ts": "2023-12-29",
+   "min_ts": "2023-01-02",
+   "name": "cm_eq_be_2023.parquet",
+   "notes": "S3 build; see reports/data/s3_report",
+   "rows": 499500,
+   "sha256": "aede8316f34ac237e09b30cbc6a8081be428e1b303c94005edb141d1643483bd",
+   "size_bytes": 15326789,
+   "source": "derived from the NSE bhavcopies under raw/nse"
+  },
+  "extract/nse/cm_eq_be_2024.parquet": {
+   "max_ts": "2024-12-31",
+   "min_ts": "2024-01-01",
+   "name": "cm_eq_be_2024.parquet",
+   "notes": "S3 build; see reports/data/s3_report",
+   "rows": 541540,
+   "sha256": "76cef1b0cc100020736d0cb878fe1b3676a9c0e9490201c3e22ceb1be66cf20d",
+   "size_bytes": 17472881,
+   "source": "derived from the NSE bhavcopies under raw/nse"
+  },
+  "extract/nse/cm_eq_be_2025.parquet": {
+   "max_ts": "2025-12-31",
+   "min_ts": "2025-01-01",
+   "name": "cm_eq_be_2025.parquet",
+   "notes": "S3 build; see reports/data/s3_report",
+   "rows": 586998,
+   "sha256": "cdc97f172967978bebf0938de07c63974c595de337b50f0c380cc72c2c197cc5",
+   "size_bytes": 18640740,
+   "source": "derived from the NSE bhavcopies under raw/nse"
+  },
+  "extract/nse/cm_eq_be_2026.parquet": {
+   "max_ts": "2026-09-30",
+   "min_ts": "2026-01-01",
+   "name": "cm_eq_be_2026.parquet",
+   "notes": "S3 build; see reports/data/s3_report",
+   "rows": 490397,
+   "sha256": "3f9e5f68c00bae85ae37e3b99ac36fec18395725336d359834404fbc7b02b8a6",
+   "size_bytes": 15594048,
+   "source": "derived from the NSE bhavcopies under raw/nse"
+  },
+  "extract/nse/fo_futstk_2015.parquet": {
+   "max_ts": "2015-12-31",
+   "min_ts": "2015-01-01",
+   "name": "fo_futstk_2015.parquet",
+   "notes": "S3 build; see reports/data/s3_report",
+   "rows": 114247,
+   "sha256": "963210c9b666aa838ee6a83f47de34ff11caeca026524507768e18672757b6f3",
+   "size_bytes": 21790,
+   "source": "derived from the NSE bhavcopies under raw/nse"
+  },
+  "extract/nse/fo_futstk_2016.parquet": {
+   "max_ts": "2016-12-30",
+   "min_ts": "2016-01-01",
+   "name": "fo_futstk_2016.parquet",
+   "notes": "S3 build; see reports/data/s3_report",
+   "rows": 127422,
+   "sha256": "4db5d54bd6fb7cb50f92f88eef30d2f981528dae30391029058c754a784f1dc0",
+   "size_bytes": 23976,
+   "source": "derived from the NSE bhavcopies under raw/nse"
+  },
+  "extract/nse/fo_futstk_2017.parquet": {
+   "max_ts": "2017-12-29",
+   "min_ts": "2017-01-02",
+   "name": "fo_futstk_2017.parquet",
+   "notes": "S3 build; see reports/data/s3_report",
+   "rows": 148809,
+   "sha256": "eb1ece674af7217d9a02666e27a04cce48e3fc18e6e96cf2f1b15a3bdff50f24",
+   "size_bytes": 28225,
+   "source": "derived from the NSE bhavcopies under raw/nse"
+  },
+  "extract/nse/fo_futstk_2018.parquet": {
+   "max_ts": "2018-12-31",
+   "min_ts": "2018-01-01",
+   "name": "fo_futstk_2018.parquet",
+   "notes": "S3 build; see reports/data/s3_report",
+   "rows": 151874,
+   "sha256": "68e1cedf807d931f5aab34009adbc685012b36aea560eea6dec6a8916c612080",
+   "size_bytes": 28656,
+   "source": "derived from the NSE bhavcopies under raw/nse"
+  },
+  "extract/nse/fo_futstk_2019.parquet": {
+   "max_ts": "2019-12-31",
+   "min_ts": "2019-01-01",
+   "name": "fo_futstk_2019.parquet",
+   "notes": "S3 build; see reports/data/s3_report",
+   "rows": 125735,
+   "sha256": "65c99b5a1603254843ba7923d99439a22f44aeadee03f3ecbc8228eff93c2175",
+   "size_bytes": 27859,
+   "source": "derived from the NSE bhavcopies under raw/nse"
+  },
+  "extract/nse/fo_futstk_2020.parquet": {
+   "max_ts": "2020-12-31",
+   "min_ts": "2020-01-01",
+   "name": "fo_futstk_2020.parquet",
+   "notes": "S3 build; see reports/data/s3_report",
+   "rows": 105219,
+   "sha256": "0fea1cd9e6f0440678f39c75dc82ec855d9064d61573d56d6f02e7eb666abd13",
+   "size_bytes": 21549,
+   "source": "derived from the NSE bhavcopies under raw/nse"
+  },
+  "extract/nse/fo_futstk_2021.parquet": {
+   "max_ts": "2021-12-31",
+   "min_ts": "2021-01-01",
+   "name": "fo_futstk_2021.parquet",
+   "notes": "S3 build; see reports/data/s3_report",
+   "rows": 121125,
+   "sha256": "ec90cef3e24d2b907c80d1c24cbb5d2a906fdfbad743b6a8746057f6dfd3c322",
+   "size_bytes": 22971,
+   "source": "derived from the NSE bhavcopies under raw/nse"
+  },
+  "extract/nse/fo_futstk_2022.parquet": {
+   "max_ts": "2022-12-30",
+   "min_ts": "2022-01-03",
+   "name": "fo_futstk_2022.parquet",
+   "notes": "S3 build; see reports/data/s3_report",
+   "rows": 145507,
+   "sha256": "1b02c155a7be1985708b1cbb696364faaa486f3d98ebf289ac6dbf5aaa62979f",
+   "size_bytes": 27804,
+   "source": "derived from the NSE bhavcopies under raw/nse"
+  },
+  "extract/nse/fo_futstk_2023.parquet": {
+   "max_ts": "2023-12-29",
+   "min_ts": "2023-01-02",
+   "name": "fo_futstk_2023.parquet",
+   "notes": "S3 build; see reports/data/s3_report",
+   "rows": 137416,
+   "sha256": "8da5c1e76dab2fb1909f36ad98125f120122b3a903e84a6961f9885a6a5006b0",
+   "size_bytes": 25680,
+   "source": "derived from the NSE bhavcopies under raw/nse"
+  },
+  "extract/nse/fo_futstk_2024.parquet": {
+   "max_ts": "2024-12-31",
+   "min_ts": "2024-01-01",
+   "name": "fo_futstk_2024.parquet",
+   "notes": "S3 build; see reports/data/s3_report",
+   "rows": 137820,
+   "sha256": "3feaecefd76ea7fb377966fc2493194c8ec0c3466825b526b63bf8761d839026",
+   "size_bytes": 26556,
+   "source": "derived from the NSE bhavcopies under raw/nse"
+  },
+  "extract/nse/fo_futstk_2025.parquet": {
+   "max_ts": "2025-12-31",
+   "min_ts": "2025-01-01",
+   "name": "fo_futstk_2025.parquet",
+   "notes": "S3 build; see reports/data/s3_report",
+   "rows": 158420,
+   "sha256": "e697b87cd9e1f2c7a1c840f83fc2018a3dc06de5b7cce6a10eae9e345df23744",
+   "size_bytes": 42033,
+   "source": "derived from the NSE bhavcopies under raw/nse"
+  },
+  "extract/nse/fo_futstk_2026.parquet": {
+   "max_ts": "2026-09-30",
+   "min_ts": "2026-01-01",
+   "name": "fo_futstk_2026.parquet",
+   "notes": "S3 build; see reports/data/s3_report",
+   "rows": 115389,
+   "sha256": "3ce913ea61c8ad9e52d68f210dac904a983b433c892a25b4f87bbe808500cb6a",
+   "size_bytes": 23682,
+   "source": "derived from the NSE bhavcopies under raw/nse"
+  },
   "raw/nse/cm_bhavcopy/2015/cm01APR2015bhav.csv.zip": {
    "downloaded_at": "2026-10-03T19:24:35+00:00",
    "host": "nsearchives.nseindia.com",
